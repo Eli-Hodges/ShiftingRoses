@@ -1,91 +1,109 @@
-<p><strong><em><span style="font-size:115%"> Welcome to Vanderlin! </span></em></strong></p>
-<p> This lore primer serves as an introduction to Vanderlin's lore and world. <br>
-While it's not required reading, leadership roles may find this information useful to roleplay their positions. This, or anyone else interested in playing a character with more knowledge about the setting. Not all information is available here, and some secrets still lie within item descriptions, inscriptions, or booklets- it's a primer, not a compendium. </p>
+<p><strong><em><span style="font-size:115%"> Welcome to the land of Shifting Roses! </span></em></strong></p>
+<p> This lore primer will introduce you to basic concepts and lore regarding the Shifting Roses world. <br>
+While it's not required reading, leadership roles may find this information useful, and all information here will be helpful in fleshing out any character you may wish to create. </p>
 <hr>
-<strong><span style="font-size:105%"> Some quick vocabulary/concepts important to the setting: </span></strong>
-<p><strong> Psydonia </strong> - The world Vanderlin takes place in, named after its creation god, Psydon. It is currently the year 2515 after His death. </p>
-<p><strong> Faience </strong> - The continent Vanderlin takes place in. Shaped by His hand. </p>
-<p><strong> Lux </strong> - The core link of divinity a person holds; the soul. A sliver of Psydon present within each species touched at one point by divine hand. It is said that it carries the power of a single, focused miracle of life- yet its removal dooms a soul never to pass into the underworld. </p>
+<strong><span style="font-size:105%"> The most important aspects you may want to know: </span></strong>
+<p><strong> New Palmos </strong> - The city in which you will play and live in. Run by a council of Senators who answer directly to its founder, the Doge. </p>
+<p><strong> Temporal Lands </strong> - The land in which New Palmos is located, and ever shifting world seemingly never the same between weeks which has baffled explorers for hundreds of years. </p>
+<p><strong> Soul </strong> - In this world, every living thing from a person to a flower has a spiritual manifestation of their living essence. A Soul which can be tapped into to harness ones own power, or be used by others for their own personal gain. A Soul is both a spiritual, and physical part of a person which can be ripped out of them or destroyed entirely. </p>
 <hr>
 
 <details>
-	<summary><strong><span style="font-size:130%"> AREAS OF FAIENCE </span></strong></summary>
+	<summary><strong><span style="font-size:130%"> AREAS OF THE THREE CONTINENTS </span></strong></summary>
 
 
 
-	<p><strong>  Isle of Enigma </strong><em> - "Once the trade center of the world, now a festering cancer of spilled oil, shrapnel, and bomb-shattered soil."  </em>
+	<p><strong>  Siluchi Isles </strong><em> - "A group of islands of varying sizes, directly off of the coast of the Starlight Bay. The isles are home to a slew of multiple different city states, giving the entire area the nickname of the 'Free States Isles'"  </em>
 	<br></p>
 
 	<details>
 		<summary><em> Points of Interest </em></summary>
 
-		<p><strong> - Town of Rockhill </strong><br>  A once-bustling trade center colloquially known as Roguetown. Now a warzone, the last-standing settlement against the armada of automatons. </p>
-		<p><strong> - Kingdom of Heartfelt </strong><br>  The prosperous head of technological progress within the Isle of Enigma, experiencing disaster as their automaton constructions turn against them and ravage their lands.  </p>
+		<p><strong> - Pulse of the Sea </strong><br> The center point of the straits which seperate the Three Continents, trade and movement between it is almost entirely controlled by the City States.</p>
+		<p><strong> - Library of Ilonzo </strong><br>  Located within the City State of Merona, it is the largest known gathering of knowledge within  </p>
 	</details>
 	<br>
 
 
-	<p><strong>  Peninsula of Vanderlin </strong><em> - "The new trade capital of the world."  </em></p>
+	<p><strong>  Hearthshire </strong><em> - "The Eastern Continent, and the home to most Sapien races. Hearthshire has seen kingdoms rise and fall, and the land bares the scars of over a thousand years of conflict."  </em></p>
 
 	<details>
 		<summary><em> Points of Interest </em></summary>
 
-		<p><strong> - City of Vanderlin </strong><br> A canyon settlement on a nearby peninsula to the East of the Isle of Enigma. Reaping the boons of both, Vanderlin is a city of trade and prosperity. Built over the first-discovered opening to the Tomb of Matthios, it attracts adventurers from all over Psydonia to delve within and seek fortune.  </p>
-		<p><strong> - County of Daftmarsh </strong><br> A thrice-sunken castle, now a town-on-stilts built from its ruins. Daftmarsh guards the river delta directly North of Vanderlin. It often serves as a safe cove for pirates, providing Vanderlin merchant ships safe passage in exchange for the Crown's averted eyes. </p>
-		<p><strong> - Mire of the Terrorbog </strong><br> A fertile and marshy area of the peninsula, overgrown and suffering an invasion of beespiders.  </p>
-		<p><strong> - Shire of Murderwood </strong><br> Ancestral Forest bearing many glades, overrun by villains, knaves, and other lawlessness. A testament to Dendor's madness, its constant-shifting thicket stretches across Western Vanderlin. </p>
-		<p><strong> - Malum's Anvil </strong><br> A jagged mountain filled with ores, treasures, and lava. Likewise a cacophony of horrid goblins, beasts, and other misfortunes. The crater of Astrata's fallen shard still scars its peak. </p>
+		<p><strong> - Seat of Radiance </strong><br> The capitol of Solaros' Grand Domain, and the origin of the Dual Pantheon. It rests upon the crest of Starlight Bay, which oversees the City States Isles.  </p>
+		<p><strong> - Taggarth Mountains </strong><br> A massive mountain range completely covering Hearthshires southeastern coast. The birthplace of Mountain Dwarves and Gnomes. </p>
+		<p><strong> - Mire of the Terrorbog </strong><br> A fertile and marshy strip of land seperating the lands of Solaros' Grand Domain and the Black Kingdom of Grenzelhoft. Its mere existence has prevented many a bloody battle.  </p>
+		<p><strong> - River Rhoul </strong><br> A massive river jutting from west to east, cutting into the heart of Hearthshire. Rhoul Valley centers around it, and is the most fertile land within the continent. </p>
+		<p><strong> - Malum's Anvil </strong><br> A jagged mountain filled with ores, treasures, and lava. Mountain Dwarves believe that their God of War rests underneath. </p>
+	</details>
+		<p><strong> - Sylvi Glades </strong><br> Large forests dotting the northern areas of Hearthshire, before the Tundras of Wintermare, and connected to the Necral Forests. Still not entirely explored to this day. </p>
+	</details>
+		<p><strong> - Field of Shame </strong><br> A large battlefield, left untouched to time. Said to have been the location where the God of War struck down the newly ascended Kerack to save Grenzelhoft. </p>
 	</details>
 	<br>
 
 
-	<p><strong>  Kingsfield  </strong><em> - "The pride of humenity. Crown of Psydonia"	</em></p>
-
-	<details>
-		<summary><em> Points of Interest </em></summary>
-
-		<p><strong> - City of Kingsfield </strong><br>  Massive city built upon temperate forests far, far North to the Isle of Enigma. Kingsfield is the most prosperous and populated city of the world, not to mention the major cultural export. It is not to be confused with the state, Kingsfield, which encompasses it. Kingsfield rail systems span all across Western Faience, of no small part due to Heartfeltian artificers' effort. </p>
-	</details>
-	<br>
-
-
-	<p><strong>  Tundras of Wintermare </strong><em> - "The largest humen-accepted elven territory, though most land is covered in tough permafrost."  </em></p>
+	<p><strong>  Tundras of Wintermare </strong><em> - "The northern lands, considered to spread across both Hearthshire to the East and Gorogomn to the West."  </em></p>
 
 	<details>
 		<summary><em>Points of Interest</em></summary>
 
-		<p><strong> - City of Rosewood </strong><br> The capital of the Wintermare Empire, located near its Southeastern inland sea. Houses world-reknown Noccian academies, it is widely considered the magic capital of the world. </p>
-		<p><strong> - White Palace Pass </strong><br> One of few passageways through The Howling Mountains between Grenzelhoft and Rosewood. A place of great tension and prior conflict. </p>
+		<p><strong> - City of Rosewood </strong><br> The capital of the Kingdom of Helmsmore on Hearthshire. Housing an impressive display of technological advancements combined with their magical academies makes it one of the premier locations for would-be scholars and up and coming artificers. </p>
+		<p><strong> - White Palace Pass </strong><br> One of few passageways through The Howling Mountains between the Duchy of Crecy and the northern tundras. Considered dangerous and generally inhospitable. </p>
 		<p><strong> - Noc's Crown </strong><br> A towering peak hiding ruins of past civilization.  </p>
-		<p><strong> - Morvael Sink </strong><br> A frigid marsh. Old temples to Zizo lie in ruin.  </p>
+		<p><strong> - Northern Tundras </strong><br> The icy sheets and plateaus of the northern lands. Completely inhospitable, only the brave or foolish try to go here.  </p>
 		<p><strong> - Snowdust Glade </strong><br> An enchanted forest bearing the dangers of unchecked fae and abandoned summons.  </p>
 	</details>
 	<br>
 
-	<p><strong>  Necral Forests </strong><em> - "Ancestral forests scattered around Psydonia. The ancient homes of the elves." </em></p>
+	<p><strong>  Necral Forests </strong><em> - "Ancestral forests connected to Sylvi Glades, residing in the northeast of Hearthshire directly north of Tyva Bay. Said to be the home of the Elves." </em></p>
 
 	<details>
 		<summary><em> Points of Interest </em></summary>
 
-		<p><strong> - Amber Hollow </strong><br> At the center of the Northwestern Redwoods, a ring of gnarled, interlaced roots sits atop a great earthen mound. Within which lies the largest Western entrance to Subterra. Escaped hollowkin experiments, and later harpies, call this settlement their home. Almost all hollowkin can trace their ancestry back to this maw. While hostile to outsiders, this serves as a major point of defense against dark elven forces. </p>
-		<p><strong> - The Tree of Psydonia </strong><br> A great sequoia dwarfing all others, located far Northwest of Amber Hollow. It is said to be a memorial created by Psydon Himself to honour Necra's original death. Elves revere this landmark, despite its unsettling, skull-like bark.  </p>
+		<p><strong> - Amber Hollow </strong><br> A ring of gnarled, interlaced roots sitting atop a great earthen mound. Within which lies the largest entrance to Subterra on all of Hearthshire. Escaped hollowkin experiments, and later harpies, call this settlement their home. Almost all hollowkin can trace their ancestry back to this maw. Generally hostile to most outsiders. </p>
+		<p><strong> - The Tree of Underlife </strong><br> A great sequoia dwarfing all others, located far Northwest of Amber Hollow. It is said to be a memorial created by Sol themselves to honour the Goddess of Underlife. Elves revere this landmark, despite its unsettling, skull-like bark. </p>
 	</details>
 	<br>
 
-	<p><strong>  The Barrows </strong><em> - "Former boreal forests called home by the snow elves, now a deadland of ruin and decay following the ascension of Zizo. Home to the great war front against her undead armies." </em></p>
+	<p><strong>  Gorogomn </strong><em> - "The Western Continent. Riddled with forests and lined with a massive plains in the center with which the Orgi Union based themselves upon." </em></p>
 
 	<details>
 		<summary><em> Points of Interest </em></summary>
-		<p><strong> - The Realm of Z </strong><br> The northern parts of The Barrows are colloquially known as 'The Realm of Z' due to her nigh-complete control. Few, if any, survivors remain- though rumours circulate that a last bastion settlement in the Northern, mountainous frostlands presses on despite all odds.  </p>
-	</details>
+		<p><strong> - Beak of Gendeni</strong><br> A massive, faintly curved valley dug into the center of the Denor Plains. The capital of the Orgi union resides within this valley, and it is the economic and cultural capital of the continent. Massive towers line the edges where the Orcs use blimps for transport across the plains. </p>
+		<p><strong> - Denor Plains</strong<br> The wide swathe of shrubland which dominates the center of the continent. Multiple settlements dot its landscape. Immensely fertile, and also immensely dangerous. Home of Orcs, Goblins, and Plains Dwarves.</p>
+		<p><strong> - Juwzlic Mountains</strong<br> A massive range of mountains which completely seperates a small portion of the southern continent from the rest of it.</p>
+		<p><strong> - Aldric's Peninsula</strong<br> Located on the north eastern part of the continent, just short of the entrance to the Northern Tundras, it hosts a reclusive gathering of humans known as the Northmen. </p>
+		<p><strong> - Far-Away Valley</strong<br> Cut off via Juwzlic Mountains from the rest of the continent, it is a fertile yet relatively uninhabited stretch of land. The City-States maintain a single trading port, with which they have based operations towards the colonization of the Temporal Lands.</p>
+		</details>
 	<br>
 
-	<p><strong>  Subterra </strong><em> - "A vast cave system underground with its own unique biosphere of hostile flora and fauna. It once housed an ancient empire of Ravoxian dark elves, but now serves as the conquered core of Zizo's evil matriarchy." </em></p>
+		<p><strong>  Temporal Isles </strong><em> - "Also known as the Temporal Lands, or 'Death Islands', residing west of Gorogomn, their exploration and discovery have been the subject of many expeditions for hundreds of years." </em></p>
+			<details>
+		<summary><em> Points of Interest </em></summary>
+		<p><strong> - New Palmos</strong><br> The only long standing settlement within the Temporal Islands, located on the closest isle only a few nautical miles from the coatline of the Far-Away Valley. It has survived the harsh and strange conditions of the Isles whereas countless other attempts to form a colony on it have failed. It is belovedly nicknamed the Rosa Cangiante, or the 'Shifting Rose', for its flag which appears to shift and change in the wind. It is the main setting of Shifting Roses. </p>
+		</details>
+
+	<p><strong>  Subterra </strong><em> - "A vast cave system underground with its own unique biosphere of hostile flora and fauna. It connects all three continents, and is ruled by the conflicting empires of the Dark Elves and Stone Dwarves." </em></p>
 
 	<details>
 		<summary><em> Points of Interest </em></summary>
 
-		<p><strong> - Zizo's Claw Marquisate </strong><br> Located below Amber Hollow, marking the farthest West reach of Subterran caverns. Serves as a forward operations base for dark elven forces and slaves as they prepare yet another attempt at breaching the surface.  </p>
+		<p><strong> - Zizo's Claw Marquisate </strong><br> Located at the furthest westernmost reaches of Subterra, by Gorogomn, it is the seat of the Dark Elven Kingdom in the Subterra. Very little is known about it, besides that the Dark Elves don't allow anyone within. </p>
+		<p><strong> - Malum's Anvil Underground </strong><br> Underneath Malum's Anvil located on Hearthshire. Sacred grounds to the Stone Dwarves. </p>
+		<p><strong> - Gnarled Fangs </strong><br> The twisted paths leading from Hearthshire to Alur are noted to be particularly difficult to traverse, and are home to some of the most violent fauna. </p>
+		<p><strong> - Stonehold </strong><br> Main Kingdom of the Stone Dwarves. It resides just underneath Solaros' Grand Domain, and is a natural ally of the Domain. </p>
+		</details>
+	<br>
+
+	<p><strong>  Alur </strong><em> - "The Southern Continent. Noted for its vast valley of fertile land which cuts through the western part of the continent thanks to the large basin and massive river, it is home to a wide range of tribal cultures and people, and only one major faction." </em></p>
+
+	<details>
+		<summary><em> Points of Interest </em></summary>
+
+		<p><strong> - Evviva's Basin </strong><br> A massive drainage basin located in the north western regions of the continent and flowing southward. The Capital of the Wulisan Empire is located on a large island in between the rivers of the basin. </p>
+		<p><strong> - Torki River </strong><br> The massive river flowing through the continent, creating the largest single stretch of farmland in the known continents. The Empire of Wulisia relies heavily upon its exports of food from these farms. </p>
+		<p><strong> - Forests of Beyond </strong><br> A vast expanse of forests located throughout the eastern lands. Notable for the 'Fingers of Terra', massive redwood trees spanning hundreds of feet high. </p>
 		</details>
 	<br>
 
@@ -94,55 +112,68 @@ While it's not required reading, leadership roles may find this information usef
 
 
 <details>
-	<summary><strong><span style="font-size:130%"> FACTIONS OF FAIENCE </span></strong></summary>
+	<summary><strong><span style="font-size:130%"> FACTIONS OF THE THREE CONTINENTS </span></strong></summary>
 	<br>
 	<strong><span style="font-size:115%"> MAJOR POWERS </span></strong>
 	<br><br>
 	<details>
-		<summary><strong> KINGSFIELD EXPANSE </strong></summary>
+		<summary><strong> Solaros' Grand Domain </strong></summary>
 		<br>
-		<em>The Crown of Psydonia</em>
+		<em>The Suns Own</em>
 		<br><br>
-		Kingsfield spans along the Northwest of Faience, housing the cultural center of the world in its massive cities and impressive population. Unlike many of the other humen-majority populations, its inhabitants and history are defined by kindness rather than conquest. A certain demographic of Kingsfieldians are identifiable by their odd pronunciation of certain Imperial words and inclusion of 'eh?' after a comment or question. Species from all over the world would visit and establish themselves within these cities, including a non-insignificant population of dark elves before Zizo's conquest. They are, perhaps, the most tolerant of half-drow as a result- and as such are subject to mockery by the rest of Faience.
+		Located in the southern part of Hearthshire, Solaros' Grand Domain is arguably the single most powerful political entity in the known world. Almost all peoples use the Solar Calendar, canonized by the Sunlight Temple during the year 0SC, and the Trimvirate Pantheon is widely considered to be the 'defacto' religion of the Three Continents. The people of Solaros' Grand Domain are known to be steadfast, loyal, and deeply faithful to their patrons and their people. It is one of the most diverse factions within the Three Continents, and in spite of being founded by Humans during the times before the Solar Calender, Humans no longer remain the majority figure within the Domain. Its notable tolerance towards all people of all walks of life, and good standard of living for even the lowest class, makes it the most popular migrational destination to anyone seeking a new life. With the end of the Fourth Solarian/Grenzelhoftian War, Solaros' Grand Domain found itself rebuilding most of its more northern territories, a process which has taken up most of its concerns for the past few years.
 		<br><br>
-		Kingsfield's prominence was built from tactical allyship and infrastructure development through industrialization. Through close cooperation with Heartfelt, Kingsfield railways span across the Western side of the entire continent, stretching from the tip of Kingsfield's tundras to the bottom of Vanderlin's peninsula. Kingsfield's population, notable in arts and culture worldwide, is of course largely Eoran and Xylixian in patronage; however, scholars of Noc account for a close third.
+		The Grand Domain's prominence was built from tactical allyship, and a willingness to embrace industrialization. Through close cooperation with Stonekeep, railways have connected almost the entirety of Grand Domain lands to one another, allowing for unprecedented connection and reach between its peoples. It holds both a deep friendship with the Dwarves of Stonekeep, and additional friendship with many of the Isle City States. Its main god is Sol, but worship of every diety of the Pantheon is welcomed within the Domain. Its capital is located within the shores of the Bay of Stars. People from Solaros' Grand Domain are generally called Solaros' People, or Domainers.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> EMPIRE OF WINTERMARE </strong></summary>
+		<summary><strong> The City States </strong></summary>
 		<br>
-		<em>Noc's Embraced, The Elven Empire, The Arcyne Tundra</em>
+		<em>Land of Riches, the Isle City States, the Pulse of the Continents</em>
 		<br><br>
-		Wintermare is the largest elven power in Psydonia, often the only territory marked on humen maps. Unfortunately, most of its territory is covered in unusable Northern permafrost despite its size. Nevertheless Wintermare remains incredibly influential, with most of its Southern cities producing renown magicians and Noccian scholars. Kingsfieldian rail links along the Southern mountain ranges, providing vital resources to an otherwise tense border zone between the elven empire and Grenzelhoft below.
+		The City States are not a single political entity, but rather a collection of independent republics which span the large islands broken off from the Bay of Stars, in what many believe to have been a star landing upon Terra some thousands of years ago. These republics, while nominally working together with one another, have had their fair share of spats, skirmishes, and otherwise blood disagreements in the many years of their existence. However no quarrel lasts long, and the City States are broadly considered to be a single entity within the political spectrum. Many isles with which the city states reside rest in the center of the straits which seperate the three continents. This has made the City States the global center for trade and commerce between all factions, while also making it a cultural, intellectual, and artistic powerhouse. 
 		<br><br>
-		Abandoned settlements and ghost towns along the border of Wintermare stand as graves and memorials to wars and genocides of the past. What populated locations remain are riddled with discarded and potentially active weapons of war. What don't... after Zizo's rise, no one goes there anymore.
+		The City States have had the good fortune of being able to profit off of nearby wars without ever taking part of them due to their impressive array of Mercenaries. All City States field a number of Pavise Crossbowmen, which have long been a staple purchase for Domainer Armies seeking to augment their ranged capabilities. Espardo Duelists, Silucian Sergeants, and Veronian Montate are all hired individually as bodyguards or as small groups to augment armies. There is no singular god worshiped above any other within the City States. People from the City States are usually called City Staters, Statesmen, or Republicans. Some may also be called by their individual City State name, such as Esparian, Deonian, or Veronian.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> GRENZELHOFT IMPIRATE </strong></summary>
+		<summary><strong> Grenzelhoft Empire </strong></summary>
 		<br>
-		<em>The Black Empire, The Empty Throne, Empire of the Trident</em>
+		<em>The Black Empire, The Empty Throne, Empire of War</em>
 		<br><br>
-		Grenzelhoft is an imperialist state carved across the Northeast of Faience through political upheaval and military action. They are known mainly for their striking cuisine, honourable, loyal mercenaries, and their overwhelming monopoly over black powder. Despite a largely humen-supremacist culture, dwarves are embraced and regarded as the friends and builders of Psydon's vision.
+		Grenzelhoft is an imperialist state carved across the center of Hearthshire, from coast to coast. Its founding is shrouded in mystery, and nobody knows the true story of what brought about the Black Empire. What isn't under doubt however, is the sheer force of might Grenzelhoft fields within its lands. Grenzelhoft is a military empire where the rule is passed down not to sons or daughters, but to the General most deserving to oversee the Empire. All individuals who come of age are required to spend at least two years in service of either their local county militia, or within one of its many Free Companies. This has led Grenzelhoft to field the largest and most professional armies within the world, having defeated every neighbor they have at least once prior, including the Dukedom of Camrey, the Kingdom of Helmsmore, and Solaros' Grand Domain.
 		<br><br>
-		Grenzelhoftians proudly assimilate all humens who come under their heel into their Empire, integrating local and cultural identities into their fold before crushing them in favour of their own. Grenzelhoft bears the largest armies in the world and incredible military might, which come under vast scrutiny and disgust as they become increasingly desperate to upkeep their power. Their history is defined by crusades, elven genocide, and general aggression in the supposed name of Psydon and His return to the throne. Orthodox Psydonism is the dominant religion. Critics and pagans are persecuted.
+		Grenzelhoftians proudly assimilate all willing to come and serve, cultures and religions mean little to the Black Empire besides your physical capabilites, unless you are a worshiper of the Worldeaters. Kerack worshipers are put to death on the spot. Besides that, with a blade in your hand you'll be welcome to the Grenzelhoftian cause. Their history is defined by war, death, and destruction, for their armies are known to give no mercy. Ilia, Goddess of War and Fertility, is their main god, and in spite of their tolerance towards The Triumvirate Pantheon, worship of Sol can find one with a sideways glance given their long history with Solaros' Grand Domain.
 		<br><br>
-		Their people cannot remember a time when the Empire was not at war, and many have served within its military forces to escape the intense poverty of its lower-class. A world-scale conflict between Grenzelhoft and its neighbours was narrowly avoided in the early 2100s by the rise of a new common enemy: Zizo. Grenzelhoft's forces, explosives, and firearms now supply the Eastern front with vital support under the explicit command of Grenzelhoft's cabal of sun-averse counts and countesses.
+		With the end of the 4th Solarian/Grenzelhoftian war, Grenzelhoft has had been rebuilding some of its southern territories, and recovering from the loss of their Emperor and many of their highest generals due to the last battle of the war, which saw them wiped from the fields of the Grand Domain by an inferior force due to tactics never seen before. While the war was generally considered a stalemate, the bitter sting of the final defeat hasn't left the hearts of the nobility, and while most of the Free Companies move to offer their services as Mercenaries elsewhere, some consider it only a matter of time before war falls upon the Black Empire once more.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> ZALADIN DYNASTY </strong></summary>
+		<summary><strong> Wilusian Dynasty </strong></summary>
 		<br>
-		<em>The Red Sands, Empire of the Dunes, Merchants of the Pasha</em>
+		<em>The Breadbasket of Alur, Empire of the Rivers, Merchants of the Pasha</em>
 		<br><br>
-		A grand-spanning, mercantilist empire which found prosperity and riches from spice export. Zaladin is home to some of the worlds greatest wonders, though the labourers who built them were directed by force and threats rather than passion. The dominant ideologies are Astratanism and Xylixianism. Xylixian freemen and Astratan order-keepers clash often in mortal representations of divine conflict. Zaladians have grown numb to the possibility of a civil war, and these skirmishes have simply become another aspect of daily life.
+		A grand-spanning, mercantilist empire which found prosperity and riches from both spice and food. Wilusia resides almost entirely within the confines of the Torki River's wide reach, yet there could be no more suitable a place to live than the most fertile lands in the known world. Within their land lies great feats of engineering, and grand artistic displays prominently shown within any of its myriad of villages and towns along the river.
 		<br><br>
-		Zaladin was known as 'Zybantine' whilst under Grenzelhoftian occupation. It was a title forced upon them rather than chosen, and was violently rejected alongside the repellance of Grenzelhoft's Southern crusades by Zalad armies. In modern times, the term has become considered a grave and bigoted insult.
+		Wilusia has suffered repeated attempts by others, namely Grenzelhoft and the Grand Domain, to conquer its lands and aquire its many riches and materials, yet no exterior force has ever been able to defeat its capital, Fenkhu, in spite of Grenzelhoft having put it to siege for over seven years. In spite of City State mercenaries having been a part of many of these wars, Wilusia maintains good relations with the City States, whom are their main middle man to the wider Hearthshire kingdoms.
 		<br><br>
-		Within desperation after the failed conquest, Zaladin's dwindling forces turned to conscription of prisoners-of-war, the first of their slave-armies, forcefully enlisting many captured Grenzelhoftians. These troops are sent to support the front lines of allied Valorian states to the North against Zizo's armies in the Barrows. Regardless of origin, Zaladin's signature "Desert Riders" are a force to reckon- especially when mounted atop their twain-humped pegasi.
+		Wilusians worship a wide variety of gods, mainly Hixis, Gendeni, and Xylic. Wilusia also has a large following of Terra Worshipers. Primarily a Human Empire, it is no less home to just about every race in the known world, albeit not as abundantly as Solaros' Grand Domain. While known for its vast lands and many villages, it is also known to allow for legal slavery, albeit this practice is not widely used within its cities and is generally left mostly to the smaller villages. It is seen mostly as either a punishment for a crime, or as a means to payback debt. People from the Wilusian Dynasty are simply known as Wilusians.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> The Ogri Union</strong></summary>
+		<br>
+		<em>Union of the Plains, Gendeni's Own, Those in Graggars Shadows</em>
+		<br><br>
+		The Ogri Union is a coalition consisting of tribes of Orcs, Goblins, and Plains Dwarves who formed together after the ascension of Graggar. The devastation left behind by the god deeply shook the faith of the once proudly worshiping Orcish peoples, and a massive civil war saw the destruction of almost half of the Orcish and Goblin tribes. In the ashes of what was the most violent war on the continent, a Warlord and the tribes under her sought to rebuild their lands from the ground up to ensure that an ascension in the likes of Graggar never happened again. Aided by the Plains Dwarves, and an Adventurer from the City States who would come to have a profound impact on the future government the new Union would become, the Orcs and Goblins salvaged their ravaged lands and turned it into a prosperous empire. 
+		<br><br>
+		The Orgi Union is governed by a council of representatives voted upon by each town, village, and city among the plains, who all get one represenative to have a seat on the council. The council then votes upon a Chieftain who is broadly just a figurehead for the people of the Union. The Ogri Union is most notable for having no real commerce outside of interactions with other empires, as Food, Water, and Shelter are regarded as basic rights for all peoples. All transactions are either barters, favors, or simply good deeds done to assist in one another.
+		<br><br>
+		The people of the Ogri union mainly consist of Orcs, Goblins, and Plains Dwarves, with very few peoples otherwise. They are unique for using blimps and zeppelins to navigate the immensely harsh terrain of the Denor Plains. Ever since the ascension of Graggar, many have rejected gods as worthy of worship, and thus Terran Worship is the major religion within the Union. Gendeni is the only generally respected god besides that, and secret Graggar cults still reside within the plains. People from the Ogri Union are usually just called by their race, but some people call them Denorians, Ogrians, or Unioners.
 		<br><br>
 	</details>
 
@@ -152,51 +183,51 @@ While it's not required reading, leadership roles may find this information usef
 	<br><br>
 
 	<details>
-		<summary><strong> KALEDON </strong></summary>
+		<summary><strong> Kingdom of Helmsmore </strong></summary>
 		<br>
-		<em> Too fast, too soon. </em>
+		<em>The Rose of the North, The Scholarly Lands</em>
 		<br><br>
-		<span style="display:block; color:#17181a"> Certainly not awaiting writing. You should definitely not poke Cocokailey to provide a description to the author of this primer, who is eagerly awaiting something to include. ^v^ </span>
+		A Kingdom residing to the northeast of Hearthshire, the Helmsmore family has ruled for over five hundred years and have weathered many a storm coming their way. In spite of their smaller size compared to all of their neighbors, their capital of Rosewood is one of the most technologically advanced places in the world, eclipsing even that of Solaros' Grand Domain. Their strong guild of artificers, and vast library of knowledge makes it an attractive land for scholars and intellectuals.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> VALORIAN RUPUBLIAS </strong></summary>
+		<summary><strong> The Dukedom of Camrey </strong></summary>
 		<br>
-		<em> The Freestates, Vineyards of Valoria, The Lords of Coin </em>
+		<em> Dukes of Ice, The Dukedoms </em>
 		<br><br>
-		Valoria is a land of constant strife, bickering city-states with a number of conflicting interests. Yet they bear some pride of their lands, banding together to repel the invading Grenzelhoft Empire out of shared desire for freedom. With conflict comes innovation; the Valorian lands developed pride in their revolution of blade combat strategy and stance. Largely followers of Ravox, they value honour and duels as an expression of status.
+		Residing mostly north in Hearthshire, the Dukedom of Camrey is a collection of nobility whom form together to provide each other with protection and advancement of shared interests. The Dukedom is ruled by a council of every single Duke within the lands, albeit this council can vary greatly as noble families rise and fall, and an exact count is never truly gleaned between meetings. They maintain a strict serfdom over their peoples in what looks like sheer slavery to most outsiders.
 		<br><br>
-		Valoria is renown for their alcohol exports and trade, seconding only Zaladin as most-sought goods.
+		Camreyan Horses are the largest and toughest horses in the world, bred in the cold north and hearty because of it.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> DWARVEN CONFEDERACY </strong></summary>
+		<summary><strong> Stonekeep </strong></summary>
 		<br>
-		<em> The Great Throngs, The Braided Confederacy, Seven Hammers </em>
+		<em> Hammer of the Gods, Terra's Own Peoples </em>
 		<br><br>
-		Located in the mountains of continents all over Psydonia. The political aspects stem from federations bearing unique dwarven clans, leaderships, industries, and cultures. The largest establishment is within the great mountain range to the Southeast of Zaladin's deserts. Dwarves and humen empires have established a long history of allyship. Whilst dwarves often choose neutrality in humen-on-humen conflict, a dwarven face is a trusted face to most humens.
+		Located underneath Taggarth Mountains, Stonekeep is the capital and throng of the Mountain Dwarves and Gnomes. Their technological advancements have paved the way for many new inventions, and their close friendship with Solaros' Grand Domain has brought them into conflict with other Empires at multiple points. They've constructed most of the underground railways connecting most of Subterra, albeit their attempts to build them connecting to other continents have been thwarted by the Dark Elves, their greatest rivals. Their largest railway spans from Stonekeep in Southern Hearthshire, to Rosewood in Northern Heartshire. Malum is their god of worship.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> ELVEN ENCLAVES </strong></summary>
+		<summary><strong> Elven Kingdoms </strong></summary>
 		<br>
-		<em> Keepers of Psydonia, Retreats of the Ancient Age, Forgotten Guides of Death </em>
+		<em> Keepers of Terra, Retreats of the Ancient Age, Forgotten Guides of Terra </em>
 		<br><br>
-		The declining population has led Elves to retreat to compact and isolated communities outside of Wintermare. They defend their remaining homes in natural wonders around Psydonia to the death and without mercy. Subdivided into distinct cultures such as Wood, Dark, Sand, Mountain, Sea, and countless more. Whilst once there lived a culture of snow elves, Zizo's ascension resulted in an all-but complete genocide of the tribe. Most elven settlements are not even recognized, much less their their territories represented within modern humen maps.
+		While a majority of Elves live alongside Humans and Dwarves in Hearthshire, some Elven Kingdoms reside within the forests on Alur. Living side by side with the Tribal People of the forests, the Elven Kingdoms are mostly self-sufficent and reclusive, preferring to live in peace rather than deal with the exterior issues which plague other lands. Some of these minor kingdoms are inherently mistrusting of outsiders, while others are much more receptive. Traditional Terra Worship is the primary worship of these Elves.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> ORC & GOBLIN THRONES  </strong></summary>
+		<summary><strong> Scattered Tribes </strong></summary>
 		<br>
-		<em> Crusaders of Graggar, Graggarspawn, Heirs of Psydonia  </em>
+		<em> Tribal Peoples </em>
 		<br><br>
-		Spontaneous fortresses and towns of Crimsonland origin, established via nomadic means. These encampments take advantage of natural resources and nearby settlements to raid, conquer, consume, and then move on to more promising targets. They are ever-moving hordes of gluttony and rage which constantly follow a pattern of great loss followed by a steady regrowth. Most of these forces are still recovering from the most recent Goblin War.
+		Not all land is claimed by a kingdom, empire, or otherwise. Mostly on Gorogomn and Alur there are wide swathes of unclaimed territories where tribal peoples reside, untouched by the conflicts of other nations and happy to live their lives as they see fit.
 		<br><br>
-		A misogynistic and self-destructive culture to its extreme, scholars report that several terms of language have been developed just to describe masculinity. Any sane individual loses focus after an orc rambles about &Sigma;-class masculinity or whatever newest scam Graggarspawn have begun pushing. Records are sparse as a result.
+		These peoples are made up of almost every race and faith imaginable, albeit Terra Worship is the most common among them due to many not even knowing about the Triumvirate Pantheon.
 		<br><br>
 	</details>
 	<br><br>
@@ -204,256 +235,258 @@ While it's not required reading, leadership roles may find this information usef
 
 
 <details>
-	<summary><strong><span style="font-size:130%"> MYTHOS OF PSYDONIA </span></strong></summary>
+	<summary><strong><span style="font-size:130%"> MYTHOS OF THE THREE CONTINENTS</span></strong></summary>
 	<br>
-	<strong><span style="font-size:115%"> THE OLD GOD </span></strong>
+	<strong><span style="font-size:115%"> Terra Worship </span></strong>
 	<br>
-	<em> The only good god is dead. He holds our rightful worship. </em>
+	<em> All living beings, from a person to a blade of grass, have a soul with which to draw power from.</em>
 	<br><br>
 	<details>
-		<summary><strong> Orthodox Psydonism </strong></summary>
+		<summary><strong> Traditional Terra Worship </strong></summary>
 		<br>
-		The overwhelming majority of Grenzelhoft's church of Psydon. Orthodox Psydonites believe that Psydon lives still, though divided into nine pieces. They are intent to tear down The Ten so that the true God may reform, however long it takes. They hold a deep hatred towards Necra for her butchery and betrayal of Psydon.
+		What is widely regarded as the most widespread religion outside of the Trimvirate Pantheon, Terra Worship is a form of Animism focused on the idea that every living thing has a soul with which faith and power can be drawn from. Worshipers of this religion hold a deep respect for life, and most do not regard Gods as anything beyond what a mere mortal could achive.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Progressive Psydonism </strong></summary>
+		<summary><strong> Radical Terra Worship </strong></summary>
 		<br>
-		A schism within the orthodox church of Psydon, this progressive faction believes that worship is possible through The Ten. Rather than striving to cut down The Ten, progressive Psydonites instead look for signs of His will expressed through the pieces left behind.
+		While Traditional Terra Worshipers do not believe in the Gods' power, some take a much more radical approach, and instead believe that all gods are inherently people whose souls became powerful enough to ascent. This is believe to have stemmed from Graggars Ascension, albeit Kerack's Ascension in Hearthmore also played a part in its spread.
 		<br><br>
 	</details>
 
 	<hr>
-	<strong><span style="font-size:115%"> THE DIVINE PANTHEON </span></strong>
+	<strong><span style="font-size:115%"> The Triumvirate Pantheon </span></strong>
 	<br>
-	<em> The time of Psydon has passed, The Ten are righteous. Necra leads us to salvation. </em>
+	<em> The Three Continents all share the same gods, even if we worship them in different ways. </em>
 	<br><br>
 
 	<details>
-		<summary><strong> Astrata </strong></summary>
+		<summary><strong> Sol, God of the Sun </strong></summary>
 		<br>
-		<b><span style="display:block; color:#e5d569; font-size:130%"> "THY DEVOTION IS NO MERE SUGGESTION. I DEMAND IT." </span></b>
+		<b><span style="display:block; color:#e5d569; font-size:130%"> "THE WORLD RISES AND RESTS ON MY WORD." </span></b>
 		<br>
-		<em>The Sun Queen, The Tyrant of The Ten.</em>
+		<em>Also known as Solaros, Helios, Ra, and Astrata.</em>
 		<br><br>
-		Goddess of light and fire. Her domain encompasses the sun, healing, and most importantly the revival of the dead. She was crafted from the head of Psydon.
+		God of the Sun, a staple of almost every religious belief since time uncountable. They have gone by many names in many different cultures, and is generally considered to be the most important god on the pantheon, albeit many debate that.
 		<br><br>
-		Astrata leads The Ten with an iron fist.  She demands obedience and respect as she leads both the mortal and divine worlds through calamity after calamity. As time passes, her grip only gets tighter and her patience for heresy thinner. She simply cannot spare her focus. Since the 2430s, she fills the cycles of darkness with periodic flares to light the nite.
-		<br><br>
-	</details>
-
-	<details>
-		<summary><strong> Noc </strong></summary>
-		<br>
-		<i><span style="display:block; color:#82a1d9; font-size:120%">"Dreams are thy gateway to wisdom, if thou art worthy." </span></i>
-		<br>
-		<em>The Moon Prince, The Keeper of Magick.</em>
-		<br>
-		God of knowledge and magick. His domain encompasses the moon, study, record-keeping, and self-improvement. He was crafted from the silver helm of Psydon.
-		<br><br>
-		Noc guides scholars, often nobles, through life dedication in order to master the ways of arcyne magick. Since the ascension of Zizo, he has only grown more strict with who are worthy of practicing this gift. He is known to wear the most fabulous of dresses.
+		The largest worshipers of Sol are unquestionably Solaros' Grand Domain who see them as their ruler. All Emperors of the Grand Domain must profess their faith and submission to the God of the Sun to be crowned. Sol is widely worshiped everyone else on the Three Continents as well.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Abyssor </strong></summary>
+		<summary><strong> Bendis and Devana, the Moons </strong></summary>
 		<br>
-		<span style="display:block; color:#8b2d39; font-size:120%"> "Don't be fishin' deeper than ye can catch." </span>
+		<i><span style="display:block; color:#82a1d9; font-size:120%">"WE WILL SHINE THEIR LIGHT UPON YOU, ALWAYS." </span></i>
 		<br>
-		God of the sea and storms. His domain encompasses all within the oceans, water, and blood. He defends the natural world alongside his brother, Dendor. Abyssor was crafted from the drained blood of Psydon.
+		<em>Also known as the Two Moons, Sol's Lovers, and Eyes of the Gods.</em>
+		<br>
+		While not actually considered the Gods of anything, Bendis and Devana are regarded as important aspects of Sol's worship. Astroloy has long discovered that the moons reflect upon Terra the sunlight of Sol, and it is believed that the two moons are Sol's shepards and lovers who watch over Terra while they sleep.
 		<br><br>
-		With the destruction of the natural world, both brothers of nature were driven mad. While Dendor was struck with insanity, Abyssor encompasses the rage of the sea. Woe be to any who offend him.
-		<br><br>
-	</details>
-
-	<details>
-		<summary><strong> Dendor </strong></summary>
-		<br>
-		<span style="display:block; color:#74875a; font-size:120%"> "Prophecy? Eh... what prophecy? Madness? Drivel? Nonsense, the lot of it!" </span>
-		<br>
-		God of nature and beasts.  His domain encompasses the wilds on the surface, and all flora and fauna within. He does not claim any Subterran life due to its hellish corruption. Dendor was crafted from the bones of Psydon.
-		<br><br>
-		Fallen to insanity from the world industrialization and natural decimation. His followers struggle to find meaning in his words, to commune with the growing hostility seen within the previously-pristine glades and woods. He holds a deep resentment towards Malum, and his part in the aforementioned devastation.
+		Not generally worshiped directly, the Kingdom of Siculi within the City States believes their two noble houses to be direct descendants of the offspring of the Two Moons and Sol themselves.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Ravox </strong></summary>
+		<summary><strong> Ilia, Goddess of Love, War, and Fertility </strong></summary>
 		<br>
-		<span style="display:block; color:#774b44; font-size:120%"> "It's a rough world out there, kid. Keep safe. Stay holy." </span>
+		<span style="display:block; color:#8b2d39; font-size:120%"> "I BRING LIFE, AND DEATH." </span>
 		<br>
-		God of warfare, and justice. His domain encompasses righteous combat and bravery. He retreated to the underworld, reshaping it alongside Necra to include trials of combat and strife. He was crafted from the still-bloodied greatsword of Psydon.
+		Also known as the Goddess of the Mortal Cycle, Ilia is an honorable god who seeks for her followers to live life to the fullest, and find the strength both to fight for what they believe in, and see their prognency grow up to take their place once their time is up.
 		<br><br>
-		Sullen and withdrawn, Ravox struggles to keep his followers away from Graggarism. As he has discovered, even remaining alive is not enough to avoid his words and domain twisted into heresy. Ravoxians often argue that their ideology lies closest to Psydon's own ways, though few if any remember to a degree of certainty.
-		<br><br>
-	</details>
-
-	<details>
-		<summary><strong> Malum</strong></summary>
-		<br>
-		<b><span style="display:block; color:#d39459; font-size:120%"> "Hammer with PURPOSE. Strike the STONE!" </span></b>
-		<br>
-		God of craft, forge, and toil. His domain encompasses architecture, mining, and sculpting. He considers the dwarven species his chosen, proudly supporting and guiding their technological improvements. He was crafted from the hands of Psydon.
-		<br><br>
-		Almost equally defined by conflict as much as creation, Malum and Dendor's rivalry spans millennia. Their bickering is reflected in the mortal planes through elven and dwarven skirmishes.
+		She is Grenzelhofts main Goddess, and the Grenzelhoftians regard her as more important than any other god.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Eora </strong></summary>
+		<summary><strong> Hixis, Goddess of Storm, Fire, Ocean, and Breeze </strong></summary>
 		<br>
-		<span style="display:block; color:#e4bae6; font-size:115%"> "I will always love you, sweetheart. Regardless of the ne'er-do-wells you associate with."</span>
+		<span style="display:block; color:#74875a; font-size:120%"> "THE WORLD MOVES UNDER MY GAZE." </span>
 		<br>
-		Goddess of love, family, and art. Her domain encompasses marriage, painting, singing, and literature- especially romance. She is considered the backbone of The Ten, barely able to keep them together and officially allied. She was crafted from the heart of Psydon.
+		Known as the Elemental Star, Hixis shines brightly over the nighttime sky and watches over the elements of the world. The waves crash, the winds howl, the fires blaze, and the storms sing solely based on her will according to her followers.
 		<br><br>
-		Despite Astrata's overt support for same-sex couples, Eora remains begrudging at best. Some theorize it is hatred, some theorize jealousy. Regardless, her failed seduction of Pestra early in their history and the Great Insult exchanged has left a lasting effect on the so-called goddess of love.
-		<br><br>
-	</details>
-
-	<details>
-		<summary><strong> Xylix </strong></summary>
-		<br>
-		<i><span style="display:block; color:#dfe6ba; font-size:120%"> "Please, darling. The world aaaalways needs more DRAMA!"</span></i>
-		<br>
-		Diety of trickery, freedom, and inspiration. Their domain encompasses friendly pranks, barding, theatre, and performance. Known widely to be genderless, as they see such concepts only as masks to play a role. They were crafted from the tongue of Psydon.
-		<br><br>
-		Of all The Ten, Xylix is considered the most 'problem child.' Whether spats with Astrata over freedom, or making trouble for its own sake, they're something of an outcast from the orderly nature of the rest- and they are perfectly content with their position. For Xylixians, a boring life is not one worth living.
+		Her worship is mainly within the Wulisian Dynasty, but she is common on all three continents.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Pestra </strong></summary>
+		<summary><strong> Gendeni, Goddess of Nature and Stone </strong></summary>
 		<br>
-		<b><span style="display:block; color:#8aa01c; font-size:120%"> "What you see- loss? Imperfection? Illness? No. It is all just the changing cycles of the world. Strive to understand, fool." </span></b>
+		<span style="display:block; color:#774b44; font-size:120%"> "WITH YOUR FEET ON THE GROUND, NOTHING CAN STOP YOU." </span>
 		<br>
-		Goddess of disease, alchemy, and medicine. Her domain encompasses all cycles of change; from rot and decay to refinement and transformation. The domain of alchemy is a subject of dispute between Pestra and Noc frustratingly often for her taste, but she retains firm hold. She was a mistake, slithering out of Psydon's intestines left behind.
+		The Goddess of Life, Gendeni sees to it that nature itself is maintained through her tireless watch over all creatures. She reminds all persons that in spite of everything, they are in and of themselves animals whom are still subject to natures wrath.
 		<br><br>
-		Despite closeness with Astrata, Pestra remains something of an outcast amongst The Ten due to her accidental origin. Her Great Insult of rebuffal towards Eora only further damaged ties, though Pestra thrives in her isolation. To her, it's simply less chains restraining experimentation.
+		Her most ardent worshipers are in Wilusia and Camrey, who both praise her for her bountiful harvest, and their survival in harsh lands respectively. She is worshiped throughout most of the land by tribes, in all manner of different names.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Necra </strong></summary>
+		<summary><strong> Malum, God of Craft, Forge, and Toil.</strong></summary>
 		<br>
-		<i><span style="display:block; color:#5a53d5; font-size:125%"> "Allow me serenity for once, child. A brief respite. Calamity surely strikes again soon..." </span></i>
+		<b><span style="display:block; color:#d39459; font-size:120%"> "HAMMER WITH PURPOSE. CRAFT WITH MEANING." </span></b>
 		<br>
-		Goddess of death and time. Once a close partner to Psydon. She was the first mortal, the first to die, and the second to achieve godhood. Her domain encompasses passing spirits, the underworld, and the cycle of reincarnation. She created the other Nine from her butchery of Psydon.
+		Known as The Forge Star. All manner of work, such as architecture and even small things such as fletching and pottery, are his domain. Hard work is a cornerstone of his worship.
 		<br><br>
-		Necra is most controversial amongst The Ten. She is reviled for her butchery and perceived betrayal of Psydon by those faithful to Him, yet is defended by Tennites across the land claiming she acted out of necessity. The exact circumstances of Psydon's death are unclear, but Necra is surely responsible- and she makes no effort to hide it.
+		The primary god of the Mountain Dwarves and Gnomes of Stonekeep. The Mountain Dwarves believe that he is actually a fallen star whose corpse lies under Malum's Rest. Malum worship is surprisingly scarce besides, and only the City States have much of it outside of Stonekeep.
 		<br><br>
 	</details>
+
+	<details>
+		<summary><strong> Evviva, Goddess of Healing, Comfort, and Courage </strong></summary>
+		<br>
+		<span style="display:block; color:#e4bae6; font-size:115%"> "TRUE STRENGTH LIES IN YOUR WILLINGNESS TO HELP YOUR FELLOW PERSON."</span>
+		<br>
+		Goddess of Health, Evviva's followers are the most selfless and helpful individuals within the known world. To worship Evviva is to cast aside doubt and prejudice to see the world brought to a better place by your own hands. Evvivan Clerics are a staple of armies all throughout Hearthshire, and attacking such an individual is considered a crime punishable by death in Grenzelhoft.
+		<br><br>
+		Evviva's most ardent worshipers can be considered certain City States, but she is broadly respected all throughout Hearthshire, albeit her worship is less notable on Gorogomn and Alur.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Xylix, God of Luck, Music, and Performance </strong></summary>
+		<br>
+		<i><span style="display:block; color:#dfe6ba; font-size:120%"> "CAUTION IS THE WATER WHICH DOUSES THE HEARTS DESIRE."</span></i>
+		<br>
+		Known as the Lucky Star, he is considered a patron to all artists and gamblers, while also worshiped by hooligans and neer-do-wells. Some debate that he is also the good of trickery and thieves, believing that he is a better alternative to Matthios.
+		<br><br>
+		He is primarily worshiped in Wilusia and the City States, and has a decent following in the Kingdom of Helmsmore.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Aether, God of the Aether and Foresight</strong></summary>
+		<br>
+		<b><span style="display:block; color:#8aa01c; font-size:120%"> "ALL LIFE ASCENDS, IN ONE WAY OR ANOTHER." </span></b>
+		<br>
+		The Mist of the Stars, or to some the God of Heavens, Aether is both his name and his domain. Some people believe that souls ascend to the skies to meet with the stars once their journey on this world is at an end, and Aether is there to guide them. To some, he is also the God of Foresight.
+		<br><br>
+		Camrey and Helmsmore can be considered the two Kingdoms whom have strong worship towards Aether, as many others worship Necra over him.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Necra, Goddess of Unlife, Memories, and Ancestors </strong></summary>
+		<br>
+		<i><span style="display:block; color:#5a53d5; font-size:125%"> "REJOIN WITH ME, AND FIND COMFORT IN THE AFTERLIFE." </span></i>
+		<br>
+		Goddess of the Dead. She presides over the Underlife, a domain in which many believe is the final resting place of all souls. It is through her that one may worship their ancestors and ensure that their memories live on and become immortal.
+		<br><br>
+		Necra is generally worshiped throughout Hearthshire and Alur, moreso than her counterpart Aether. While not a primary god of any nation, she is still an important figure for most.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Taoch, God(ess) of Lust, Passion, and Ferocity. </strong></summary>
+		<br>
+		<i><span style="display:block; color:#5a53d5; font-size:125%"> "YOU ARE HERE TO ENJOY LIFE TO THE FULLEST. TAKE NO SHAME IN IT." </span></i>
+		<br>
+		The Star of Pleasure, shining proudly over all who find themselves enjoying life as they see fit. To Taoch, debauchery is the main reason for ones very existence, and their followers shamelessly enjoy sex with each other as worship. Explosive emotions aren't evil, they are the cornerstone of life itself, and thus Taoch is also the God(ess) of Ferocity.
+		<br><br>
+		Taoch's only center of worship is within a City State, albeit they are patrons to both Prostitutes and Savage Barbarians who use rage as a source of power.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Noc, God of Knowledge, and Steamcraft </strong></summary>
+		<br>
+		<i><span style="display:block; color:#5a53d5; font-size:125%"> "LIFE IS BUILT UPON YOUR HANDS, AND WHAT YOU MAKE WITH THEM." </span></i>
+		<br>
+		Also known as the God of Creating, Noc's domain is in all scholarly aspects, and it is said that Steamcraft itself directly came from him.
+		<br><br>
+		Noc is only worshiped by Helmsmore, some City States, and any scholar throughout the land. The Mountain Dwarves regard him coldly, and believe that Steamcraft is theirs.
+		<br><br>
+	</details>
+
+
 
 	<hr>
-	<strong><span style="font-size:115%"> THE INHUMEN PANTHEON </span></strong>
+	<strong><span style="font-size:115%"> The World Eaters</span></strong>
 	<br>
-	<em> Mortals hold a right to divinity. We follow the new way. </em>
+	<em> Those who would see Terra brought to ruin. </em>
 	<br><br>
 
 	<details>
-		<summary><strong> Matthios </strong></summary>
+		<summary><strong> Matthios, Thief of Gods </strong></summary>
 		<br>
-		<span style="display:block; color:#17181a; font-size:120%"> "What I say is nonya business, asshole." </span>
+		<span style="display:block; color:#17181a; font-size:120%"> "WHATDYA GONNA DO, STOP ME?" </span>
 		<br>
-		God of thievery, ill-gotten gains, and highwaymen. A figure shrouded in mystery. While assumed to once have been humen, there are no records of his appearance. His very feats were spread by word-of-mouth and rumour, with little ties to any tangible figure. He was the first of The Four to ascend.
+		God of thievery, ill-gotten gains, and highwaymen. A figure shrouded in mystery. His is not a direct worship, but rather spread via word of mouth throughout the lands. There are no shrines in his name, and many wonder if he even existed as a person at one time, or as a god in general.
 		<br><br>
-		Matthios is used as a figurehead by bandits and oppressed peasants alike. While his exact beliefs are unknown, his hatred for nobility specifically is apparent. He would quench his insatiable greed with their coffers over most others. He is hailed as a figure of rebellion, of freedom similar to Xylix who resonates with those who've felt abandoned by The Ten.
+		Matthios is used as a figurehead by bandits and oppressed peasants alike. While his exact beliefs are unknown, his hatred for nobility specifically is apparent. He would quench his insatiable greed with their coffers over most others. Some consider him just a means with which bandits and highwaymen can justify their ill intent, while others believe that he is an honest symbol of rebellion against those who would oppress others and harbor riches.
 		<br><br>
-		Upon his ascension, an otherworldly tomb's entrances began appearing around the world. The Tomb of Matthios promised riches, rewards, but equal danger. Most who enter only manage to join his collection, or fall victim to the roaming bands of orcs and goblins within.
+		It is believed that he is the mortal enemy of Xylic, whom is regarded to hold similar domains to him.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Baotha </strong></summary>
+		<summary><strong> Kerack, God of Hatred and Wrath </strong></summary>
 		<br>
-		<i><span style="display:block; color:#88528d; font-size:110%"> "RrResign yourself to decadence, my ssweet. It es the only escape in thees rrancid world. I'm here for you, when no-one else es." </span></i>
+		<i><span style="display:block; color:#88528d; font-size:110%"> "ILIA WILL PERISH UNDER MY HEEL." </span></i>
 		<br>
-		Goddess of drugs, self-preservation, and remorseless Joy. The first tiefling; an 'exotic' consort-turned-regent whose self-indulgence sent her once-thriving kingdom careening into ruin. She preaches "Joy at all costs!" to her followers. She was the second of The Four to ascend.
+		Kerack, the God of Wrath and Hatred, is said to have been a Grenzelhoftian General who considered honor and love to be weakness getting in the way of mans true strength. Espousing rhetoic that garnered him both a large following and a violent outcasting from Grenzelhoft, Kerack none the less marched onto the capital with his army to overthrow the rule he found to be weak and pathetic.
 		<br><br>
-		A Baothan follower is unmistakable. Brightly-dyed hair to make Eora weep, ridiculous slang to make listeners' ears bleed, a taste in music that's out-of-this-world, and sobriety, of course, a foreign concept. The status quo exists to be subverted. Only through rebellious joy is this failing world worth living... there's no use trying to save it.
+		Kerack never made it to the capital, as during a battle it is said that the mans sheer hatred for his enemies caused his near ascension before Ilia's arrow fell from the sky and peirced his heart. However it became apparent that the man was a heartless being, and his ascension marked the complete destruction of both his and Grenzelhofts armies, a memory which has left its scar on Grenzelhoft lands to this day.
 		<br><br>
-		Baotha's ascension marked the spread of her kind, tieflings, across Psydonia. The anomaly became a species all at once, in an event known as The Hellspawn Scourge. Her voice began to whisper in the ears of drunkards, addicts, and the hopeless- preaching not a better future, but a bliss to distract oneself from it.
+		Keracks followers are bloodthirsty warriors who find strength only in combat and murder. It is unlikely for any two followers of the God of Hatred to get along for long, and cults are immensely rare albeit do happen on occasion. Kerack worshipers are violently hunted down by Grenzelhoftians.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Graggar </strong></summary>
+		<summary><strong> Graggar, God of Cannibalism and Brutality </strong></summary>
 		<br>
 		<b><span style="display:block; color:#2a7b32; font-size:125%"> "FEAST ON THEIR FLESH. REVEL IN MURDER." </span></b>
 		<br>
-		God of unnatural beasts, unsated consumption, and unbridled hatred. Known as the Dark Sini-Star to faithful and foes alike. The first orc, a warlord notorious for consuming fallen opponents in ritualistic feasting. He was the third of The Four to ascend.
+		God of Ceaseless Hunger and Endless Conflict. Known as the Orcish Ascendant to faithful and foes alike. He was an Orc Warlord who brutally conquered all of the tribes, and ascended at the peak of his power.
 		<br><br>
-		Followers of Graggar put women in their place. Graggarism is a culture built on strength, misogyny, and glee in the destruction or corruption of what exists. It's an addictive, never-ending hunger of flesh, gorging until one's skin turns green and they sprout tusks. Resist the cravings as long as you can, fool. They consume all.
+		Graggars Ascension caused a conflict so brutal and bloody that Orc and Goblin culture completely shattered and rebuilt itself due to it. He is deeply spiteful towards the new Orgi Union which came in his wake, as he believed Orcs should conquer the world. 
 		<br><br>
-		Eora took pity upon Graggar as he ascended, extending some of her own divinity in attempt to heal the man she foolishly thought she could 'fix.' Graggar was gracious, of course, as he crafted with this sliver hordes of goblins and outlandish monsters to terrorize Psydonia for eternity onwards. He cackles about her naivety to this day.
-		<br><br>
-	</details>
-
-	<details>
-		<summary><strong> Zizo </strong></summary>
-		<br>
-		<i><span style="display:block; color:#791f3f; font-size:125%"> "It is only a matter of time before this order falls. Will you choose the rright side?" </span></i>
-		<br>
-		Goddess of forbidden magicks, domination, and power. A snow-elven lich who achieved godhood through the sacrifice of her entire people. She conquered the dark elven empire, reshaping it violently into the evil it stands today. She was the final mortal to ascend... for now.
-		<br><br>
-		Followers of Zizo put men in their place. Zizonic culture is a misandristic terror of back-stabbing and plots in the shadows. None are safe from betrayal in order to secure a position to serve The Queen. Avid practitioners of fleshcrafting and subverters of Noc's Arcyne, Zizonians believe that magick should be available to all with the drive to stand up and <em>take it.</em>
-		<br><br>
-		Necra's millennium-spanning rules of life and death were all but shattered upon Zizo's ascension. Corpses no longer lied to rest, instead emerging after several minutes to walk and feast again on the living, spreading their curse of death. The deadite plague was the most impactful calamity to ever strike Psydonia. Society was only barely able to adapt and move forward with their new reality, and could not aid the dark elven empire in their defense against the lich queen's armies.
-		<br><br>
-	</details>
-
-	<hr>
-	<strong><span style="font-size:115%"> FALSE GODS </span></strong>
-	<br>
-	<em> Worship out of spite. </em>
-	<br><br>
-
-	<details>
-		<summary><strong> Rashan-Kahl </strong></summary>
-		<br>
-		The twin-faced god of ambition and chains. Worshipped mainly by the rakshari out of in spite of The Ten.
-		<br><br>
-		Rashan represents both creation and destruction, freedom and bondage- a duality that mirrors the rakshari’s complex relationship with power. Temples to Rashan-Kahl often double as marketplaces, symbolizing the transactional nature of life.
+		Worshiped mostly by fringe Orcish tribes outcasted from the Orgi Union, Graggar believes that the truest way to show dominance over others is to simply kill them and eat their flesh. Feasting on anothers body is said to devour their very soul, and some believe this is how Graggar ascended. Graggar worship is of course banned in the Orgi Union, and Graggar Cults are hunted relentlessly.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Heartfeltian Horror </strong></summary>
+		<summary><strong> Zizo, The Leech of Souls </strong></summary>
 		<br>
-		Something stirs deep beneath the city. Rumours of a great machine, bidding the rabid automatons forth with purpose.
+		<i><span style="display:block; color:#791f3f; font-size:125%"> "I'LL TAKE SOL'S THRONE." </span></i>
+		<br>
+		Goddess of Forbidden Power and Magics, the Soul Leech herself is said to have been a Dark Elf who sacrificed her entire people to gain enough power to ascend. No stories can ever be confirmed of this however, as the Dark Elves are notoriously secretive of their Goddess.
+		<br><br>
+		Zizo is the most notorious of the World Eaters, as her influence can be seen on every continent and in every Kingdom, as anyone seeking forbidden power finds themselves drawn to the allure of the Leech of Souls and her promises.</em>
+		<br><br>
+		Zizo's influence twists the very fabric of life itself. Souls no longer leave their bodies, causing corpses to rise and feast on their former companions, and skeletons to walk the world seeking death and destruction. A perversion to Ilia's cycle of life, and the domains of both Aether and Necra. It is for this reason that Zizo worship is banned in almost every political state on the three continents.
 		<br><br>
 	</details>
 
 	<hr>
-	<strong><span style="font-size:115%"> ARCHDEVILS </span></strong>
+	<strong><span style="font-size:115%"> Horrors from the Stars </span></strong>
 	<br>
-	<em> Burn it all to the ground. </em>
+	<em> Not everything in the sky is benevolent. </em>
 	<br><br>
 	<details>
-		<summary><strong> Abraxas </strong></summary>
+		<summary><strong> 'Him Above' </strong></summary>
 		<br>
-		King of the hells, archdevil of wisdom. Abraxas led the attack against Psydon. He is the mastermind, the strategist of the depths. Claimed Baotha to be his own spawn, though her public rejection left populations globally confused. It is only a matter of time before he strikes the surface once more.
+		Also known as The One God, The God of Gods, and God Himself. Him Above is an eldritch entity of unknowable power whose goals are unknown to most. What is known however is his distain for any other Godly being, and those whom he turns to his side espouse him as the only God and try desperately to see the domain of all of the other gods brought to heel. Worship of Him Above is generally banned in most places.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Abaddon </strong></summary>
+		<summary><strong> Entros, The Rotting Star</strong></summary>
 		<br>
-		Archdevil of destruction. Said to consume the spirits of all without souls. It is he where connotations of devils with hellfire and brimstone spawn. Abaddon's influence leads to wanton death and devastation, wherever it may fester. He leaves nothing standing in his wake.
+		Also known as the Star of Entropy, Entros is believed to have the power to decay anything in which they see fit. Those under the Rotting Stars gaze may find themselves turning old in minutes, and objects and buildings become dust under the Rottings Stars shine. Entros has no business with mortals, but gives their power to any who worship him solely out of amusement.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Mephistopheles </strong></summary>
+		<summary><strong> The Red Star </strong></summary>
 		<br>
-		Archdevil of darkness and trickery. A shapeshifting fiend whose deals always go South. He struck Psydon with his tainted blade, leaving the festering wound which led to The Creator's fall. Mephistopheles twisted the first vampires, Psydon's cursed, into the blood-sucking monsters known today.
+		The Star of Ceaseless Hatred and Senseless Violence, The Red Star has no name for she needs no name. Her only goal is to bring about destruction and death by any means. She has no care for followers, and regards all mortals as insects. Her influence is rarely felt, but on some nights a bright red star in the sky harbors impending destruction and violence to any caught under her gaze.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Leviathan </strong></summary>
+		<summary><strong> Leviathan, Void's Maw </strong></summary>
 		<br>
-		Archdevil of the void and madness, the great eel of shadow. It is unclear where her body ends or starts, and any who dare gaze through the navy depths of the hells' seas of ink, and onto her swirling masses are driven insane. Sailors lost at sea swear they hear her voice singing alongside Abyssor's own, reciting tales of the very oceans turning to blood and swallowing them whole into an endless maw.
+		Leviathan is said to be a massive sea creature which swims among the sea of stars. When it wishes, it can choose to swim among the oceans of Terra and feast upon hapless sailors and sea dwellers. While worshiped by some, he gives few boons, as he is not a being who understands anything but survival in his own right.
 		<br><br>
 	</details>
 	<hr>
