@@ -76,6 +76,7 @@
 #define SKIN_COLOR_TROPICALWET "ac8369" //Latin
 #define SKIN_COLOR_DESERT "9c6f52" //Middle-east
 #define SKIN_COLOR_CRIMSONLANDS "4e3729" //Black
+#define SKIN_COLOR_CUSTOM "Custom"
 
 //AASIMAR SKIN TONES
 #define SKIN_COLOR_CORAL "ff96d6" //Pink

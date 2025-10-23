@@ -53,6 +53,7 @@
 #define CLONER_MATURE_CLONE "mature"
 
 //species traits for mutantraces
+#define MUTCOLOR		1
 //#define HAIR			2 //This is redefined in a bitflag in inventory.dm
 #define FACEHAIR		3
 #define EYECOLOR		4

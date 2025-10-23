@@ -198,3 +198,9 @@
 		for(var/key in bml)
 			var/datum/body_marking/BM = GLOB.body_markings[key]
 			bml[key] = BM.get_default_color(features, pref_species)
+
+/datum/preferences/proc/apply_body_markings(mob/living/character)
+	if(ishuman(character))
+		var/mob/living/carbon/human/C = character
+		C.dna.body_markings = body_markings.Copy()
+		apply_markings_to_body_parts(C.dna.body_markings, C)

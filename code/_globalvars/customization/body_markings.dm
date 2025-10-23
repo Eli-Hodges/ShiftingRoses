@@ -41,4 +41,3 @@ GLOBAL_LIST_INIT(body_marking_sets, build_body_marking_set_references())
 			BM = new path()
 			.[BM.name] = BM
 			GLOB.body_marking_sets_by_type[path] = BM
-
