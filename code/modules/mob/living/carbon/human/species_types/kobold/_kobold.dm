@@ -17,9 +17,7 @@
 	their habit of hoarding grandiose amounts of trinkets and artifacts, and their opportunism.\
 	\n\n\
 	They are often in servitude to great beasts such as dragons and giants - trapping their lairs and utilizing pack tactics to dispose of ambitious adventurers and thieves alike. \
-	But in their lonesome, Kobolds are generally weak and quick to die, as they noticeably lack the meaningful amount of constitution, strength, and endurance that other species usually have. \
-	\n\n\
-	WARNING: THIS IS A HEAVILY DISCRIMINATED AGAINST CHALLENGE SPECIES WITH ACTIVE SPECIES DETRIMENTS. YOU CAN AND WILL DIE A LOT; PLAY AT YOUR OWN RISK!"
+	But in their lonesome, Kobolds are generally weak and quick to die, as they noticeably lack the meaningful amount of constitution, strength, and endurance that other species usually have."
 
 	skin_tone_wording = "Scale Color"
 	default_color = "FFFFFF"
@@ -30,7 +28,7 @@
 	specstats_m = list(STATKEY_STR = 0, STATKEY_PER = 0, STATKEY_INT = 0, STATKEY_CON = 0, STATKEY_END = 1, STATKEY_SPD = 1, STATKEY_LCK = 1)
 	specstats_f = list(STATKEY_STR = 0, STATKEY_PER = 0, STATKEY_INT = 0, STATKEY_CON = 0, STATKEY_END = 1, STATKEY_SPD = 1, STATKEY_LCK = 1)
 
-	allowed_pronouns = PRONOUNS_LIST_IT_ONLY
+	allowed_pronouns = PRONOUNS_LIST
 
 	possible_ages = NORMAL_AGES_LIST
 	use_skintones = TRUE
