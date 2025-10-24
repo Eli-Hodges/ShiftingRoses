@@ -31,7 +31,6 @@
 	As if to make matters worse, their hellish progenitors have left them a destiny of misfortune, \
 	though perhaps their immunity to fire opens new opportunities for them... \
 	\n\n\
-	THIS IS A DISCRIMINATED SPECIES. EXPECT A MORE DIFFICULT EXPERIENCE. <B>NOBLES EVEN MORE SO.</B> PLAY AT YOUR OWN RISK."
 
 	skin_tone_wording = "Progenitor"
 

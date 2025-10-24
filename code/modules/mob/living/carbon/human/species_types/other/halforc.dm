@@ -20,7 +20,6 @@
 	A Half-Orc may display Orcish features, sporting tusks and natural strength. \
 	Many are nigh-indistinguishable visually from full orcs, save for their remaining grasp on self-control.\
 	\n\n\
-	THIS IS AN <I>EXTREMELY</I> DISCRIMINATED SPECIES. EXPECT A MORE DIFFICULT EXPERIENCE. <B>NOBLES EVEN MORE SO.</B> PLAY AT YOUR OWN RISK."
 
 	skin_tone_wording = "Clan"
 

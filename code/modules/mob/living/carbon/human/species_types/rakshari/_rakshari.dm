@@ -21,7 +21,6 @@
 	their people would integrate more sophisticated forms of servitude, \
 	such as indentured contracts and debt bondage. \
 	\n\n\
-	THIS IS A DISCRIMINATED SPECIES. EXPECT A MORE DIFFICULT EXPERIENCE. PLAY AT YOUR OWN RISK."
 
 	skin_tone_wording = "Tribal Identity"
 	use_skintones = TRUE

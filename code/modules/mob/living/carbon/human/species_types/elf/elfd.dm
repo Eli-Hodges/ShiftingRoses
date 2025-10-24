@@ -25,7 +25,6 @@
 	rarely receive fair treatment. \
 	Dark elves over 500 years old may remember their Ravoxian empire of old, yet few remain who were not killed or converted. \
 	\n\n\
-	THIS IS A DISCRIMINATED SPECIES. EXPECT A MORE DIFFICULT EXPERIENCE. <B>NOBLES EVEN MORE SO.</B> PLAY AT YOUR OWN RISK."
 
 	skin_tone_wording = "Parent House"
 
