@@ -18,8 +18,7 @@
 	believing that they are cursed to follow their orcish parent's footsteps in the gorging of kin-flesh. \
 	\n\n\
 	A Half-Orc may display Orcish features, sporting tusks and natural strength. \
-	Many are nigh-indistinguishable visually from full orcs, save for their remaining grasp on self-control.\
-	\n\n\
+	Many are nigh-indistinguishable visually from full orcs, save for their remaining grasp on self-control."
 
 	skin_tone_wording = "Clan"
 

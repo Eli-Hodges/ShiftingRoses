@@ -19,8 +19,7 @@
 	\n\n\
 	As they further attached themselves to Zaladin, however, \
 	their people would integrate more sophisticated forms of servitude, \
-	such as indentured contracts and debt bondage. \
-	\n\n\
+	such as indentured contracts and debt bondage."
 
 	skin_tone_wording = "Tribal Identity"
 	use_skintones = TRUE
