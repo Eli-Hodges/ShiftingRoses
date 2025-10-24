@@ -1,4 +1,4 @@
-/datum/round_event_control/adoption_call
+/* /datum/round_event_control/adoption_call
 	name = "Adoption Call"
 	track = EVENT_TRACK_PERSONAL
 	typepath = /datum/round_event/adoption_call
@@ -79,3 +79,4 @@
 	chosen_one.playsound_local(chosen_one, 'sound/vo/female/gen/giggle (1).ogg', 100)
 
 	chosen_one.mind.announce_personal_objectives()
+*/

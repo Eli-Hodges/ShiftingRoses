@@ -666,7 +666,7 @@
 	background_track = "sound/music/area/clocktower_ambience.ogg"
 
 /area/rogue/indoors/town/orphanage
-	first_time_text = "The Orphanage"
+	first_time_text = "The Establishment"
 	icon_state = "orphanage"
 
 /area/rogue/indoors/town/clinic_large

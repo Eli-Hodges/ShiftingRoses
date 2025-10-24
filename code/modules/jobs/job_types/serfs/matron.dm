@@ -1,6 +1,6 @@
 /datum/job/matron
 	title = "Matron"
-	tutorial = "You are the Matron of the orphanage, once a cunning rogue who walked the shadows alongside legends.\
+	tutorial = "You are the Matron of the establishment, once a cunning rogue who walked the shadows alongside legends.\
 	Time has softened your edge but not your wit, thanks to your unlikely kinship with your old adventuring party.\
 	Now, you guide the orphans with both a firm and gentle hand, ensuring they grow up sharp, swift, and self-sufficient.\
 	Perhaps one dae, those fledglings might leap from the your nest and soar to a greater legacy."
@@ -66,10 +66,7 @@
 	pants = /obj/item/clothing/pants/trou/beltpants
 	belt = /obj/item/storage/belt/leather/cloth/lady
 	shoes = /obj/item/clothing/shoes/boots/leather
-	if(has_world_trait(/datum/world_trait/orphanage_renovated))
-		beltl = /obj/item/storage/belt/pouch/coins/rich
-	else
-		beltl = /obj/item/storage/belt/pouch/coins/mid
+	beltl = /obj/item/storage/belt/pouch/coins/mid
 	backr = /obj/item/storage/backpack/satchel
 	cloak = /obj/item/clothing/cloak/matron
 	backpack_contents = list(/obj/item/weapon/knife/dagger/steel = 1, /obj/item/key/matron = 1)
