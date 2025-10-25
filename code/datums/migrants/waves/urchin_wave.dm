@@ -40,7 +40,7 @@
 
 /datum/migrant_role/urchinbrawn
 	name = "Urchin"
-	greet_text = "Life in the orphanage is detestable, nobody ever brought you into a family. A child denied love will burn \
+	greet_text = "Life on the streets is detestable, nobody ever brought you into a family.\
 	down his village for warmth - that's what's happening. Listen to your boss, and stack coin; be the little shit this town \
 	deserves... Don't overdo it, though - lest the Matron put an end to this scheme you lot have going."
 	outfit = /datum/outfit/job/urchinbrawn

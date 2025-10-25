@@ -75,13 +75,11 @@ GLOBAL_LIST_INIT(apprentices_positions, list(
 	/datum/job/servant::title,
 	/datum/job/tapster::title,
 	/datum/job/gaffer_assistant::title,
-	/datum/job/orphan::title,
 	))
 GLOBAL_PROTECT(apprentices_positions)
 
 GLOBAL_LIST_INIT(youngfolk_positions, list(
 	/datum/job/innkeep_son::title,
-	/datum/job/orphan::title,
 	/datum/job/churchling::title,
 	/datum/job/soilchild::title,
 ))

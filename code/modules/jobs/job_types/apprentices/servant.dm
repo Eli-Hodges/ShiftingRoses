@@ -97,9 +97,9 @@
 	ADD_TRAIT(H, TRAIT_BOOZE_SLIDER, TRAIT_GENERIC)
 
 /datum/job/matron_assistant
-	title = "Orphanage Assistant"
-	tutorial = "I once was an orphan, the matron took me in and now I am forever in her debt. \
-	That orphanage, those who were like me need guidance, I shall assist the matron in her tasks."
+	title = "Matrons Assistant"
+	tutorial = "I once was an street urchin, the matron took me in and now I am forever in her debt. \
+	That establishment, those who were like me need guidance, I shall assist the matron in her tasks."
 	department_flag = APPRENTICES
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
 	display_order = JDO_SERVANT
