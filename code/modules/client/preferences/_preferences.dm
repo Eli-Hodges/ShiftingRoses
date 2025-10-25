@@ -66,6 +66,9 @@ GLOBAL_LIST_INIT(name_adjustments, list())
 
 	var/uses_glasses_colour = 0
 
+	/// Whether to update the mutant colors when the preferences are saved
+	var/update_anthro_colors = TRUE
+
 	//character preferences
 	/// Keeps track of round-to-round randomization of the character slot, prevents overwriting.
 	var/slot_randomized
@@ -423,6 +426,8 @@ GLOBAL_LIST_INIT(name_adjustments, list())
 		dat += "<b>[skin_tone_wording]: </b><a href='?_src_=prefs;preference=s_tone;task=input'>Change </a>"
 		//dat += "<a href='?_src_=prefs;preference=toggle_random;random_type=[RANDOM_SKIN_TONE]'>[(randomise[RANDOM_SKIN_TONE]) ? "Lock" : "Unlock"]</A>"
 		dat += "<br>"
+		if(MUTCOLOR in pref_species.species_traits)
+			dat += "<b>Update feature colors with changes:</b> <a href='?_src_=prefs;preference=update_anthro_colors;task=input'>[update_anthro_colors ? "Yes" : "No"]</a><BR>"
 
 	dat += "<br>"
 	dat += "<b>Voice Type:</b> <a href='?_src_=prefs;preference=voicetype;task=input'>[voice_type]</a>"
@@ -434,7 +439,9 @@ GLOBAL_LIST_INIT(name_adjustments, list())
 	dat += "<br><b>ERP:</b> <a href='?_src_=prefs;preference=erp;task=menu'>Change</a>"
 	if(length(pref_species.descriptor_choices))
 		dat += "<br><b>Descriptors:</b> <a href='?_src_=prefs;preference=descriptors;task=menu'>Change</a>"
-		dat += "<br>"
+		if(length(pref_species.body_markings) || length(pref_species.body_marking_sets))
+			dat += "<br><b>Body Markings:</b> <a href='?_src_=prefs;preference=markings;task=menu'>Change</a>"
+	dat += "<br>"
 
 	dat += "<br><b>Headshot:</b> <a href='?_src_=prefs;preference=headshot;task=input'>Change</a>"
 	if(headshot_link != null)
@@ -1234,6 +1241,8 @@ GLOBAL_LIST_INIT(name_adjustments, list())
 						reset_all_customizer_accessory_colors()
 						randomize_all_customizer_accessories()
 						accessory = "Nothing"
+				if("update_anthro_colors")
+					update_anthro_colors = !update_anthro_colors
 
 				if("charflaw")
 					var/list/flawslist = GLOB.character_flaws.Copy()
@@ -1263,6 +1272,12 @@ GLOBAL_LIST_INIT(name_adjustments, list())
 					var/new_s_tone = browser_input_list(user, "CHOOSE YOUR HERO'S [uppertext(pref_species.skin_tone_wording)]", "THE SUN", listy)
 					if(new_s_tone)
 						skin_tone = listy[new_s_tone]
+						// If custom is selected, show color picker
+						if(skin_tone == SKIN_COLOR_CUSTOM)
+							var/new_custom_color = color_pick_sanitized_lumi(user, "Choose your custom skin color:", "Custom Skin Color", skin_tone)
+							if(new_custom_color)
+								skin_tone = new_custom_color // sanitize_hexcolor is done in the color_pick_sanitized_lumi proc so we ballin
+								try_update_anthro_colors()
 
 				if("selected_accent")
 					if(length(pref_species.multiple_accents))
@@ -1847,3 +1862,7 @@ GLOBAL_LIST_INIT(name_adjustments, list())
 
 	return TRUE
 
+/datum/preferences/proc/try_update_anthro_colors()
+	if(update_anthro_colors)
+		reset_body_marking_colors()
+		reset_all_customizer_accessory_colors()

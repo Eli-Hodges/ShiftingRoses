@@ -306,3 +306,24 @@
 	icon_state = "eyeliner"
 	default_color = "FF0000"
 	affected_bodyparts = HEAD
+
+/datum/body_marking/bun
+	icon = 'icons/mob/body_markings/other_markings.dmi'
+	name = "Bun"
+	icon_state = "bun"
+	default_color = "FFFFFF"
+	affected_bodyparts = HEAD
+
+/datum/body_marking/bangs
+	icon = 'icons/mob/body_markings/other_markings.dmi'
+	name = "Bangs"
+	icon_state = "bangs"
+	default_color = "FFFFFF"
+	affected_bodyparts = HEAD
+
+/datum/body_marking/nose
+	icon = 'icons/mob/body_markings/other_markings.dmi'
+	name = "Nose"
+	icon_state = "nose"
+	default_color = "FF0000"
+	affected_bodyparts = HEAD

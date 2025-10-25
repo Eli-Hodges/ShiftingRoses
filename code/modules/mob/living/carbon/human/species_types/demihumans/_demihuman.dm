@@ -34,7 +34,7 @@
 	allowed_pronouns = PRONOUNS_LIST
 	skin_tone_wording = "Ancestry"
 	default_color = "FFFFFF"
-	species_traits = list(EYECOLOR, HAIR ,FACEHAIR, LIPS, STUBBLE, OLDGREY)
+	species_traits = list(EYECOLOR, HAIR ,FACEHAIR, LIPS, STUBBLE, OLDGREY, MUTCOLOR)
 	default_features = MANDATORY_FEATURE_LIST
 	use_skintones = TRUE
 	possible_ages = NORMAL_AGES_LIST_CHILD
@@ -106,6 +106,23 @@
 		/datum/bodypart_feature/hair/head,
 		/datum/bodypart_feature/hair/facial,
 	)
+	body_marking_sets = list(
+		/datum/body_marking_set/none,
+		/datum/body_marking_set/belly,
+		/datum/body_marking_set/socks,
+		/datum/body_marking_set/tiger,
+		/datum/body_marking_set/tiger_dark,
+	)
+	body_markings = list(
+		/datum/body_marking/flushed_cheeks,
+		/datum/body_marking/eyeliner,
+		/datum/body_marking/tonage,
+		/datum/body_marking/socklonger,
+		/datum/body_marking/tips,
+		/datum/body_marking/nose,
+		/datum/body_marking/bangs,
+		/datum/body_marking/bun,
+	)
 	customizers = list(
 		/datum/customizer/organ/eyes/humanoid,
 		/datum/customizer/bodypart_feature/hair/head/humanoid,
@@ -115,6 +132,7 @@
 		/datum/customizer/organ/ears/demihuman,
 		/datum/customizer/organ/horns/demihuman,
 		/datum/customizer/organ/tail/demihuman,
+		/datum/customizer/organ/snout/anthro,
 		/datum/customizer/organ/genitals/penis/human,
 		/datum/customizer/organ/genitals/vagina/human,
 		/datum/customizer/organ/genitals/breasts/human,
@@ -185,7 +203,7 @@
 	C.remove_language(/datum/language/beast)
 
 /datum/species/demihuman/get_skin_list()
-	return sortList(list(
+	var/list/return_value = sortList(list(
 		"Ice Cap" = SKIN_COLOR_ICECAP, // - (Pale)
 		"Arctic" = SKIN_COLOR_ARCTIC, // - (White 1)
 		"Tundra" = SKIN_COLOR_TUNDRA, // - (White 2)
@@ -198,3 +216,6 @@
 		"Desert" = SKIN_COLOR_DESERT, //  - (Middle-east)
 		"Crimson Lands" = SKIN_COLOR_CRIMSONLANDS, // - (Black)
 	))
+
+	return_value += list("Custom" = SKIN_COLOR_CUSTOM)
+	return return_value

@@ -7,7 +7,6 @@
 	name = "Horns"
 	organ_type = /obj/item/organ/horns
 	organ_slot = ORGAN_SLOT_HORNS
-	allows_accessory_color_customization = FALSE
 
 /datum/customizer/organ/horns/humanoid
 	customizer_choices = list(/datum/customizer_choice/organ/horns/humanoid)
