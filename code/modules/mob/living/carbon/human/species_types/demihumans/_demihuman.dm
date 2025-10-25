@@ -29,9 +29,7 @@
 	conflating the idea of freedom between the two deities. There is, of course, the old wives' tales that circulate... \
 	how hollowkin lead to infestations of Werewolves. Hollowkin are often denied nobility from this rumour alone. \
 	Whether this is true or not is unknown to the common person, \
-	but to those familiar with the horrendous magics used by the dark elves, they must only assume the worst. \
-	\n\n\
-	THIS IS A DISCRIMINATED SPECIES. EXPECT A MORE DIFFICULT EXPERIENCE. PLAY AT YOUR OWN RISK."
+	but to those familiar with the horrendous magics used by the dark elves, they must only assume the worst."
 
 	allowed_pronouns = PRONOUNS_LIST
 	skin_tone_wording = "Ancestry"

@@ -29,9 +29,7 @@
 	that appear consistently in Tiefling biology make them considerably fragile. \
 	It is not uncommon for a tiefling to be generally unpleasant to look at in the eye of the commonfolk. \
 	As if to make matters worse, their hellish progenitors have left them a destiny of misfortune, \
-	though perhaps their immunity to fire opens new opportunities for them... \
-	\n\n\
-	THIS IS A DISCRIMINATED SPECIES. EXPECT A MORE DIFFICULT EXPERIENCE. <B>NOBLES EVEN MORE SO.</B> PLAY AT YOUR OWN RISK."
+	though perhaps their immunity to fire opens new opportunities for them..."
 
 	skin_tone_wording = "Progenitor"
 
