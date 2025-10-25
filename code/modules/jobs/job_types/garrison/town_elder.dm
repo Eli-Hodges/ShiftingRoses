@@ -11,10 +11,10 @@
 	faction = FACTION_TOWN
 	total_positions = 1
 	spawn_positions = 1
-	min_pq = 10 // Requires knowledge and good rp for the classes.
+	min_pq = 0 // Requires knowledge and good rp for the classes.
 	bypass_lastclass = TRUE
 	spells = list(/datum/action/cooldown/spell/undirected/list_target/convert_role/militia)
-	allowed_ages = list(AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
+	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
 	allowed_races = RACES_PLAYER_NONHERETICAL
 
 	advclass_cat_rolls = list(CTAG_TOWN_ELDER = 20)

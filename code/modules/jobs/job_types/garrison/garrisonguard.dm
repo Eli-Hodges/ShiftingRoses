@@ -9,10 +9,10 @@
 	faction = FACTION_TOWN
 	total_positions = 8
 	spawn_positions = 8
-	min_pq = 4
+	min_pq = 0
 	bypass_lastclass = TRUE
 
-	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_IMMORTAL)
+	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
 	allowed_races = RACES_PLAYER_GUARD
 
 	outfit = /datum/outfit/job/guardsman	//Default outfit.

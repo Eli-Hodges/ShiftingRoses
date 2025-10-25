@@ -9,7 +9,7 @@
 	faction = FACTION_TOWN
 	total_positions = 0
 	spawn_positions = 1
-	min_pq = 6
+	min_pq = 0
 	bypass_lastclass = TRUE
 
 	spells = list(/datum/action/cooldown/spell/undirected/list_target/convert_role/servant)

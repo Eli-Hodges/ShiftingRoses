@@ -15,7 +15,7 @@
 	spells = list(
 		/datum/action/cooldown/spell/undirected/list_target/grant_title,
 	)
-	min_pq = 10
+	min_pq = 0
 	bypass_lastclass = TRUE
 
 	allowed_races = RACES_PLAYER_ROYALTY
