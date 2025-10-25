@@ -12,5 +12,26 @@
                 "rscadd": "Lore"
             }
         ]
+    },
+    "2025-10-25": {
+        "AllCorruptingWyrm": [
+            {
+                "rscadd": "See commit"
+            },
+            {
+                "rscadd": "the funny rose png"
+            },
+            {
+                "rscadd": "furry stuff"
+            }
+        ],
+        "Varoxus": [
+            {
+                "rscdel": "Removed vanderlin warning for kobolds."
+            },
+            {
+                "bugfix": "Gave kobolds pronoun choices"
+            }
+        ]
     }
 }
