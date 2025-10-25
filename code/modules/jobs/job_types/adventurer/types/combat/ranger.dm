@@ -2,16 +2,7 @@
 	name = "Ranger"
 	tutorial = "Humen and elf rangers often live among each other, as these bow-wielding \
 	adventurers are often scouting the lands for the same purpose."
-	allowed_races = list(\
-		SPEC_ID_HUMEN,\
-		SPEC_ID_ELF,\
-		SPEC_ID_HALF_ELF,\
-		SPEC_ID_TIEFLING,\
-		SPEC_ID_DROW,\
-		SPEC_ID_AASIMAR,\
-		SPEC_ID_HALF_ORC,\
-		SPEC_ID_RAKSHARI,\
-	)
+	allowed_races = RACES_PLAYER_ALL
 	outfit = /datum/outfit/job/adventurer/ranger
 	min_pq = 0
 	category_tags = list(CTAG_ADVENTURER)

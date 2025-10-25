@@ -9,7 +9,7 @@
 	faction = FACTION_TOWN
 	total_positions = 1
 	spawn_positions = 1
-	min_pq = 6
+	min_pq = 0
 
 	allowed_races = RACES_PLAYER_COURT_PHYSICIAN
 

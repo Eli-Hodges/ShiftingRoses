@@ -253,15 +253,7 @@
 /datum/migrant_role/qatil
 	name = "Qatil"
 	greet_text = "You are the Amirah's confident and most loyal protector, you shan't let them die in these wretched lands."
-	allowed_races = list(\
-		SPEC_ID_HUMEN,\
-		SPEC_ID_ELF,\
-		SPEC_ID_RAKSHARI,\
-		SPEC_ID_HALF_ELF,\
-		SPEC_ID_TIEFLING,\
-		SPEC_ID_DROW,\
-		SPEC_ID_HALF_DROW,\
-	)
+	allowed_races = RACES_PLAYER_ALL
 	outfit = /datum/outfit/job/zalad_migration/qatil
 
 /datum/outfit/job/zalad_migration/qatil/pre_equip(mob/living/carbon/human/H)

@@ -86,17 +86,7 @@
 	name = "Guard"
 	greet_text = "You are apart of a convoy returning prisoners to Vanderlin. Obey the gaoler and ensure the prisoners get back to the dungeons."
 	outfit = /datum/outfit/job/mig_guard
-	allowed_races = list(\
-		SPEC_ID_HUMEN,\
-		SPEC_ID_ELF,\
-		SPEC_ID_HALF_ELF,\
-		SPEC_ID_DWARF,\
-		SPEC_ID_TIEFLING,\
-		SPEC_ID_DROW,\
-		SPEC_ID_HALF_DROW,\
-		SPEC_ID_AASIMAR,\
-		SPEC_ID_HALF_ORC,\
-	)
+	allowed_races = RACES_PLAYER_ALL
 	grant_lit_torch = TRUE
 	is_foreigner = FALSE
 

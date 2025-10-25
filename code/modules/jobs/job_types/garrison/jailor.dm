@@ -12,9 +12,9 @@
 	faction = FACTION_TOWN
 	total_positions = 0
 	spawn_positions = 0
-	min_pq = 4
+	min_pq = 0
 
-	allowed_ages = list(AGE_OLD, AGE_IMMORTAL) // He's a wierd elderly man that is fucking jacked- this will make for a memorable character I think.
+	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
 	allowed_races = RACES_PLAYER_NONDISCRIMINATED
 
 	outfit = /datum/outfit/job/jailor

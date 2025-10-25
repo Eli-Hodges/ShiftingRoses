@@ -14,11 +14,11 @@
 	faction = FACTION_TOWN
 	total_positions = 4
 	spawn_positions = 4
-	min_pq = 5
+	min_pq = 0
 	bypass_lastclass = TRUE
 	selection_color = "#0d6929"
 
-	allowed_ages = list(AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL, AGE_CHILD)
+	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
 	allowed_races = RACES_PLAYER_GUARD
 	give_bank_account = 30
 	can_have_apprentices = FALSE

@@ -12,7 +12,7 @@
 	faction = FACTION_TOWN
 	total_positions = 4
 	spawn_positions = 4
-	min_pq = 6
+	min_pq = 0
 	bypass_lastclass = TRUE
 
 	allowed_races = RACES_PLAYER_NONDISCRIMINATED
@@ -21,7 +21,7 @@
 	advclass_cat_rolls = list(CTAG_MENATARMS = 20)
 	cmode_music = 'sound/music/cmode/garrison/CombatManAtArms.ogg'
 	give_bank_account = 15
-	min_pq = 6
+	min_pq = 0
 
 /datum/outfit/job/watchman
 	job_bitflag = BITFLAG_GARRISON

@@ -10,7 +10,7 @@
 	faction = FACTION_TOWN
 	total_positions = 1
 	spawn_positions = 1
-	min_pq = 10
+	min_pq = 0
 
 	allowed_sexes = list(FEMALE)
 	allowed_ages = list(AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
@@ -49,7 +49,7 @@
 		H.adjust_skillrank(/datum/skill/misc/sneaking, 1, TRUE)
 		H.adjust_skillrank(/datum/skill/misc/lockpicking, 1, TRUE)
 		H.adjust_skillrank(/datum/skill/misc/climbing, 1, TRUE) //She is a old thief.
-		H.change_stat(STATKEY_SPD, 1) //this is to counter the negative spd/end stats from being old so they can chase the orphans in case they're not listening, the other stats are left untouched.
+		H.change_stat(STATKEY_SPD, 1)
 		H.change_stat(STATKEY_END, 1)
 	H.change_stat(STATKEY_STR, -1)
 	H.change_stat(STATKEY_INT, 2)
