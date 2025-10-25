@@ -3,7 +3,7 @@
 	tutorial = "You serve your lord as hand, taking care of diplomatic actions within your realm, \
 	but why have you come to the Island?"
 	allowed_sexes = list(MALE)
-	allowed_races = list(SPEC_ID_HUMEN)
+	allowed_races = RACES_PLAYER_ALL
 	outfit = /datum/outfit/job/adventurer/heartfelthand
 	maximum_possible_slots = 1
 	min_pq = 1

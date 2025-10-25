@@ -3,7 +3,7 @@
 	greet_text = "These lands have forfeited Psydon and the Ten. You have come to restore the True faith to these people and tear out the rot festering within."
 	antag_datum = /datum/antagonist/purishep
 	outfit = /datum/outfit/job/specialinquisitor
-	allowed_races = list(SPEC_ID_HUMEN)
+	allowed_races = RACES_PLAYER_ALL
 	is_recognized = TRUE
 
 /datum/outfit/job/specialinquisitor/pre_equip(mob/living/carbon/human/H, visualsOnly)
