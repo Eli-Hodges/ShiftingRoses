@@ -34,7 +34,7 @@
 	H.adjust_skillrank(/datum/skill/craft/crafting, 3, TRUE)
 	H.adjust_skillrank(/datum/skill/craft/blacksmithing, 4, TRUE)
 	H.adjust_skillrank(/datum/skill/craft/armorsmithing, 4, TRUE)
-	H.adjust_skillrank(/datum/skill/craft/weaponsmithing, 2, TRUE)
+	H.adjust_skillrank(/datum/skill/craft/weaponsmithing, 4, TRUE)
 	H.adjust_skillrank(/datum/skill/craft/smelting, 3, TRUE)
 	H.adjust_skillrank(/datum/skill/craft/engineering, 3, TRUE)
 	H.adjust_skillrank(/datum/skill/craft/traps, 2, TRUE) // For craftable beartraps
@@ -104,7 +104,7 @@
 	H.adjust_skillrank(/datum/skill/combat/unarmed, 2, TRUE)
 	H.adjust_skillrank(/datum/skill/craft/crafting, 3, TRUE)
 	H.adjust_skillrank(/datum/skill/craft/blacksmithing, 4, TRUE)
-	H.adjust_skillrank(/datum/skill/craft/armorsmithing, 2, TRUE)
+	H.adjust_skillrank(/datum/skill/craft/armorsmithing, 4, TRUE)
 	H.adjust_skillrank(/datum/skill/craft/weaponsmithing, 4, TRUE)
 	H.adjust_skillrank(/datum/skill/craft/smelting, 3, TRUE)
 	H.adjust_skillrank(/datum/skill/craft/engineering, 3, TRUE)
