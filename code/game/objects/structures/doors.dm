@@ -252,7 +252,7 @@
 			if(held?.has_access())
 				user.visible_message(
 					span_warning("[user] fumbles with \the [held]..."),
-					span_notice("I fumble with my \the [held]...")
+					span_notice("I fumble with my [held]...")
 				)
 				if(do_after(user, 0.5 SECONDS, src))
 					bump_unlock(user, held)
