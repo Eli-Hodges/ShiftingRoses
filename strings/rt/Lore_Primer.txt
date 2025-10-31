@@ -20,7 +20,7 @@ While it's not required reading, leadership roles may find this information usef
 		<summary><em> Points of Interest </em></summary>
 
 		<p><strong> - Pulse of the Sea </strong><br> The center point of the straits which seperate the Three Continents, trade and movement between it is almost entirely controlled by the City States.</p>
-		<p><strong> - Library of Ilonzo </strong><br>  Located within the City State of Merona, it is the largest known gathering of knowledge within  </p>
+		<p><strong> - Library of Ilonzo </strong><br>  Located within the City State of Merona, it is the largest known gathering of knowledge within the City States. </p>
 	</details>
 	<br>
 
@@ -70,11 +70,11 @@ While it's not required reading, leadership roles may find this information usef
 
 	<details>
 		<summary><em> Points of Interest </em></summary>
-		<p><strong> - Beak of Gendeni</strong><br> A massive, faintly curved valley dug into the center of the Denor Plains. The capital of the Orgi union resides within this valley, and it is the economic and cultural capital of the continent. Massive towers line the edges where the Orcs use blimps for transport across the plains. </p>
+		<p><strong> - Beak of Terra</strong><br> A massive, faintly curved valley dug into the center of the Denor Plains. The capital of the Orgi union resides within this valley, and it is the economic and cultural capital of the continent. Massive towers line the edges where the Orcs use blimps for transport across the plains. </p>
 		<p><strong> - Denor Plains</strong<br> The wide swathe of shrubland which dominates the center of the continent. Multiple settlements dot its landscape. Immensely fertile, and also immensely dangerous. Home of Orcs, Goblins, and Plains Dwarves.</p>
 		<p><strong> - Juwzlic Mountains</strong<br> A massive range of mountains which completely seperates a small portion of the southern continent from the rest of it.</p>
 		<p><strong> - Aldric's Peninsula</strong<br> Located on the north eastern part of the continent, just short of the entrance to the Northern Tundras, it hosts a reclusive gathering of humans known as the Northmen. </p>
-		<p><strong> - Far-Away Valley</strong<br> Cut off via Juwzlic Mountains from the rest of the continent, it is a fertile yet relatively uninhabited stretch of land. The City-States maintain a single trading port, with which they have based operations towards the colonization of the Temporal Lands.</p>
+		<p><strong> - Far-Away Valley</strong<br> Cut off via Juwzlic Mountains from the rest of the continent, it is a fertile yet relatively uninhabited stretch of land. The City-States maintain a single trading port, with which they have based operations towards the colonization of the Temporal Lands. Rumors persist that the legendary Amazons reside far into the valley.</p>
 		</details>
 	<br>
 
@@ -89,7 +89,7 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><em> Points of Interest </em></summary>
 
-		<p><strong> - Zizo's Claw Marquisate </strong><br> Located at the furthest westernmost reaches of Subterra, by Gorogomn, it is the seat of the Dark Elven Kingdom in the Subterra. Very little is known about it, besides that the Dark Elves don't allow anyone within. </p>
+		<p><strong> - Zizo's Claw </strong><br> Located at the furthest westernmost reaches of Subterra, by Gorogomn, it is the seat of the Dark Elven Kingdom in the Subterra. Very little is known about it, besides that the Dark Elves don't allow anyone within. </p>
 		<p><strong> - Malum's Anvil Underground </strong><br> Underneath Malum's Anvil located on Hearthshire. Sacred grounds to the Stone Dwarves. </p>
 		<p><strong> - Gnarled Fangs </strong><br> The twisted paths leading from Hearthshire to Alur are noted to be particularly difficult to traverse, and are home to some of the most violent fauna. </p>
 		<p><strong> - Stonehold </strong><br> Main Kingdom of the Stone Dwarves. It resides just underneath Solaros' Grand Domain, and is a natural ally of the Domain. </p>
@@ -101,7 +101,7 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><em> Points of Interest </em></summary>
 
-		<p><strong> - Evviva's Basin </strong><br> A massive drainage basin located in the north western regions of the continent and flowing southward. The Capital of the Wulisan Empire is located on a large island in between the rivers of the basin. </p>
+		<p><strong> - Uthica's Basin </strong><br> A massive drainage basin located in the north western regions of the continent and flowing southward. The Capital of the Wulisan Empire is located on a large island in between the rivers of the basin. </p>
 		<p><strong> - Torki River </strong><br> The massive river flowing through the continent, creating the largest single stretch of farmland in the known continents. The Empire of Wulisia relies heavily upon its exports of food from these farms. </p>
 		<p><strong> - Forests of Beyond </strong><br> A vast expanse of forests located throughout the eastern lands. Notable for the 'Fingers of Terra', massive redwood trees spanning hundreds of feet high. </p>
 		</details>
@@ -121,18 +121,18 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		<em>The Suns Own</em>
 		<br><br>
-		Located in the southern part of Hearthshire, Solaros' Grand Domain is arguably the single most powerful political entity in the known world. Almost all peoples use the Solar Calendar, canonized by the Sunlight Temple during the year 0SC, and the Trimvirate Pantheon is widely considered to be the 'defacto' religion of the Three Continents. The people of Solaros' Grand Domain are known to be steadfast, loyal, and deeply faithful to their patrons and their people. It is one of the most diverse factions within the Three Continents, and in spite of being founded by Humans during the times before the Solar Calender, Humans no longer remain the majority figure within the Domain. Its notable tolerance towards all people of all walks of life, and good standard of living for even the lowest class, makes it the most popular migrational destination to anyone seeking a new life. With the end of the Fourth Solarian/Grenzelhoftian War, Solaros' Grand Domain found itself rebuilding most of its more northern territories, a process which has taken up most of its concerns for the past few years.
+		Located in the southern part of Hearthshire, Solaros' Grand Domain is arguably the single most powerful political entity in the known world. Almost all peoples use the Solar Calendar, canonized by the Sunlight Temple during the year 0SC, and it maintains a strong relationship with the Siluchi City States to allow a strong grip on trading. The people of Solaros' Grand Domain are known to be steadfast, loyal, and deeply faithful to their patrons and their people. It is one of the most diverse factions within the Three Continents, and in spite of being founded by Humans during the times before the Solar Calender, Humans no longer remain the majority figure within the Domain. Its notable tolerance towards all people of all walks of life, and good standard of living for even the lowest class, makes it the most popular migrational destination to anyone seeking a new life. With the end of the Fourth Solarian/Grenzelhoftian War, Solaros' Grand Domain found itself rebuilding most of its more northern territories, a process which has taken up most of its concerns for the past few years.
 		<br><br>
 		The Grand Domain's prominence was built from tactical allyship, and a willingness to embrace industrialization. Through close cooperation with Stonekeep, railways have connected almost the entirety of Grand Domain lands to one another, allowing for unprecedented connection and reach between its peoples. It holds both a deep friendship with the Dwarves of Stonekeep, and additional friendship with many of the Isle City States. Its main god is Sol, but worship of every diety of the Pantheon is welcomed within the Domain. Its capital is located within the shores of the Bay of Stars. People from Solaros' Grand Domain are generally called Solaros' People, or Domainers.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> The City States </strong></summary>
+		<summary><strong> Siluchi City States </strong></summary>
 		<br>
 		<em>Land of Riches, the Isle City States, the Pulse of the Continents</em>
 		<br><br>
-		The City States are not a single political entity, but rather a collection of independent republics which span the large islands broken off from the Bay of Stars, in what many believe to have been a star landing upon Terra some thousands of years ago. These republics, while nominally working together with one another, have had their fair share of spats, skirmishes, and otherwise blood disagreements in the many years of their existence. However no quarrel lasts long, and the City States are broadly considered to be a single entity within the political spectrum. Many isles with which the city states reside rest in the center of the straits which seperate the three continents. This has made the City States the global center for trade and commerce between all factions, while also making it a cultural, intellectual, and artistic powerhouse. 
+		The Siluchi City States are not a single political entity, but rather a collection of independent republics which span the large islands broken off from the Bay of Stars, in what many believe to have been a star landing upon Terra some thousands of years ago. These republics, while nominally working together with one another, have had their fair share of spats, skirmishes, and otherwise blood disagreements in the many years of their existence. However no quarrel lasts long, and the City States are broadly considered to be a single entity within the political spectrum. Many isles with which the city states reside rest in the center of the straits which seperate the three continents. This has made the City States the global center for trade and commerce between all factions, while also making it a cultural, intellectual, and artistic powerhouse. In recent years, the founding of the 'Triumvirate Pantheon' to canonize all of the major religions of the Three Continents together has centered from the City States.
 		<br><br>
 		The City States have had the good fortune of being able to profit off of nearby wars without ever taking part of them due to their impressive array of Mercenaries. All City States field a number of Pavise Crossbowmen, which have long been a staple purchase for Domainer Armies seeking to augment their ranged capabilities. Espardo Duelists, Silucian Sergeants, and Veronian Montate are all hired individually as bodyguards or as small groups to augment armies. There is no singular god worshiped above any other within the City States. People from the City States are usually called City Staters, Statesmen, or Republicans. Some may also be called by their individual City State name, such as Esparian, Deonian, or Veronian.
 		<br><br>
@@ -145,7 +145,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br><br>
 		Grenzelhoft is an imperialist state carved across the center of Hearthshire, from coast to coast. Its founding is shrouded in mystery, and nobody knows the true story of what brought about the Black Empire. What isn't under doubt however, is the sheer force of might Grenzelhoft fields within its lands. Grenzelhoft is a military empire where the rule is passed down not to sons or daughters, but to the General most deserving to oversee the Empire. All individuals who come of age are required to spend at least two years in service of either their local county militia, or within one of its many Free Companies. This has led Grenzelhoft to field the largest and most professional armies within the world, having defeated every neighbor they have at least once prior, including the Dukedom of Camrey, the Kingdom of Helmsmore, and Solaros' Grand Domain.
 		<br><br>
-		Grenzelhoftians proudly assimilate all willing to come and serve, cultures and religions mean little to the Black Empire besides your physical capabilites, unless you are a worshiper of the Worldeaters. Kerack worshipers are put to death on the spot. Besides that, with a blade in your hand you'll be welcome to the Grenzelhoftian cause. Their history is defined by war, death, and destruction, for their armies are known to give no mercy. Ilia, Goddess of War and Fertility, is their main god, and in spite of their tolerance towards The Triumvirate Pantheon, worship of Sol can find one with a sideways glance given their long history with Solaros' Grand Domain.
+		Grenzelhoftians proudly assimilate all willing to come and serve, cultures and religions mean little to the Black Empire besides your physical capabilites. Founders of what is known as the 'Hearthshire Pantheon', Grenzelhoft is a cultural centerpiece of Hearthshire, which puts it consistently at odds with Solaros' Grand Domain. Most other Pantheons are frowned upon, and Kerack worshipers are put to death on the spot. Besides that, with a blade in your hand you'll be welcome to the Grenzelhoftian cause. Their history is defined by war, death, and destruction, for their armies are known to give no mercy. Ilia, Goddess of War and Fertility, is the centerpiece of their religious Pantheon.
 		<br><br>
 		With the end of the 4th Solarian/Grenzelhoftian war, Grenzelhoft has had been rebuilding some of its southern territories, and recovering from the loss of their Emperor and many of their highest generals due to the last battle of the war, which saw them wiped from the fields of the Grand Domain by an inferior force due to tactics never seen before. While the war was generally considered a stalemate, the bitter sting of the final defeat hasn't left the hearts of the nobility, and while most of the Free Companies move to offer their services as Mercenaries elsewhere, some consider it only a matter of time before war falls upon the Black Empire once more.
 		<br><br>
@@ -156,11 +156,11 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		<em>The Breadbasket of Alur, Empire of the Rivers, Merchants of the Pasha</em>
 		<br><br>
-		A grand-spanning, mercantilist empire which found prosperity and riches from both spice and food. Wilusia resides almost entirely within the confines of the Torki River's wide reach, yet there could be no more suitable a place to live than the most fertile lands in the known world. Within their land lies great feats of engineering, and grand artistic displays prominently shown within any of its myriad of villages and towns along the river.
+		A grand-spanning, mercantilist empire which found prosperity and riches from both spice and food. Wilusia resides almost entirely within the confines of the Torki River's wide reach, yet there could be no more suitable a place to live than the most fertile lands in the known world. Within their land lies great feats of engineering, and grand artistic displays prominently shown within any of its myriad of villages and towns along the river. Their capital is the centerpiece of Wilusian worship of what is known as the Wilusian Pantheon, worshiping the stars in the skies as dieties which watch over the Wilusian peoples.
 		<br><br>
-		Wilusia has suffered repeated attempts by others, namely Grenzelhoft and the Grand Domain, to conquer its lands and aquire its many riches and materials, yet no exterior force has ever been able to defeat its capital, Fenkhu, in spite of Grenzelhoft having put it to siege for over seven years. In spite of City State mercenaries having been a part of many of these wars, Wilusia maintains good relations with the City States, whom are their main middle man to the wider Hearthshire kingdoms.
+		Wilusia has suffered repeated attempts by others, namely Grenzelhoft and the Grand Domain, to conquer its lands and aquire its many riches and materials, yet no exterior force has ever been able to defeat its capital, Fenkhu. In one particular instance, Grenzelhoft put Fenkhu to siege for seven years before they were routed at sea. In spite of City State mercenaries having been a part of many of these wars, Wilusia maintains good relations with the City States, whom are their main middle man to the wider Hearthshire kingdoms.
 		<br><br>
-		Wilusians worship a wide variety of gods, mainly Hixis, Gendeni, and Xylic. Wilusia also has a large following of Terra Worshipers. Primarily a Human Empire, it is no less home to just about every race in the known world, albeit not as abundantly as Solaros' Grand Domain. While known for its vast lands and many villages, it is also known to allow for legal slavery, albeit this practice is not widely used within its cities and is generally left mostly to the smaller villages. It is seen mostly as either a punishment for a crime, or as a means to payback debt. People from the Wilusian Dynasty are simply known as Wilusians.
+		In spite of the Wilusian Pantheon being their primary religion, Terra worship is approved and the recent introduction of the 'Triumvirate' Pantheon has been generally well received. Predominantly a Human Empire, it is no less home to just about every race in the known world, including the largest gatherings of Tieflings. While known for its vast lands and many villages, it is also known to allow for legal slavery, albeit this practice is not widely used within its cities and is generally left mostly to the smaller villages. It is seen mostly as either a punishment for a crime, or as a means to payback debt. People from the Wilusian Dynasty are simply known as Wilusians.
 		<br><br>
 	</details>
 
@@ -171,9 +171,9 @@ While it's not required reading, leadership roles may find this information usef
 		<br><br>
 		The Ogri Union is a coalition consisting of tribes of Orcs, Goblins, and Plains Dwarves who formed together after the ascension of Graggar. The devastation left behind by the god deeply shook the faith of the once proudly worshiping Orcish peoples, and a massive civil war saw the destruction of almost half of the Orcish and Goblin tribes. In the ashes of what was the most violent war on the continent, a Warlord and the tribes under her sought to rebuild their lands from the ground up to ensure that an ascension in the likes of Graggar never happened again. Aided by the Plains Dwarves, and an Adventurer from the City States who would come to have a profound impact on the future government the new Union would become, the Orcs and Goblins salvaged their ravaged lands and turned it into a prosperous empire. 
 		<br><br>
-		The Orgi Union is governed by a council of representatives voted upon by each town, village, and city among the plains, who all get one represenative to have a seat on the council. The council then votes upon a Chieftain who is broadly just a figurehead for the people of the Union. The Ogri Union is most notable for having no real commerce outside of interactions with other empires, as Food, Water, and Shelter are regarded as basic rights for all peoples. All transactions are either barters, favors, or simply good deeds done to assist in one another.
+		The Orgi Union is governed by a council of representatives voted upon by each town, village, and city among the plains, who all get one represenative to have a seat on the council. The council then votes upon a Chieftain who is broadly a figurehead for the people of the Union. The Ogri Union is most notable for having no real commerce outside of interactions with other empires, as Food, Water, and Shelter are regarded as basic rights for all peoples. All transactions are either barters, favors, or simply good deeds done to assist in one another.
 		<br><br>
-		The people of the Ogri union mainly consist of Orcs, Goblins, and Plains Dwarves, with very few peoples otherwise. They are unique for using blimps and zeppelins to navigate the immensely harsh terrain of the Denor Plains. Ever since the ascension of Graggar, many have rejected gods as worthy of worship, and thus Terran Worship is the major religion within the Union. Gendeni is the only generally respected god besides that, and secret Graggar cults still reside within the plains. People from the Ogri Union are usually just called by their race, but some people call them Denorians, Ogrians, or Unioners.
+		The people of the Ogri union mainly consist of Orcs, Goblins, Plains Dwarves, and Harpies, with very few peoples otherwise. They are unique for using blimps and zeppelins to navigate the immensely harsh terrain of the Denor Plains. Ever since the ascension of Graggar, many have rejected gods as worthy of worship, and thus Terran Worship is the major religion within the Union. The Triumvirate Pantheon holds no sway within Ogri lands, and secret Graggar cults still reside within the plains. People from the Ogri Union are usually just called by their race, but some people call them Plainsmen, Ogrians, or Unioners.
 		<br><br>
 	</details>
 
@@ -258,7 +258,13 @@ While it's not required reading, leadership roles may find this information usef
 	<hr>
 	<strong><span style="font-size:115%"> The Triumvirate Pantheon </span></strong>
 	<br>
-	<em> The Three Continents all share the same gods, even if we worship them in different ways. </em>
+	<em> Not technically its own Pantheon, the Triumvirate Pantheon is an attempt to canonize all three major religious Pantheons together. Headed by scholars and holy folk from the Siluichi City States, the Triumvirate Pantheon has met mixed results in the recent years, but maintains staunch support from the islanders. </em>
+	<br><br>
+
+	<hr>
+	<strong><span style="font-size:115%"> Solar Pantheon </span></strong>
+	<br>
+	<em> Worhshipers of Sol. The primary Religion of Solaros' Grand Domain. </em>
 	<br><br>
 
 	<details>
@@ -283,29 +289,31 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		While not actually considered the Gods of anything, Bendis and Devana are regarded as important aspects of Sol's worship. Astroloy has long discovered that the moons reflect upon Terra the sunlight of Sol, and it is believed that the two moons are Sol's shepards and lovers who watch over Terra while they sleep.
 		<br><br>
-		Not generally worshiped directly, the Kingdom of Siculi within the City States believes their two noble houses to be direct descendants of the offspring of the Two Moons and Sol themselves.
+		Considered an extension of Sol's power, worshiped in tandem with Sol.
 		<br><br>
 	</details>
+
+	<hr>
+	<strong><span style="font-size:115%"> Hearthshire Pantheon </span></strong>
+	<br>
+	<em> Worhshipers of Gods who walk Terra among mortals. The primary Religion of all Hearthshire countries besides Solaros' Grand Domain. Centered around Grenzelhoft. </em>
+	<br><br>
 
 	<details>
 		<summary><strong> Ilia, Goddess of Love, War, and Fertility </strong></summary>
 		<br>
 		<span style="display:block; color:#8b2d39; font-size:120%"> "I BRING LIFE, AND DEATH." </span>
 		<br>
-		Also known as the Goddess of the Mortal Cycle, Ilia is an honorable god who seeks for her followers to live life to the fullest, and find the strength both to fight for what they believe in, and see their prognency grow up to take their place once their time is up.
-		<br><br>
-		She is Grenzelhofts main Goddess, and the Grenzelhoftians regard her as more important than any other god.
+		Also known as the Goddess of the Mortal Cycle, Ilia is an honorable god who seeks for her followers to live life to the fullest, and find the strength both to fight for what they believe in, and see their prognency grow up to take their place once their time is up. She is almost always depicted as being pregnant and wearing full armor besides.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Hixis, Goddess of Storm, Fire, Ocean, and Breeze </strong></summary>
+		<summary><strong> Hixis, Goddess of Storm, Ocean, and Breeze </strong></summary>
 		<br>
 		<span style="display:block; color:#74875a; font-size:120%"> "THE WORLD MOVES UNDER MY GAZE." </span>
 		<br>
-		Known as the Elemental Star, Hixis shines brightly over the nighttime sky and watches over the elements of the world. The waves crash, the winds howl, the fires blaze, and the storms sing solely based on her will according to her followers.
-		<br><br>
-		Her worship is mainly within the Wulisian Dynasty, but she is common on all three continents.
+		Known as the Goddess of the Ocean, she is believed to guide sailors and traders through harsh storm, and protects from danger. It is her wrath which calls upon violent torrents and unrelenting lightning if you earn her ire.
 		<br><br>
 	</details>
 
@@ -316,8 +324,6 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		The Goddess of Life, Gendeni sees to it that nature itself is maintained through her tireless watch over all creatures. She reminds all persons that in spite of everything, they are in and of themselves animals whom are still subject to natures wrath.
 		<br><br>
-		Her most ardent worshipers are in Wilusia and Camrey, who both praise her for her bountiful harvest, and their survival in harsh lands respectively. She is worshiped throughout most of the land by tribes, in all manner of different names.
-		<br><br>
 	</details>
 
 	<details>
@@ -327,40 +333,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		Known as The Forge Star. All manner of work, such as architecture and even small things such as fletching and pottery, are his domain. Hard work is a cornerstone of his worship.
 		<br><br>
-		The primary god of the Mountain Dwarves and Gnomes of Stonekeep. The Mountain Dwarves believe that he is actually a fallen star whose corpse lies under Malum's Rest. Malum worship is surprisingly scarce besides, and only the City States have much of it outside of Stonekeep.
-		<br><br>
-	</details>
-
-	<details>
-		<summary><strong> Evviva, Goddess of Healing, Comfort, and Courage </strong></summary>
-		<br>
-		<span style="display:block; color:#e4bae6; font-size:115%"> "TRUE STRENGTH LIES IN YOUR WILLINGNESS TO HELP YOUR FELLOW PERSON."</span>
-		<br>
-		Goddess of Health, Evviva's followers are the most selfless and helpful individuals within the known world. To worship Evviva is to cast aside doubt and prejudice to see the world brought to a better place by your own hands. Evvivan Clerics are a staple of armies all throughout Hearthshire, and attacking such an individual is considered a crime punishable by death in Grenzelhoft.
-		<br><br>
-		Evviva's most ardent worshipers can be considered certain City States, but she is broadly respected all throughout Hearthshire, albeit her worship is less notable on Gorogomn and Alur.
-		<br><br>
-	</details>
-
-	<details>
-		<summary><strong> Xylix, God of Luck, Music, and Performance </strong></summary>
-		<br>
-		<i><span style="display:block; color:#dfe6ba; font-size:120%"> "CAUTION IS THE WATER WHICH DOUSES THE HEARTS DESIRE."</span></i>
-		<br>
-		Known as the Lucky Star, he is considered a patron to all artists and gamblers, while also worshiped by hooligans and neer-do-wells. Some debate that he is also the good of trickery and thieves, believing that he is a better alternative to Matthios.
-		<br><br>
-		He is primarily worshiped in Wilusia and the City States, and has a decent following in the Kingdom of Helmsmore.
-		<br><br>
-	</details>
-
-	<details>
-		<summary><strong> Aether, God of the Aether and Foresight</strong></summary>
-		<br>
-		<b><span style="display:block; color:#8aa01c; font-size:120%"> "ALL LIFE ASCENDS, IN ONE WAY OR ANOTHER." </span></b>
-		<br>
-		The Mist of the Stars, or to some the God of Heavens, Aether is both his name and his domain. Some people believe that souls ascend to the skies to meet with the stars once their journey on this world is at an end, and Aether is there to guide them. To some, he is also the God of Foresight.
-		<br><br>
-		Camrey and Helmsmore can be considered the two Kingdoms whom have strong worship towards Aether, as many others worship Necra over him.
+		The primary god of the Mountain Dwarves and Gnomes of Stonekeep, his inclusion into the Pantheon was an attempt to garner more trust between Grenzelhoft and Stonekeep. The Mountain Dwarves believe that he is actually a fallen star whose corpse lies under Malum's Rest, conflicting with the rest of the Pantheon.
 		<br><br>
 	</details>
 
@@ -371,8 +344,6 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		Goddess of the Dead. She presides over the Underlife, a domain in which many believe is the final resting place of all souls. It is through her that one may worship their ancestors and ensure that their memories live on and become immortal.
 		<br><br>
-		Necra is generally worshiped throughout Hearthshire and Alur, moreso than her counterpart Aether. While not a primary god of any nation, she is still an important figure for most.
-		<br><br>
 	</details>
 
 	<details>
@@ -380,9 +351,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		<i><span style="display:block; color:#5a53d5; font-size:125%"> "YOU ARE HERE TO ENJOY LIFE TO THE FULLEST. TAKE NO SHAME IN IT." </span></i>
 		<br>
-		The Star of Pleasure, shining proudly over all who find themselves enjoying life as they see fit. To Taoch, debauchery is the main reason for ones very existence, and their followers shamelessly enjoy sex with each other as worship. Explosive emotions aren't evil, they are the cornerstone of life itself, and thus Taoch is also the God(ess) of Ferocity.
-		<br><br>
-		Taoch's only center of worship is within a City State, albeit they are patrons to both Prostitutes and Savage Barbarians who use rage as a source of power.
+		The Goddes of Pleasure finds life only worth living if you enjoy it to the fullest. To Taoch, debauchery is the main reason for ones very existence, and their followers shamelessly enjoy sex with each other as worship. Explosive emotions aren't evil, they are the cornerstone of life itself, and thus Taoch is also the God(ess) of Ferocity and finds worship with Barbarians and other strong emotional folk.
 		<br><br>
 	</details>
 
@@ -391,9 +360,105 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		<i><span style="display:block; color:#5a53d5; font-size:125%"> "LIFE IS BUILT UPON YOUR HANDS, AND WHAT YOU MAKE WITH THEM." </span></i>
 		<br>
-		Also known as the God of Creating, Noc's domain is in all scholarly aspects, and it is said that Steamcraft itself directly came from him.
+		Also known as the God of Creating, Noc's domain is in all scholarly aspects, and it is said that Steamcraft itself directly came from him. The primary god of Helmsmore.
 		<br><br>
-		Noc is only worshiped by Helmsmore, some City States, and any scholar throughout the land. The Mountain Dwarves regard him coldly, and believe that Steamcraft is theirs.
+	</details>
+
+		<details>
+		<summary><strong> Evviva, Goddess of Healing, Comfort, and Courage </strong></summary>
+		<br>
+		<span style="display:block; color:#e4bae6; font-size:115%"> "TRUE STRENGTH LIES IN YOUR WILLINGNESS TO HELP YOUR FELLOW PERSON."</span>
+		<br>
+		Goddess of Health, Evviva's followers are the most selfless and helpful individuals within the known world. To worship Evviva is to cast aside doubt and prejudice to see the world brought to a better place by your own hands. Evvivan Clerics are a staple of armies all throughout Hearthshire, and attacking such an individual is considered a crime punishable by death in Grenzelhoft. Said to be Dilgen's lover.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Dilgen, God of Justice and Punishment </strong></summary>
+		<br>
+		<span style="display:block; color:#e4bae6; font-size:115%"> "LAWS ARE WHAT SEPERATE MAN FROM BEAST."</span>
+		<br>
+		God of Laws, Dilgen is said to watch over every aspect of justice within the Pantheon. All accusations and trails must be held within a building dedicate to him to ensure that said trail is fair, and any held outside of his gaze are considered to be invalid. Said to be Evviva's lover.
+		<br><br>
+	</details>
+
+	<hr>
+	<strong><span style="font-size:115%"> Wilusian Pantheon </span></strong>
+	<br>
+	<em> The primary religion of the Wilusian Dynasty, as well as the Elven Kingdoms, who both believe that the gods are the stars in the skies. Called the Elven Pantheon in some circles. </em>
+	<br><br>
+
+	<details>
+		<summary><strong> Gimra, Star of Warfare and Honor</strong></summary>
+		<br>
+		<i><span style="display:block; color:#dfe6ba; font-size:120%"> "LEAD FROM THE FRONT."</span></i>
+		<br>
+		The Star of War Gimra has watched over Wilusia for countless years, and seen every manner of army break upon the walls of their capital. The brightest star in the sky at night, able to be seen on particularly clear days, Gimra is the patron of all soldiers and duelists on Alur.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Ceti, Star of the Ocean </strong></summary>
+		<br>
+		<i><span style="display:block; color:#dfe6ba; font-size:120%"> "THE WAVES MOVE AS I WILL IT."</span></i>
+		<br>
+		The Ocean Star, or the Star of Sailors, Ceti is believed to control the waves, as well as the flow of water into the Uthica Basin. His is the solid compass with which all Wilusian sailors use to guide their journey seaward.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Uthica, Star of Elemental Fury </strong></summary>
+		<br>
+		<i><span style="display:block; color:#dfe6ba; font-size:120%"> "ALL BEND TO THE ELEMENTS."</span></i>
+		<br>
+		The Elemental Star Uthica is said to hold domain over Wind, Fire, and Water. She additionally holds domain over Earth and Ground alongside her lover Tachia.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Tachia, Star of Nature and Life </strong></summary>
+		<br>
+		<i><span style="display:block; color:#dfe6ba; font-size:120%"> "LET NATURE FLOW FREELY."</span></i>
+		<br>
+		The Star of Terra is believed to be the guiding hand which grows forests and allows nature to spread throughout Alur. Holds domain over the Earth itself, which she shares with her lover Uthica.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Suma, Star of Fertility, Love, and Compassion </strong></summary>
+		<br>
+		<i><span style="display:block; color:#dfe6ba; font-size:120%"> "WE WERE MEANT TO BE LOVED."</span></i>
+		<br>
+		The Star of Love, or sometimes crudely referred to as the Star of Sex by less scholarly folks, is believed to provide mothers with the strength to overcome life's most brutal challenge in child birth. She is called upon by those seeking a lover to help guide them to their special someone.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Xylix, Star of Luck, Music, and Performance </strong></summary>
+		<br>
+		<i><span style="display:block; color:#dfe6ba; font-size:120%"> "CAUTION IS THE WATER WHICH DOUSES THE HEARTS DESIRE."</span></i>
+		<br>
+		Known as the Lucky Star, he is considered a patron to all artists and gamblers, while also worshiped by hooligans and neer-do-wells. Some debate that he is also the good of trickery and thieves, believing that he is a better alternative to Matthios.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Dumu-Zi, Star of Foresight, Knowledge, and Wisdom </strong></summary>
+		<br>
+		<i><span style="display:block; color:#dfe6ba; font-size:120%"> "I SEE ALL."</span></i>
+		<br>
+		Worshiped heavily by scholars and strategists, The Star of Foresight gives his followers the power to see through trickery and lets scholars into the deepest secrets that one might consider best kept hidden. In Wilusian folklore he has defeated Matthios once before.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Aether, Mist of the Aether</strong></summary>
+		<br>
+		<b><span style="display:block; color:#8aa01c; font-size:120%"> "ALL LIFE ASCENDS, IN ONE WAY OR ANOTHER." </span></b>
+		<br>
+		The Mist of the Stars, or to some the God of Heavens, Aether is both his name and his domain. Some people believe that souls ascend to the skies to meet with the stars once their journey on this world is at an end, and Aether is there to guide them. To some, he is also the God of Foresight.
+		<br><br>
+		Camrey and Helmsmore can be considered the two Kingdoms whom have strong worship towards Aether, as many others worship Necra over him.
 		<br><br>
 	</details>
 
@@ -486,7 +551,7 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><strong> Leviathan, Void's Maw </strong></summary>
 		<br>
-		Leviathan is said to be a massive sea creature which swims among the sea of stars. When it wishes, it can choose to swim among the oceans of Terra and feast upon hapless sailors and sea dwellers. While worshiped by some, he gives few boons, as he is not a being who understands anything but survival in his own right.
+		Leviathan is said to be a massive sea creature which swims among the sea of stars. When it wishes, it can choose to swim among the oceans of Terra and feast upon hapless sailors and sea dwellers. While worshiped by some, he gives few boons.
 		<br><br>
 	</details>
 	<hr>
@@ -496,61 +561,49 @@ While it's not required reading, leadership roles may find this information usef
 <details>
 	<summary><strong><span style="font-size:130%"> SPECIES OF PSYDONIA </span></strong></summary>
 	<hr>
-	<strong><span style="font-size:115%"> DIVINE BLESSED SPECIES </span></strong>
+	<strong><span style="font-size:115%"> SAPIENS </span></strong>
+	<br>
+	<em> Sapiens is the taxinomical term for all races who are believed to have evolved naturally from animals. </em>
 	<br><br>
 
 	<details>
-		<summary><strong> Humens </strong></summary>
+		<summary><strong> Humans </strong></summary>
 		<br>
-		Humenity, created in Psydon's image.
-		Humens come from a vast swathe of cultures and ethnicities all around Psydonia, most of which have historically been at odds with both one another and other species. With their tenacity and overwhelming population, humens tend to outnumber the other species drastically. Their saturation leads to most world maps representing humen borders and states over other species'. Humens tend to find fortune easier than the other species, and are so diverse that no other trait is dominant...
+		Humanity is a broad race of peoples which span across all three of the known continents, and whose nature is never singularly predictable. Humans come from from all walks of life and seemingly in all shapes and sizes, and are broadly considered the single most populus race spanning the world. The wide variety of cultures which have stemmed from Human settlement and intervention has had the widest effect on the world and all political happenings upon it. Humans are as quick to courage and bravery as they are to fear and cowardice, and as easy to honesty and good just as they are to evil and violence. To try and define a human under a singular umbrella would be a fools effort.
 		<br><br>
 	</details>
 
 	<details>
 		<summary><strong> Elves </strong></summary>
 		<br>
-		Elves, created by Necra to guide humenity, are characterized by lengthened age, low fertility, and a magical aptitude originating from a vast array of tribal cultures. With the ascension of Zizo, the entire culture of snow-elves was all but destroyed, leading the remaining tribes to live in fear and paranoia of suffering the same fate. Many elves sought safety through mixing culture, positioning themselves under the watchful guard of their stronger humen counterparts. A longstanding feud remains between elves and dwarves. Elvenkind has yet to forgive the dwarves for their destruction of homeland and pillaging of natural resources within the former snow-elf territory. To elves, it was the greatest disrespect to those lost.
+		Elves have long been known to have come from the southern forests of Alur, and while at first glance many would be quick to compare them to Humans, they are far more different than meets the eye. Tall, lithe, and graceful, Elven people are longer lived than any other race in the known world. Their culture has revolved entirely around their immensely long lives, and most Elven people from the forests tend to regard others with an aloof nature. Elven people who migrated to other places, notably Solaros' Grand Domain, are much more sociable towards their fellow peoples. Their tall stature and flexible form has made many an Elven Blademaster a legend within Hearthshire.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Half-elves </strong></summary>
+		<summary><strong> Gnomes </strong></summary>
 		<br>
-		The child of an Elf and a Humen. Half-Elves are generally frowned upon by more conservative peoples, although as species tensions lower, more and more half-elves are being born- to the point that some scholars worry someday it may be impossible to distinguish the two species. Half-Elves are extraordinarily diverse, as they combine both Humen and Elvish culture. It is widely considered that Half-Elf culture is simply a melting pot of various others condensing into one vibrant entity. With their longevity spanning too long for a human and too short for an elf, they tend to congregate together. Depending on their heritage, Half-Elves tend to gain species traits depending on how strong their fathers, or mothers, genes were. Half-Elves typically struggle to find their own identity.
+		The Gnomish people come from the mountain ranges which dot the eastern shorelines of Hearthshire, living alongside their bretheren of Mountain Dwarves. Whereas Mountain Dwarves are Terrans born from stone, Gnomes are Sapiens who are believed to have evolved tangentally from Humans. They stand on average a foot and a half shorter than the average Human, but are no less stronger than them due to having slightly denser muscle mass. They are known as both hardy peoples and immensely knowledgable individuals who are quick to take upon them new teachings. Gnomish people outside of the mountains primarily reside within the Siluchi City States, where they are the second most populus race besides Humans. There is also a sizable group living within Rosewood in Helmsmore.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Dwarves </strong></summary>
+		<summary><strong> Prairie Dwarves </strong></summary>
 		<br>
-		Shaped by Psydon and Necra, chosen by Malum. A proud and robust species of vertically challenged folk, dwarves are known for their martial strength and their tenacity towards their ancient customs of craft and honour. Dwarves hold a strong alliance with humenkind and have done so throughout history, as was their original purpose decreed by Psydon. A Dwarf, much like the rock that they carve their fortress out of, is stubborn and ancient. They are revered craftsmen, sculptors, smiths, and miners. As an old and mostly out-of-date saying goes, "If you want it done right, lose 2 feet and grow a beard." Despite their cultural praise, a long-standing feud remains between dwarves and elves stemming from old industrial practices.
-		<br><br>
-	</details>
-
-	<details>
-		<summary><strong> Aasimar </strong></summary>
-		<br>
-		Immortal offspring sculpted by the gods for use in servitude. Aasimar roaming alone on Psydonia often are those abandoned after serving their purpose. This species is often revered due to their celestial origin, but face great solitude as not many of their kind exist. Many an aasimar will detest the reverence in which they are greeted with, for their greatest failure or unuse that lead to their discarding is not subject for celebration. An aasimar may be crafted with any number of materials. Many resemble sculptures of stone or are ceramic in skin, but their insides are just as mortal as any other. Most Aasimar were created to serve The Ten, and few if any Psydonic Aasimar remain to this day- decrepit husks of what were once great warriors.
+		Prairie Dwarves are short, stocky, and fairly hairy human like individuals who come from the Prairie Lands of Gorogomn. While they are called Dwarves, they have no actual relation to Mountain Dwarves and cannot even interbreed with them, as Sapiens cannot interbreed with Terrans. Prairie Dwarves are immensely hardy, capable of eating any manner of plant or mushroom without any negative effect and seemingly shrugging off painful blows with ease, but are not known to be quick. They are culturally inclined to take their time and never find themselves rushing anything, and while others might consider them lazy because of that it beguiles the truth of an immensely hard working people who have been the cornerstone of Ogri Union workforces since its inception.
 		<br><br>
 	</details>
 
 	<hr>
-	<strong><span style="font-size:115%"> DIVINE TOLERATED SPECIES </span></strong>
+	<strong><span style="font-size:115%"> TERRANS </span></strong>
+    <br>
+    <em> Terrans is the taxinomical term for any race believed to have evolved from some manner of living or unliving entity within the world, from trees to rocks.</em>
 	<br><br>
 
 	<details>
-		<summary><strong> Tritons </strong></summary>
+		<summary><strong> Orcs </strong></summary>
 		<br>
-		The Children of Abyssor, also known as Tritons or their colloquial name, "Deep Folk,"  are a strange species of people that live under the waves of Psydonia. Born from creatures of the deep with Abyssor's guidance, these aquatic wayfarers all share a few common traits.
-		<br><br>
-		Similar to other creatures that dwell below the surface, their eyes are dull with disuse. Tritons feel pain when gazing upon that which direct light of Astrata herself illuminates.
-		<br><br>
-		 Unlike most of the people of Psydonia, their culture is often considered cold and dour; an apathetic attitude to most negative or positive news. For them, the depths of Psydonia's oceans are cold and unforgiving. Large beasts travel the waters that swallow their kin whole...  but the crushing depths have provided them a hearty disposition and resistance to most threats. Born of Abyssor, their normally placid emotions can swing into a wild rage when they view injustice done upon their kin at the hands of a sapient being.
-		 <br><br>
-		 Tritons seen on the surface are very important trade partners, mercenaries, and surprising academics.  Merchants often spend vast amounts of coin to have them aboard their trade vessels, fending off pirates or guiding their boats through turbulent weather. Be it on or within the sea, they excel- on land, however, they struggle. With their awkward and gangly fins, long, sharp talons, ghastly, lipless teeth, and milky, foreign eyes, they seem unfit to walk amongst the people. Humen children are often afraid of them due to such appearances.
-		 <br><br>
-		 Their species is not without its tribalism, however. Large sections of their kin have broken away form their father,  to consider themselves Noc's chosen. Due to their extreme sexual dimorphism similar to that of the common angler, males of this species are more likely to pursue magick with their weaker frames compared to their stronger female counterparts.
+		Orcs are a race of green skined humanoid people who 
 		<br><br>
 	</details>
 
