@@ -33,5 +33,12 @@
                 "bugfix": "Gave kobolds pronoun choices"
             }
         ]
+    },
+    "2025-10-31": {
+        "AllCorruptingWyrm": [
+            {
+                "server": "sets up the hub front facing info"
+            }
+        ]
     }
 }
