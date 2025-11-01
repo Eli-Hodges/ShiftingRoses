@@ -11,12 +11,6 @@
 	resistance_flags = INDESTRUCTIBLE | LAVA_PROOF | FIRE_PROOF | UNACIDABLE | ACID_PROOF
 	var/in_use = FALSE
 	var/static/list/uncryoable = list(
-		/datum/job/lord,
-		/datum/job/hand,
-		/datum/job/prince,
-		/datum/job/consort,
-		/datum/job/priest,
-		/datum/job/captain,//Rest of these roles cannot cryo, as they must ahelp first before leaving the round.
 		/datum/job/gaffer //opening up the slot will break the gaffer ring code
 	)
 
@@ -34,10 +28,10 @@
 	if(departing_mob.stat == DEAD)
 		say("The dead cannot leave for [SSmapping.config.immigrant_origin], ensure they get a proper burial in [SSmapping.config.map_name].")
 		return
-	if(is_type_in_list(departing_mob.mind?.assigned_role, uncryoable))
+/*	if(is_type_in_list(departing_mob.mind?.assigned_role, uncryoable))
 		var/title = departing_mob.gender == FEMALE ? "lady" : "lord"
 		say("Surely you jest, my [title], you have a kingdom to rule over!")
-		return //prevents noble roles from cryoing as per request of Aberra
+		return (this is irrelevant for Shifting Roses */
 	if(alert("Are you sure you want to [departing_mob == user ? "leave for [SSmapping.config.immigrant_origin] (you" : "send this person to [SSmapping.config.immigrant_origin] (they"] will be removed from the current round, the job slot freed)?", "Departing", "Confirm", "Cancel") != "Confirm")
 		return //doublechecks that people actually want to leave the round
 	if(user.incapacitated(IGNORE_GRAB) || QDELETED(departing_mob) || (departing_mob != user && departing_mob.client) || get_dist(src, dropping) > 2 || get_dist(src, user) > 2)
