@@ -320,7 +320,7 @@
 
 /obj/structure/table/map/kingsfield
 	icon_state = "map_kingsfield"
-	desc = "A table displaying a map of the capital of Kingsfield."
+	desc = "A table displaying a map of the capital of New Palmos."
 
 /obj/structure/table/map/baotha
 	icon_state = "map_baotha"

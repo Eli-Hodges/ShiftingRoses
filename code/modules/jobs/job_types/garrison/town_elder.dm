@@ -11,10 +11,10 @@
 	faction = FACTION_TOWN
 	total_positions = 1
 	spawn_positions = 1
-	min_pq = 10 // Requires knowledge and good rp for the classes.
+	min_pq = 0 // Requires knowledge and good rp for the classes.
 	bypass_lastclass = TRUE
 	spells = list(/datum/action/cooldown/spell/undirected/list_target/convert_role/militia)
-	allowed_ages = list(AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
+	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
 	allowed_races = RACES_PLAYER_NONHERETICAL
 
 	advclass_cat_rolls = list(CTAG_TOWN_ELDER = 20)
@@ -35,7 +35,7 @@
 		to_chat(src, "<span class='warning'>You must wait [time_left] more seconds before making another announcement.</span>")
 		return
 
-	var/inputty = input("Make an announcement", "VANDERLIN") as text|null
+	var/inputty = input("Make an announcement", "The Island") as text|null
 	if(inputty)
 		if(!istype(get_area(src), /area/rogue/indoors/town/tavern))
 			to_chat(src, "<span class='warning'>I need to do this from the tavern.</span>")

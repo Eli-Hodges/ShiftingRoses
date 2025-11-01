@@ -10,11 +10,11 @@
 	faction = FACTION_TOWN
 	total_positions = 1
 	spawn_positions = 1
-	min_pq = 6
+	min_pq = 0
 	bypass_lastclass = TRUE
 
 	allowed_races = RACES_PLAYER_NONDISCRIMINATED
-	allowed_ages = list(AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
+	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
 	allowed_sexes = list(MALE, FEMALE)
 
 

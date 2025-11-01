@@ -3,7 +3,7 @@
 	f_title = "Priestess"
 	tutorial = "You are a devoted follower of Astrata. \
 	The divine is all that matters in an immoral world. \
-	The Sun Queen and her pantheon rule over all, and you will preach their wisdom to Vanderlin. \
+	The Sun Queen and her pantheon rule over all, and you will preach their wisdom to the Island. \
 	It is up to you to shephard the flock into a Ten-fearing future."
 	department_flag = CHURCHMEN
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
@@ -11,7 +11,7 @@
 	faction = FACTION_TOWN
 	total_positions = 1
 	spawn_positions = 1
-	min_pq = 20
+	min_pq = 0
 	bypass_lastclass = TRUE
 	selection_color = "#c2a45d"
 	cmode_music = 'sound/music/cmode/church/CombatAstrata.ogg'
@@ -131,15 +131,15 @@
 			if(is_lord_job(HL.mind.assigned_role) || is_consort_job(HL.mind.assigned_role))
 				HL.mind.set_assigned_role(SSjob.GetJobType(/datum/job/villager))
 		//would be better to change their title directly, but that's not possible since the title comes from the job datum
-		if(HL.job == "Monarch")
-			HL.job = "Ex-Monarch"
+		if(HL.job == "Doge")
+			HL.job = "Ex-Doge"
 			lord_job?.remove_spells(HL)
 		if(HL.job == "Consort")
 			HL.job = "Ex-Consort"
 			consort_job?.remove_spells(HL)
 
 	coronated.mind.set_assigned_role(/datum/job/lord)
-	coronated.job = "Monarch" //Monarch is used when checking if the ruler is alive, not "King" or "Queen". Can also pass it on and have the title change properly later.
+	coronated.job = "Doge" //Doge is used when checking if the ruler is alive, not "King" or "Queen". Can also pass it on and have the title change properly later.
 	lord_job?.add_spells(coronated)
 	SSticker.rulermob = coronated
 	GLOB.badomens -= OMEN_NOLORD
@@ -214,7 +214,7 @@
 	set category = "Priest"
 	if(stat)
 		return
-	var/inputty = input("Make an announcement", "VANDERLIN") as text|null
+	var/inputty = input("Make an announcement", "THE ISLAND") as text|null
 	if(inputty)
 		if(!istype(get_area(src), /area/rogue/indoors/town/church/chapel))
 			to_chat(src, "<span class='warning'>I need to do this from the chapel.</span>")

@@ -1,13 +1,7 @@
 /datum/advclass/combat/barbarian
 	name = "Barbarian"
 	tutorial = "Wildmen and warriors all, Barbarians forego the intricacies of modern warfare in favour of raw strength and brutal cunning. Few of them can truly adjust to the civilized, docile lands of lords and ladies."
-	allowed_races = list(\
-		SPEC_ID_HUMEN,\
-		SPEC_ID_HALF_ELF,\
-		SPEC_ID_DWARF,\
-		SPEC_ID_HALF_ORC,\
-		SPEC_ID_TIEFLING,\
-	)
+	allowed_races = RACES_PLAYER_ALL
 	outfit = /datum/outfit/job/adventurer/barbarian
 	min_pq = 0
 	category_tags = list(CTAG_ADVENTURER)

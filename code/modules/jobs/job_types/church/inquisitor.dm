@@ -3,17 +3,17 @@
 	tutorial = "A recent arrival from Grenzelhoft, \
 	you are an emmissary of political and theological import. \
 	You have been sent by your leader, the Orthodox Bishop, \
-	to assist the local Priest in combatting the increasing number of heretics and monsters infiltrating Vanderlin."
+	to assist the local Priest in combatting the increasing number of heretics and monsters infiltrating the Island."
 	department_flag = CHURCHMEN
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
 	display_order = JDO_PURITAN
 	faction = FACTION_TOWN
 	total_positions = 1
 	spawn_positions = 1
-	min_pq = 15
+	min_pq = 0
 	bypass_lastclass = TRUE
 
-	allowed_races = list(SPEC_ID_HUMEN)
+	allowed_races = RACES_PLAYER_ALL
 
 	outfit = /datum/outfit/job/inquisitor
 	is_foreigner = TRUE
@@ -319,7 +319,7 @@
 						held_confession.bad_type = "A SCION OF KAINE"
 						held_confession.antag = initial(antag_type:name)
 					if(/datum/antagonist/vampire/lord)
-						held_confession.bad_type = "THE BLOOD-LORD OF VANDERLIN"
+						held_confession.bad_type = "THE BLOOD-LORD OF THE ISLAND"
 						held_confession.antag = initial(antag_type:name)
 					if(/datum/antagonist/vampire/lesser)
 						held_confession.bad_type = "AN UNDERLING OF THE BLOOD-LORD"

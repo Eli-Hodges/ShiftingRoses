@@ -8,8 +8,8 @@
 	display_order = JDO_CONSORT
 	faction = FACTION_TOWN
 	total_positions = 0
-	spawn_positions = 1
-	min_pq = 6
+	spawn_positions = 0
+	min_pq = 0
 	bypass_lastclass = TRUE
 
 	spells = list(/datum/action/cooldown/spell/undirected/list_target/convert_role/servant)
@@ -138,7 +138,7 @@
 
 /datum/advclass/consort/lowborn
 	name = "Lowborn Consort"
-	tutorial = "You never could have dreamed your life would be like this. Though your origins are humble, something special about you - whether it was your good looks, your kind heart, or your bravery - has brought you into Vanderlin Keep."
+	tutorial = "You never could have dreamed your life would be like this. Though your origins are humble, something special about you - whether it was your good looks, your kind heart, or your bravery - has brought you into the islands Keep."
 	outfit = /datum/outfit/job/consort/lowborn
 
 	category_tags = list(CTAG_CONSORT)

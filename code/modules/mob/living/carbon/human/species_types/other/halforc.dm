@@ -18,9 +18,7 @@
 	believing that they are cursed to follow their orcish parent's footsteps in the gorging of kin-flesh. \
 	\n\n\
 	A Half-Orc may display Orcish features, sporting tusks and natural strength. \
-	Many are nigh-indistinguishable visually from full orcs, save for their remaining grasp on self-control.\
-	\n\n\
-	THIS IS AN <I>EXTREMELY</I> DISCRIMINATED SPECIES. EXPECT A MORE DIFFICULT EXPERIENCE. <B>NOBLES EVEN MORE SO.</B> PLAY AT YOUR OWN RISK."
+	Many are nigh-indistinguishable visually from full orcs, save for their remaining grasp on self-control."
 
 	skin_tone_wording = "Clan"
 
@@ -70,8 +68,8 @@
 
 	offset_features_f = list()
 
-	specstats_m = list(STATKEY_STR = 2, STATKEY_PER = -2, STATKEY_INT = -2, STATKEY_CON = 2, STATKEY_END = 1, STATKEY_SPD = 0, STATKEY_LCK = 0)
-	specstats_f = list(STATKEY_STR = 2, STATKEY_PER = -2, STATKEY_INT = -1, STATKEY_CON = 1, STATKEY_END = 1, STATKEY_SPD = 0, STATKEY_LCK = 0)
+	specstats_m = list(STATKEY_STR = 1, STATKEY_PER = 0, STATKEY_INT = 0, STATKEY_CON = 1, STATKEY_END = 1, STATKEY_SPD = 0, STATKEY_LCK = 0)
+	specstats_f = list(STATKEY_STR = 1, STATKEY_PER = 0, STATKEY_INT = 0, STATKEY_CON = 1, STATKEY_END = 1, STATKEY_SPD = 0, STATKEY_LCK = 0)
 
 	enflamed_icon = "widefire"
 

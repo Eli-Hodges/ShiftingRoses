@@ -4,8 +4,6 @@
 	*				   *
 	*==================*/
 
-// ( -1 STR, +2 PER, +1 INT, -1 CON, +1 SPD, -1 FOR)
-
 /mob/living/carbon/human/species/demihuman
 	race = /datum/species/demihuman
 
@@ -25,20 +23,18 @@
 	The true nature of their existence is largely lost to the hollowkin through centuries. \
 	The dark elves still recall, of course, viciously mocking their creations from deep within their caves, \
 	declaring them but nothing more than animals or pets. \
-	Hollowkin react violently to dark-elven attempts at oppression, this leads to conflicts across the world of Psydonia. \
+	Hollowkin react violently to dark-elven attempts at oppression, this leads to conflicts across the world of Terra. \
 	\n\n\
 	To the unaligned observer, hollowkin are often seen amongst bandit bands, working openly with Agents of Matthios, \
 	conflating the idea of freedom between the two deities. There is, of course, the old wives' tales that circulate... \
 	how hollowkin lead to infestations of Werewolves. Hollowkin are often denied nobility from this rumour alone. \
 	Whether this is true or not is unknown to the common person, \
-	but to those familiar with the horrendous magics used by the dark elves, they must only assume the worst. \
-	\n\n\
-	THIS IS A DISCRIMINATED SPECIES. EXPECT A MORE DIFFICULT EXPERIENCE. PLAY AT YOUR OWN RISK."
+	but to those familiar with the horrendous magics used by the dark elves, they must only assume the worst."
 
 	allowed_pronouns = PRONOUNS_LIST
 	skin_tone_wording = "Ancestry"
 	default_color = "FFFFFF"
-	species_traits = list(EYECOLOR, HAIR ,FACEHAIR, LIPS, STUBBLE, OLDGREY)
+	species_traits = list(EYECOLOR, HAIR ,FACEHAIR, LIPS, STUBBLE, OLDGREY, MUTCOLOR)
 	default_features = MANDATORY_FEATURE_LIST
 	use_skintones = TRUE
 	possible_ages = NORMAL_AGES_LIST_CHILD
@@ -89,8 +85,8 @@
 		OFFSET_UNDIES = list(0,0),\
 	)
 
-	specstats_m = list(STATKEY_STR = -1, STATKEY_PER = 2, STATKEY_INT = 1, STATKEY_CON = -1, STATKEY_SPD = 1, STATKEY_LCK = -1)
-	specstats_f = list(STATKEY_STR = -1, STATKEY_PER = 2, STATKEY_INT = 1, STATKEY_CON = -1, STATKEY_SPD = 1, STATKEY_LCK = -1)
+	specstats_m = list(STATKEY_STR = 1, STATKEY_PER = 1, STATKEY_INT = 1, STATKEY_CON = 0, STATKEY_SPD = 0, STATKEY_LCK = 0)
+	specstats_f = list(STATKEY_STR = 1, STATKEY_PER = 1, STATKEY_INT = 1, STATKEY_CON = 0, STATKEY_SPD = 0, STATKEY_LCK = 0)
 
 	enflamed_icon = "widefire"
 
@@ -110,6 +106,23 @@
 		/datum/bodypart_feature/hair/head,
 		/datum/bodypart_feature/hair/facial,
 	)
+	body_marking_sets = list(
+		/datum/body_marking_set/none,
+		/datum/body_marking_set/belly,
+		/datum/body_marking_set/socks,
+		/datum/body_marking_set/tiger,
+		/datum/body_marking_set/tiger_dark,
+	)
+	body_markings = list(
+		/datum/body_marking/flushed_cheeks,
+		/datum/body_marking/eyeliner,
+		/datum/body_marking/tonage,
+		/datum/body_marking/socklonger,
+		/datum/body_marking/tips,
+		/datum/body_marking/nose,
+		/datum/body_marking/bangs,
+		/datum/body_marking/bun,
+	)
 	customizers = list(
 		/datum/customizer/organ/eyes/humanoid,
 		/datum/customizer/bodypart_feature/hair/head/humanoid,
@@ -119,6 +132,7 @@
 		/datum/customizer/organ/ears/demihuman,
 		/datum/customizer/organ/horns/demihuman,
 		/datum/customizer/organ/tail/demihuman,
+		/datum/customizer/organ/snout/anthro,
 		/datum/customizer/organ/genitals/penis/human,
 		/datum/customizer/organ/genitals/vagina/human,
 		/datum/customizer/organ/genitals/breasts/human,
@@ -189,7 +203,7 @@
 	C.remove_language(/datum/language/beast)
 
 /datum/species/demihuman/get_skin_list()
-	return sortList(list(
+	var/list/return_value = sortList(list(
 		"Ice Cap" = SKIN_COLOR_ICECAP, // - (Pale)
 		"Arctic" = SKIN_COLOR_ARCTIC, // - (White 1)
 		"Tundra" = SKIN_COLOR_TUNDRA, // - (White 2)
@@ -202,3 +216,6 @@
 		"Desert" = SKIN_COLOR_DESERT, //  - (Middle-east)
 		"Crimson Lands" = SKIN_COLOR_CRIMSONLANDS, // - (Black)
 	))
+
+	return_value += list("Custom" = SKIN_COLOR_CUSTOM)
+	return return_value

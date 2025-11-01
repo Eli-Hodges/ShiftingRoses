@@ -19,9 +19,7 @@
 	\n\n\
 	As they further attached themselves to Zaladin, however, \
 	their people would integrate more sophisticated forms of servitude, \
-	such as indentured contracts and debt bondage. \
-	\n\n\
-	THIS IS A DISCRIMINATED SPECIES. EXPECT A MORE DIFFICULT EXPERIENCE. PLAY AT YOUR OWN RISK."
+	such as indentured contracts and debt bondage."
 
 	skin_tone_wording = "Tribal Identity"
 	use_skintones = TRUE
@@ -32,8 +30,8 @@
 	species_traits = list(EYECOLOR, OLDGREY)
 	inherent_traits = list(TRAIT_NOMOBSWAP, TRAIT_KITTEN_MOM)
 
-	specstats_m = list(STATKEY_STR = -2, STATKEY_PER = 2, STATKEY_INT = 0, STATKEY_CON = -2, STATKEY_END = 0, STATKEY_SPD = 2, STATKEY_LCK = 0)
-	specstats_f = list(STATKEY_STR = -2, STATKEY_PER = 2, STATKEY_INT = 0, STATKEY_CON = -2, STATKEY_END = 0, STATKEY_SPD = 2, STATKEY_LCK = 0)
+	specstats_m = list(STATKEY_STR = 0, STATKEY_PER = 2, STATKEY_INT = 0, STATKEY_CON = 0, STATKEY_END = 0, STATKEY_SPD = 1, STATKEY_LCK = 0)
+	specstats_f = list(STATKEY_STR = 0, STATKEY_PER = 2, STATKEY_INT = 0, STATKEY_CON = 0, STATKEY_END = 0, STATKEY_SPD = 1, STATKEY_LCK = 0)
 
 	limbs_icon_m = 'icons/roguetown/mob/bodies/m/rakshari.dmi'
 	limbs_icon_f = 'icons/roguetown/mob/bodies/f/rakshari.dmi'

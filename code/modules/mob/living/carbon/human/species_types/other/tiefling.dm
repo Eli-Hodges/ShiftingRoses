@@ -11,27 +11,16 @@
 	name = "Tiefling"
 	id = SPEC_ID_TIEFLING
 	native_language = "Infernal"
-	desc = "Also known as Infernal-Spawn, Hell-Bloods, Surface-Devils, and perhaps in a more humorous manner, <i>thief</i>-lings. \
+	desc = "A breed apart entirely; otherworldly, wild, and strange. \
 	\n\n\
-	Their treatment ranges from shunning to distrust, depending on the region. \
-	Shopkeeps and merchants always keep a wary eye out for tiefling passersby. \
-	The resentment feed into itself, leading to higher rates of tiefling ire and thievery against other species. \
-	Many tieflings resign to seeking a solitary and nomadic life, huddled in groups outside the watchful eyes of others. \
-	They also tend to be extremely perceptive and paranoid, as luck is rarely on their side. \
+	A Tiefling has almost as much in common with one another as they would with a humen or the various 'other' kin of the world.\
+	Their origins are one of heavy scholarly dispute, having caused a fair number of less than gentlemanly duels on\
+	university grounds. There's a great deal of theories, with some suggesting a faerie ancestor, with others suggesting\
+	instead a Psychopomp ancestor. . .\
 	\n\n\
-	Tieflings began appearing all over Psydonia after Baotha's ascension within the 21st century, and were exiled in droves as the world adapted. \
-	They are often mistaken as being related to her. \
-	\n\n\
-	Tieflings are incapable of reproducing with mortals, \
-	and thus are spawn of either devils, demons, or other tieflings. \
-	A tiefling may develop any number of hellish features, a wide range of horns, potential hooves, odd spines and spikes, or scales. \
-	Oddly positioned scales, hollow bones, and other varying oddities \
-	that appear consistently in Tiefling biology make them considerably fragile. \
-	It is not uncommon for a tiefling to be generally unpleasant to look at in the eye of the commonfolk. \
-	As if to make matters worse, their hellish progenitors have left them a destiny of misfortune, \
-	though perhaps their immunity to fire opens new opportunities for them... \
-	\n\n\
-	THIS IS A DISCRIMINATED SPECIES. EXPECT A MORE DIFFICULT EXPERIENCE. <B>NOBLES EVEN MORE SO.</B> PLAY AT YOUR OWN RISK."
+	Fortunately, or perhaps unfortunately, most tieflings themselves don't overly care to comment.\
+	Why does a scholar need to know if their parent, or grandparent, happened to reproduce\
+	with a faerie or spirit-guide, anyways? The only ones who needs to know that is them and their family."
 
 	skin_tone_wording = "Progenitor"
 
@@ -100,8 +89,8 @@
 		OFFSET_VAGINA = list(0,0),\
 	)
 
-	specstats_m = list(STATKEY_STR = 0, STATKEY_PER = 2, STATKEY_INT = 1, STATKEY_CON = -1, STATKEY_END = 0, STATKEY_SPD = 1, STATKEY_LCK = -1)
-	specstats_f = list(STATKEY_STR = 0, STATKEY_PER = 2, STATKEY_INT = 1, STATKEY_CON = -1, STATKEY_END = 0, STATKEY_SPD = 1, STATKEY_LCK = -1)
+	specstats_m = list(STATKEY_STR = 0, STATKEY_PER = 1, STATKEY_INT = 1, STATKEY_CON = 0, STATKEY_END = 0, STATKEY_SPD = 1, STATKEY_LCK = 0)
+	specstats_f = list(STATKEY_STR = 0, STATKEY_PER = 1, STATKEY_INT = 1, STATKEY_CON = 0, STATKEY_END = 0, STATKEY_SPD = 1, STATKEY_LCK = 0)
 
 	enflamed_icon = "widefire"
 
@@ -129,6 +118,7 @@
 		/datum/customizer/organ/ears/tiefling,
 		/datum/customizer/organ/horns/tiefling,
 		/datum/customizer/organ/tail/tiefling,
+		/datum/customizer/organ/tail/demihuman,
 		/datum/customizer/organ/eyes/humanoid,
 		/datum/customizer/bodypart_feature/hair/head/humanoid,
 		/datum/customizer/bodypart_feature/hair/facial/humanoid,

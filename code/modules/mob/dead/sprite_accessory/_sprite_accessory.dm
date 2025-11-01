@@ -279,6 +279,9 @@
 	if(istype(prefs))
 		var/list/sources = list()
 		sources[KEY_SKIN_COLOR] = prefs.skin_tone
+		sources[KEY_MUT_COLOR_ONE] = prefs.skin_tone
+		sources[KEY_MUT_COLOR_TWO] = prefs.skin_tone
+		sources[KEY_MUT_COLOR_THREE] = prefs.skin_tone
 		sources[KEY_EYE_COLOR] = prefs.get_eye_color()
 		sources[KEY_HAIR_COLOR] = prefs.get_hair_color()
 		sources[KEY_FACE_HAIR_COLOR] = prefs.get_facial_hair_color()
@@ -297,6 +300,9 @@
 	if(ishuman(carbon))
 		var/mob/living/carbon/human/human = carbon
 		sources[KEY_SKIN_COLOR] = human.skin_tone
+		sources[KEY_MUT_COLOR_ONE] = human.skin_tone
+		sources[KEY_MUT_COLOR_TWO] = human.skin_tone
+		sources[KEY_MUT_COLOR_THREE] = human.skin_tone
 		sources[KEY_EYE_COLOR] = human.get_eye_color()
 		sources[KEY_HAIR_COLOR] = human.get_hair_color()
 		sources[KEY_FACE_HAIR_COLOR] = human.get_facial_hair_color()

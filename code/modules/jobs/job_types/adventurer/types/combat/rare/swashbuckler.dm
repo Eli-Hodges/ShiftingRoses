@@ -3,15 +3,7 @@
 /datum/advclass/combat/swashbuckler
 	name = "Swashbuckler"
 	tutorial = "Woe the Sea King! You awake, dazed from a true festivity of revelry and feasting. The last thing you remember? Your mateys dumping you over the side of the boat as a joke. Now on some Gods foresaken rock, Abyssor will present you with booty and fun, no doubt."
-	allowed_races = list(\
-		SPEC_ID_HUMEN,\
-		SPEC_ID_ELF,\
-		SPEC_ID_HALF_ELF,\
-		SPEC_ID_TIEFLING,\
-		SPEC_ID_AASIMAR,\
-		SPEC_ID_HALF_ORC,\
-		SPEC_ID_RAKSHARI,\
-	)
+	allowed_races = RACES_PLAYER_ALL
 	outfit = /datum/outfit/job/adventurer/swashbuckler
 	maximum_possible_slots = 1
 	min_pq = 0

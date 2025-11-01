@@ -1,6 +1,6 @@
 /datum/job/matron
 	title = "Matron"
-	tutorial = "You are the Matron of the orphanage, once a cunning rogue who walked the shadows alongside legends.\
+	tutorial = "You are the Matron of the establishment, once a cunning rogue who walked the shadows alongside legends.\
 	Time has softened your edge but not your wit, thanks to your unlikely kinship with your old adventuring party.\
 	Now, you guide the orphans with both a firm and gentle hand, ensuring they grow up sharp, swift, and self-sufficient.\
 	Perhaps one dae, those fledglings might leap from the your nest and soar to a greater legacy."
@@ -8,9 +8,9 @@
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
 	display_order = JDO_MATRON
 	faction = FACTION_TOWN
-	total_positions = 1
-	spawn_positions = 1
-	min_pq = 10
+	total_positions = 0
+	spawn_positions = 0
+	min_pq = 0
 
 	allowed_sexes = list(FEMALE)
 	allowed_ages = list(AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
@@ -49,7 +49,7 @@
 		H.adjust_skillrank(/datum/skill/misc/sneaking, 1, TRUE)
 		H.adjust_skillrank(/datum/skill/misc/lockpicking, 1, TRUE)
 		H.adjust_skillrank(/datum/skill/misc/climbing, 1, TRUE) //She is a old thief.
-		H.change_stat(STATKEY_SPD, 1) //this is to counter the negative spd/end stats from being old so they can chase the orphans in case they're not listening, the other stats are left untouched.
+		H.change_stat(STATKEY_SPD, 1)
 		H.change_stat(STATKEY_END, 1)
 	H.change_stat(STATKEY_STR, -1)
 	H.change_stat(STATKEY_INT, 2)
@@ -66,10 +66,7 @@
 	pants = /obj/item/clothing/pants/trou/beltpants
 	belt = /obj/item/storage/belt/leather/cloth/lady
 	shoes = /obj/item/clothing/shoes/boots/leather
-	if(has_world_trait(/datum/world_trait/orphanage_renovated))
-		beltl = /obj/item/storage/belt/pouch/coins/rich
-	else
-		beltl = /obj/item/storage/belt/pouch/coins/mid
+	beltl = /obj/item/storage/belt/pouch/coins/mid
 	backr = /obj/item/storage/backpack/satchel
 	cloak = /obj/item/clothing/cloak/matron
 	backpack_contents = list(/obj/item/weapon/knife/dagger/steel = 1, /obj/item/key/matron = 1)

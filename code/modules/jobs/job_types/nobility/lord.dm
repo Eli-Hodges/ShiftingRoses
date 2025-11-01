@@ -2,8 +2,8 @@ GLOBAL_VAR(lordsurname)
 GLOBAL_LIST_EMPTY(lord_titles)
 
 /datum/job/lord
-	title = "Monarch"
-	var/ruler_title = "Monarch"
+	title = "Doge"
+	var/ruler_title = "Doge"
 	tutorial = "Elevated to your throne through a web of intrigue, political maneuvering, and divine sanction, you are the \
 	unquestioned authority of these lands. The Church has bestowed upon you the legitimacy of the gods themselves, and now \
 	you sit at the center of every plot, and every whisper of ambition. Every man, woman, and child may envy your power and \
@@ -13,9 +13,9 @@ GLOBAL_LIST_EMPTY(lord_titles)
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
 	display_order = JDO_LORD
 	faction = FACTION_TOWN
-	total_positions = 0
+	total_positions = 1
 	spawn_positions = 1
-	min_pq = 25
+	min_pq = 0
 
 	spells = list(
 		/datum/action/cooldown/spell/undirected/list_target/grant_title,
@@ -117,7 +117,7 @@ GLOBAL_LIST_EMPTY(lord_titles)
 	ADD_TRAIT(H, TRAIT_KNOWKEEPPLANS, TRAIT_GENERIC)
 
 /datum/job/exlord //just used to change the lords title
-	title = "Ex-Monarch"
+	title = "Ex-Doge"
 	department_flag = NOBLEMEN
 	faction = FACTION_TOWN
 	total_positions = 0

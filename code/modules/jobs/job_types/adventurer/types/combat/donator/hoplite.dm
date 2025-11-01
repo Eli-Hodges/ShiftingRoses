@@ -1,6 +1,6 @@
 /datum/advclass/combat/hoplite
 	name = "Immortal Bulwark"
-	tutorial = "You have marched and fought in formations since the ancient war that nearly destroyed Psydonia. There are few in the world who can match your expertise in a shield wall, but all you have ever known is battle and obedience..."
+	tutorial = "You have marched and fought in formations since the ancient war that nearly destroyed Terra. There are few in the world who can match your expertise in a shield wall, but all you have ever known is battle and obedience..."
 	allowed_races = list(SPEC_ID_AASIMAR)
 	outfit = /datum/outfit/job/adventurer/hoplite
 	maximum_possible_slots = 1

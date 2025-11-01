@@ -1,4 +1,4 @@
-/datum/job/orphan
+/* /datum/job/orphan
 	title = "Orphan"
 	tutorial = "Before you could even form words, you were abandoned, or perhaps lost. \
 	Ever since, you have lived in the Orphanage under the Matron's care. \
@@ -7,8 +7,8 @@
 	job_flags = (JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
 	display_order = JDO_ORPHAN
 	faction = FACTION_TOWN
-	total_positions = 12
-	spawn_positions = 12
+	total_positions = 0
+	spawn_positions = 0
 	min_pq = 0
 	bypass_lastclass = TRUE
 
@@ -73,3 +73,4 @@
 	H.change_stat(STATKEY_CON, orphanage_renovated ? 1 : -1)
 	H.change_stat(STATKEY_END, orphanage_renovated ? 1 : -1)
 	ADD_TRAIT(H, TRAIT_ORPHAN, TRAIT_GENERIC)
+*/

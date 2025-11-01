@@ -8,14 +8,14 @@
 	changesource_flags = WABBAJACK
 
 	desc = "The Children of Abyssor, also known as Tritons or their colloquial name, \"Deep Folk,\" \
-	are a strange species of people that live under the waves of Psydonia. \
+	are a strange species of people that live under the waves of Terra. \
 	Born from creatures of the deep with Abyssor's guidance, \
 	these aquatic wayfarers all share a few common traits. \
 	Similar to other creatures that dwell below the surface, their eyes are dull with disuse. \
 	Tritons feel pain when gazing upon that which direct light of Astrata herself illuminates. \
 	\n\n\
-	Unlike most of the people of Psydonia, their culture is often considered cold and dour; \
-	an apathetic attitude to most negative or positive news. For them, the depths of Psydonias oceans are cold and unforgiving. \
+	Unlike most of the people of Terra, their culture is often considered cold and dour; \
+	an apathetic attitude to most negative or positive news. For them, the depths of Terra oceans are cold and unforgiving. \
 	Large beasts travel the waters that swallow their kin whole... \
 	but the crushing depths have provided them a hearty disposition and resistance to most threats. \
 	Born of Abyssor, their normally placid emotions can swing into a wild rage when they view injustice done upon their kin at the hands of a sapient being. \
@@ -52,8 +52,8 @@
 		VOICE_TYPE_ANDRO
 	)
 
-	specstats_m = list(STATKEY_STR = -1, STATKEY_PER = -2, STATKEY_CON = -2, STATKEY_SPD = 1, STATKEY_INT = 2)
-	specstats_f = list(STATKEY_STR = 2, STATKEY_PER = -4, STATKEY_CON = 3, STATKEY_SPD = -3)
+	specstats_m = list(STATKEY_STR = 2, STATKEY_PER = 0, STATKEY_CON = 0, STATKEY_SPD = 0, STATKEY_INT = 1)
+	specstats_f = list(STATKEY_STR = 2, STATKEY_PER = 0, STATKEY_CON = 0, STATKEY_SPD = 0, STATKEY_INT = 1)
 
 	limbs_icon_m = 'icons/roguetown/mob/bodies/m/triton.dmi'
 	limbs_icon_f = 'icons/roguetown/mob/bodies/f/triton.dmi'

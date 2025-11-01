@@ -29,7 +29,6 @@
 		/datum/job/miner = 4,
 		/datum/job/fisher = 2, //Thematically fitting for them to be more common than most.
 		/datum/job/farmer = 3, //Not like this would ever be filled ANYWAYS.
-		/datum/job/orphan = 6,
 		/datum/job/men_at_arms = 4, //Combat roles overall tuned town a bit.
 		/datum/job/guardsman = 6,
 		/datum/job/adventurer = 8, //Not sure on this one but I generally want to cut down on the non-town roles.

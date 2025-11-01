@@ -1,6 +1,6 @@
 /datum/job/adept
 	title = "Adept"
-	tutorial = "You were a convicted criminal, the lowest scum of Vanderlin. \
+	tutorial = "You were a convicted criminal, the lowest scum of the Island. \
 	Your master, the Inquisitor, saved you from the gallows \
 	and has given you true purpose in service to Psydon. \
 	You will not let him down."
@@ -10,7 +10,7 @@
 	faction = FACTION_TOWN
 	total_positions = 3
 	spawn_positions = 2
-	min_pq = 5
+	min_pq = 0
 	bypass_lastclass = TRUE
 
 	allowed_races = RACES_PLAYER_ALL

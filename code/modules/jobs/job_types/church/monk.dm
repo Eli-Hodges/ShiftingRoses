@@ -1,7 +1,7 @@
 /datum/job/monk
 	title = "Acolyte"
 	tutorial = "Chores, exercise, prayer... and more chores. \
-	You are a humble acolyte at the temple in Vanderlin, \
+	You are a humble acolyte at the temple in The Island, \
 	not yet a trained guardian or an ordained priest. \
 	But who else would keep the fires lit and the floors clean?"
 	department_flag = CHURCHMEN
@@ -10,7 +10,7 @@
 	faction = FACTION_TOWN
 	total_positions = 4
 	spawn_positions = 4
-	min_pq = -10
+	min_pq = 0
 	bypass_lastclass = TRUE
 
 	allowed_races = RACES_PLAYER_NONHERETICAL

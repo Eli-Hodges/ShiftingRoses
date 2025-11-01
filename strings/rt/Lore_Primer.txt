@@ -164,7 +164,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		<em>Union of the Plains, Gendeni's Own, Those in Graggars Shadows</em>
 		<br><br>
-		The Ogri Union is a coalition consisting of tribes of Orcs, Goblins, and Plains Dwarves who formed together after the ascension of Graggar. The devastation left behind by the god deeply shook the faith of the once proudly worshiping Orcish peoples, and a massive civil war saw the destruction of almost half of the Orcish and Goblin tribes. In the ashes of what was the most violent war on the continent, a Warlord and the tribes under her sought to rebuild their lands from the ground up to ensure that an ascension in the likes of Graggar never happened again. Aided by the Plains Dwarves, and an Adventurer from the City States who would come to have a profound impact on the future government the new Union would become, the Orcs and Goblins salvaged their ravaged lands and turned it into a prosperous empire. 
+		The Ogri Union is a coalition consisting of tribes of Orcs, Goblins, and Plains Dwarves who formed together after the ascension of Graggar. The devastation left behind by the god deeply shook the faith of the once proudly worshiping Orcish peoples, and a massive civil war saw the destruction of almost half of the Orcish and Goblin tribes. In the ashes of what was the most violent war on the continent, a Warlord and the tribes under her sought to rebuild their lands from the ground up to ensure that an ascension in the likes of Graggar never happened again. Aided by the Plains Dwarves, and an Adventurer from the City States who would come to have a profound impact on the future government the new Union would become, the Orcs and Goblins salvaged their ravaged lands and turned it into a prosperous empire.
 		<br><br>
 		The Orgi Union is governed by a council of representatives voted upon by each town, village, and city among the plains, who all get one represenative to have a seat on the council. The council then votes upon a Chieftain who is broadly a figurehead for the people of the Union. The Ogri Union is most notable for having no real commerce outside of interactions with other empires, as Food, Water, and Shelter are regarded as basic rights for all peoples. All transactions are either barters, favors, or simply good deeds done to assist in one another.
 		<br><br>
@@ -498,7 +498,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		God of Ceaseless Hunger and Endless Conflict. Known as the Orcish Ascendant to faithful and foes alike. He was an Orc Warlord who brutally conquered all of the tribes, and ascended at the peak of his power.
 		<br><br>
-		Graggars Ascension caused a conflict so brutal and bloody that Orc and Goblin culture completely shattered and rebuilt itself due to it. He is deeply spiteful towards the new Orgi Union which came in his wake, as he believed Orcs should conquer the world. 
+		Graggars Ascension caused a conflict so brutal and bloody that Orc and Goblin culture completely shattered and rebuilt itself due to it. He is deeply spiteful towards the new Orgi Union which came in his wake, as he believed Orcs should conquer the world.
 		<br><br>
 		Worshiped mostly by fringe Orcish tribes outcasted from the Orgi Union, Graggar believes that the truest way to show dominance over others is to simply kill them and eat their flesh. Feasting on anothers body is said to devour their very soul, and some believe this is how Graggar ascended. Graggar worship is of course banned in the Orgi Union, and Graggar Cults are hunted relentlessly.
 		<br><br>
@@ -554,7 +554,7 @@ While it's not required reading, leadership roles may find this information usef
 
 
 <details>
-	<summary><strong><span style="font-size:130%"> SPECIES OF THE THREE CONTINENTS </span></strong></summary>
+	<summary><strong><span style="font-size:130%"> SPECIES OF TERRA </span></strong></summary>
 	<hr>
 	<strong><span style="font-size:115%"> SAPIENS </span></strong>
 	<br>

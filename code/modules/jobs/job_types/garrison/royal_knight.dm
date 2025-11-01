@@ -10,7 +10,7 @@
 	faction = FACTION_TOWN
 	total_positions = 2
 	spawn_positions = 2
-	min_pq = 8
+	min_pq = 0
 	bypass_lastclass = TRUE
 	selection_color = "#920909"
 
@@ -130,7 +130,7 @@
 
 /datum/advclass/royalknight/steam
 	name = "Steam Knight"
-	tutorial = "The pinnacle of Vanderlin's steam technology. \
+	tutorial = "The pinnacle of the Islands's steam technology. \
 	Start with a set of Steam Armor that requires steam to function. \
 	The suit is powerful when powered but will slow you down when not \
 	learning how to use it has cost you precious time \

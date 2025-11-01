@@ -1,9 +1,9 @@
 /datum/advclass/combat/heartfeltlord
 	name = "Lord of Heartfelt"
 	tutorial = "You are the proud lord of Heartfelt, \
-	but why have you come to Vanderlin?"
+	but why have you come to The Island?"
 	allowed_sexes = list(MALE)
-	allowed_races = list(SPEC_ID_HUMEN)
+	allowed_races = RACES_PLAYER_ALL
 	outfit = /datum/outfit/job/adventurer/heartfeltlord
 	min_pq = 2
 	maximum_possible_slots = 1

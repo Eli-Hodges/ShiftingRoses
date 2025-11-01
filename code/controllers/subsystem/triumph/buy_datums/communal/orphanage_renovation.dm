@@ -1,4 +1,4 @@
-/datum/triumph_buy/communal/preround/orphanage_renovation
+/* /datum/triumph_buy/communal/preround/orphanage_renovation
 	name = "Orphanage Renovation"
 	desc = "Contribute to renovate the local orphanage and give orphans a better start in life. Automatically refunds if it does not reach its goal before the round starts."
 	triumph_buy_id = TRIUMPH_BUY_ORPHANAGE_RENOVATION
@@ -15,4 +15,4 @@
 	for(var/client/C in GLOB.clients)
 		if(!C?.mob)
 			continue
-		C.mob.playsound_local(C.mob, 'sound/vo/female/gen/giggle (1).ogg', 100)
+		C.mob.playsound_local(C.mob, 'sound/vo/female/gen/giggle (1).ogg', 100) */

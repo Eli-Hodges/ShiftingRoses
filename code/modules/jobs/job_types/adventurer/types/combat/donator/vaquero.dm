@@ -2,7 +2,7 @@
 /datum/advclass/combat/vaquero
 	name = "Vaquero"
 	tutorial = "You have been taming beasts of burden all your life, and riding since you were old enough to walk. Perhaps these lands will have use for your skills?"
-	allowed_races = list(SPEC_ID_TIEFLING)
+	allowed_races = RACES_PLAYER_ALL
 	outfit = /datum/outfit/job/adventurer/vaquero
 	horse = /mob/living/simple_animal/hostile/retaliate/saigabuck/tame/saddled
 	cmode_music = 'sound/music/cmode/adventurer/combat_vaquero.ogg'

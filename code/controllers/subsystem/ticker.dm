@@ -92,7 +92,7 @@ SUBSYSTEM_DEF(ticker)
 
 	var/last_bot_update = 0
 
-	var/list/no_ruler_lines = list(
+	/* var/list/no_ruler_lines = list(
 		"Set a Ruler to 'high' in your class preferences to start the game!",
 		"PLAY Ruler NOW!", "A Ruler is required to start.",
 		"Pray for a Ruler.", "One day, there will be a Ruler.",
@@ -102,8 +102,8 @@ SUBSYSTEM_DEF(ticker)
 		"Still no Ruler is readied..",
 		"I'm going to lose my mind if we don't get a Ruler readied up.",
 		"No. The game will not start because there is no Ruler.",
-		"What's the point of Vanderlin without a Ruler?"
-		)
+		"What's the point of the nobility without a Ruler?"
+		) */
 
 /datum/controller/subsystem/ticker/Initialize(timeofday)
 	load_mode()
@@ -208,18 +208,12 @@ SUBSYSTEM_DEF(ticker)
 				tipped = TRUE
 
 			if(timeLeft <= 0)
-				if(!checkreqroles())
-					current_state = GAME_STATE_STARTUP
-					start_at = world.time + timeDelayAdd
-					timeLeft = null
-					Master.SetRunLevel(RUNLEVEL_LOBBY)
-				else
-					send2chat(new /datum/tgs_message_content("New round starting on Vanderlin!"), CONFIG_GET(string/chat_announce_new_game))
-					SEND_SIGNAL(src, COMSIG_TICKER_ENTER_SETTING_UP)
-					current_state = GAME_STATE_SETTING_UP
-					Master.SetRunLevel(RUNLEVEL_SETUP)
-					if(start_immediately)
-						fire()
+				send2chat(new /datum/tgs_message_content("New round starting on Vanderlin!"), CONFIG_GET(string/chat_announce_new_game))
+				SEND_SIGNAL(src, COMSIG_TICKER_ENTER_SETTING_UP)
+				current_state = GAME_STATE_SETTING_UP
+				Master.SetRunLevel(RUNLEVEL_SETUP)
+				if(start_immediately)
+					fire()
 
 		if(GAME_STATE_SETTING_UP)
 			if(!setup())
@@ -254,7 +248,7 @@ SUBSYSTEM_DEF(ticker)
 			if(world.time > last_vote_time + time_until_vote)
 				SSvote.initiate_vote("endround", "The Gods")
 
-/datum/controller/subsystem/ticker/proc/checkreqroles()
+/* /datum/controller/subsystem/ticker/proc/checkreqroles()
 	var/list/readied_jobs = list()
 	var/list/required_jobs = list("Monarch")
 #ifdef TESTING
@@ -279,7 +273,7 @@ SUBSYSTEM_DEF(ticker)
 		return FALSE
 
 	job_change_locked = TRUE
-	return TRUE
+	return TRUE */
 
 /datum/controller/subsystem/ticker/proc/setup()
 	message_admins(span_boldannounce("Starting game..."))
@@ -331,7 +325,7 @@ SUBSYSTEM_DEF(ticker)
 	SEND_SIGNAL(src, COMSIG_TICKER_ROUND_STARTING, world.time)
 	round_start_irl = REALTIMEOFDAY
 
-	INVOKE_ASYNC(SSdbcore, /datum/controller/subsystem/dbcore/proc/SetRoundStart)
+	INVOKE_ASYNC(SSdbcore, TYPE_PROC_REF(/datum/controller/subsystem/dbcore, SetRoundStart))
 
 	message_admins(span_boldnotice("Welcome to [SSmapping.config.map_name]!"))
 

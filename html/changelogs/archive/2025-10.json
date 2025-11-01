@@ -5,5 +5,40 @@
                 "bugfix": "renamed the homunculi tube"
             }
         ]
+    },
+    "2025-10-19": {
+        "Hemshire": [
+            {
+                "rscadd": "Lore"
+            }
+        ]
+    },
+    "2025-10-25": {
+        "AllCorruptingWyrm": [
+            {
+                "rscadd": "See commit"
+            },
+            {
+                "rscadd": "the funny rose png"
+            },
+            {
+                "rscadd": "furry stuff"
+            }
+        ],
+        "Varoxus": [
+            {
+                "rscdel": "Removed vanderlin warning for kobolds."
+            },
+            {
+                "bugfix": "Gave kobolds pronoun choices"
+            }
+        ]
+    },
+    "2025-10-31": {
+        "AllCorruptingWyrm": [
+            {
+                "server": "sets up the hub front facing info"
+            }
+        ]
     }
 }

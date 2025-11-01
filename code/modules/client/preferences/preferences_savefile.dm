@@ -387,7 +387,6 @@ SAVEFILE UPDATING/VERSIONING - 'Simplified', or rather, more coder-friendly ~Car
 
 	S["body_markings"] >> body_markings
 	body_markings = SANITIZE_LIST(body_markings)
-
 	validate_body_markings()
 
 	S["descriptor_entries"] >> descriptor_entries

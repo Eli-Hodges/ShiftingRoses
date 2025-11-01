@@ -7,10 +7,7 @@
 	spawn_positions = 1
 
 	allowed_races = RACES_PLAYER_ALL
-	//I say we let all species be the gaffer, this is job concerns the adventurers and mercs, and those come in all types and sizes,
-	//so it fits better with the wild cards that is this demographic of people
-	//having said that I am gate keeping the moment felinids are in the damn game
-	allowed_ages = list(AGE_MIDDLEAGED,AGE_OLD, AGE_IMMORTAL) //AGE_OLD with the ring on? I say unlikely - clown
+	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL) //AGE_OLD with the ring on? I say unlikely - clown
 	tutorial = "Forced out of your old adventure party, you applied to the Mercenary guild. Eventually becoming\
 	the next Guild Master. Gone are the excitements of your past, today your life is engrossed with two \
 	things: administrative work, and feeding the monstrous Head Eater. Act as the\
@@ -21,7 +18,7 @@
 	cmode_music = 'sound/music/cmode/towner/CombatGaffer.ogg'
 	outfit = /datum/outfit/job/gaffer
 	give_bank_account = 20
-	min_pq = 8
+	min_pq = 0
 	bypass_lastclass = TRUE
 	selection_color = "#3b150e"
 

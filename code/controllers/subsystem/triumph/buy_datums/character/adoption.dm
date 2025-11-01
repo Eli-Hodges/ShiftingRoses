@@ -1,4 +1,4 @@
-/datum/triumph_buy/adoption
+/* /datum/triumph_buy/adoption
 	name = "Adoption Ability"
 	desc = "Gain an ability to adopt children and start your own family!"
 	triumph_buy_id = TRIUMPH_BUY_ADOPTION
@@ -12,4 +12,4 @@
 /datum/triumph_buy/adoption/on_after_spawn(mob/living/carbon/human/H)
 	. = ..()
 	H.add_spell(/datum/action/cooldown/spell/adopt_child)
-	on_activate()
+	on_activate() */
