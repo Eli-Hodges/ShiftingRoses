@@ -35,10 +35,8 @@ While it's not required reading, leadership roles may find this information usef
 		<p><strong> - Mire of the Terrorbog </strong><br> A fertile and marshy strip of land seperating the lands of Solaros' Grand Domain and the Black Kingdom of Grenzelhoft. Its mere existence has prevented many a bloody battle.  </p>
 		<p><strong> - River Rhoul </strong><br> A massive river jutting from west to east, cutting into the heart of Hearthshire. Rhoul Valley centers around it, and is the most fertile land within the continent. </p>
 		<p><strong> - Malum's Anvil </strong><br> A jagged mountain filled with ores, treasures, and lava. Mountain Dwarves believe that their God of War rests underneath. </p>
-	</details>
 		<p><strong> - Sylvi Glades </strong><br> Large forests dotting the northern areas of Hearthshire, before the Tundras of Wintermare, and connected to the Necral Forests. Still not entirely explored to this day. </p>
-	</details>
-		<p><strong> - Field of Shame </strong><br> A large battlefield, left untouched to time. Said to have been the location where the God of War struck down the newly ascended Kerack to save Grenzelhoft. </p>
+		<p><strong> - Field of Shame </strong><br> A large battlefield, left untouched to time. Said to have been the location where the Ilia struck down the newly ascended Kerack to save Grenzelhoft. </p>
 	</details>
 	<br>
 
@@ -71,7 +69,7 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><em> Points of Interest </em></summary>
 		<p><strong> - Beak of Terra</strong><br> A massive, faintly curved valley dug into the center of the Denor Plains. The capital of the Orgi union resides within this valley, and it is the economic and cultural capital of the continent. Massive towers line the edges where the Orcs use blimps for transport across the plains. </p>
-		<p><strong> - Denor Plains</strong<br> The wide swathe of shrubland which dominates the center of the continent. Multiple settlements dot its landscape. Immensely fertile, and also immensely dangerous. Home of Orcs, Goblins, and Plains Dwarves.</p>
+		<p><strong> - Denor Plains</strong<br> The wide swathe of prairie which dominates the center of the continent. Multiple settlements dot its landscape. Immensely fertile, and also immensely dangerous. Home of Orcs, Goblins, Harpies, and Prairie Dwarves.</p>
 		<p><strong> - Juwzlic Mountains</strong<br> A massive range of mountains which completely seperates a small portion of the southern continent from the rest of it.</p>
 		<p><strong> - Aldric's Peninsula</strong<br> Located on the north eastern part of the continent, just short of the entrance to the Northern Tundras, it hosts a reclusive gathering of humans known as the Northmen. </p>
 		<p><strong> - Far-Away Valley</strong<br> Cut off via Juwzlic Mountains from the rest of the continent, it is a fertile yet relatively uninhabited stretch of land. The City-States maintain a single trading port, with which they have based operations towards the colonization of the Temporal Lands. Rumors persist that the legendary Amazons reside far into the valley.</p>
@@ -559,7 +557,7 @@ While it's not required reading, leadership roles may find this information usef
 
 
 <details>
-	<summary><strong><span style="font-size:130%"> SPECIES OF PSYDONIA </span></strong></summary>
+	<summary><strong><span style="font-size:130%"> SPECIES OF THE THREE CONTINENTS </span></strong></summary>
 	<hr>
 	<strong><span style="font-size:115%"> SAPIENS </span></strong>
 	<br>
@@ -569,14 +567,14 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><strong> Humans </strong></summary>
 		<br>
-		Humanity is a broad race of peoples which span across all three of the known continents, and whose nature is never singularly predictable. Humans come from from all walks of life and seemingly in all shapes and sizes, and are broadly considered the single most populus race spanning the world. The wide variety of cultures which have stemmed from Human settlement and intervention has had the widest effect on the world and all political happenings upon it. Humans are as quick to courage and bravery as they are to fear and cowardice, and as easy to honesty and good just as they are to evil and violence. To try and define a human under a singular umbrella would be a fools effort.
+		Humanity is a broad race of peoples which span across all three of the known continents, and whose nature is never singularly predictable. Humans come from from all walks of life and seemingly in all shapes and sizes, and are broadly considered the single most populus race spanning the world. The wide variety of cultures which have stemmed from Human settlement and intervention has had the widest effect on the world and all political happenings upon it. Humans are as quick to courage and bravery as they are to fear and cowardice, and as easy to honesty and good just as they are to evil and violence. To try and define a human under a singular umbrella would be a fools effort. Solaros' Grand Domain, Grenzelhoft, The City States, and Wilusia are all majority Human political entities, with the Dukedom of Crechy and Helmsmore also being almost entirely Human.
 		<br><br>
 	</details>
 
 	<details>
 		<summary><strong> Elves </strong></summary>
 		<br>
-		Elves have long been known to have come from the southern forests of Alur, and while at first glance many would be quick to compare them to Humans, they are far more different than meets the eye. Tall, lithe, and graceful, Elven people are longer lived than any other race in the known world. Their culture has revolved entirely around their immensely long lives, and most Elven people from the forests tend to regard others with an aloof nature. Elven people who migrated to other places, notably Solaros' Grand Domain, are much more sociable towards their fellow peoples. Their tall stature and flexible form has made many an Elven Blademaster a legend within Hearthshire.
+		Elves have long been known to have come from the southern forests of Alur, and while at first glance many would be quick to compare them to Humans, they are far more different than meets the eye. Tall, lithe, and graceful, Elven people are longer lived than any other race in the known world. Their culture has revolved entirely around their immensely long lives, and most Elven people from the forests tend to regard others with an aloof nature. Elven people who migrated to other places, notably Solaros' Grand Domain, are much more sociable towards their fellow peoples. Their tall stature and flexible form has made many an Elven Blademaster a legend within Hearthshire. With a large population within Solaros' Grand Domain, and sizable populations within the City States and Wilusia, their prominence on the global stage is arguably matched only by Humans and Orcs.
 		<br><br>
 	</details>
 
@@ -590,7 +588,14 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><strong> Prairie Dwarves </strong></summary>
 		<br>
-		Prairie Dwarves are short, stocky, and fairly hairy human like individuals who come from the Prairie Lands of Gorogomn. While they are called Dwarves, they have no actual relation to Mountain Dwarves and cannot even interbreed with them, as Sapiens cannot interbreed with Terrans. Prairie Dwarves are immensely hardy, capable of eating any manner of plant or mushroom without any negative effect and seemingly shrugging off painful blows with ease, but are not known to be quick. They are culturally inclined to take their time and never find themselves rushing anything, and while others might consider them lazy because of that it beguiles the truth of an immensely hard working people who have been the cornerstone of Ogri Union workforces since its inception.
+		Prairie Dwarves are short, stocky, and fairly hairy human like individuals who come from the Prairie Lands of Gorogomn. While they are called Dwarves, they have no actual relation to Mountain Dwarves and cannot even interbreed with them, as Sapiens cannot interbreed with Terrans. Prairie Dwarves are immensely hardy, capable of eating any manner of plant or mushroom without any negative effect and seemingly shrugging off painful blows with ease, but are not known to be quick. They are culturally inclined to take their time and never find themselves rushing anything, and while others might consider them lazy because of that it beguiles the truth of an immensely hard working people who have been the cornerstone of Ogri Union workforces since its inception. They stand on average just about four and a half feet, with sun-baked skin tones and either brown or amber hair colors, which are their main differentiating factors between them and Mountain Dwarves.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Amazonians </strong></summary>
+		<br>
+		Not a race which has ever been properly documented, the Amazonians are a people of myth and legend. Said to be a tribe of womenfolk whose strength and stature exceed any other known species, Amazonians are believed to live somewhere within the Far-Away Valley in the southern lands of Gorogomn, yet no proof of their existence has ever been put forward to scholarly individuals and no Amazonian has ever been seen. Legends claim that these brutish women are a species of only women, and who must kidnap men to use as breeding stock to ensure the survival of their own kind.
 		<br><br>
 	</details>
 
@@ -603,93 +608,79 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><strong> Orcs </strong></summary>
 		<br>
-		Orcs are a race of green skined humanoid people who 
+		Orcs are a race of green skined humanoid people whose ancestry is said to revolve around the folktale of the Denor Plains. Claimed to have been the largest forest in the known world, a massive earthquake split the roots of the forest and upended the land such that the forest was shattered after five days of the earth falling out from under it. Rather than die, the trees took form and became the Orcish people. Standing at slightly taller than the average Human, but shorter than an Elf, Orcish people are easily identified by their leaf-green or bark-brown like skin colors and hair colors, as well as jutting tusk like teeth. For most of their history they've been a savage people thanks in no small part to the dangerous lands they inherited from the earthquake. Yet in recent years their culture has shifted drastically, and they now are the heads of what is arguably the biggest democratic entity in the known world. Orcs rarely exist outside of the Ogri Union, and if they do they are probably adventurers or explorers. A small community exists within one of the City States, but mostly for diplomatic reasons.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Medicators / "Feculents" </strong></summary>
+		<summary><strong> Goblins </strong></summary>
 		<br>
-		Medicators originate from the the fetid swamps and murk within the Isle of Enigma. Their species has historically been localized around the area, although the Brass Cataclysm of Heartfelt's fall has resulted in droves of their kind seeking refuge elsewhere. They are a newer form of sapience, with records dating back only after Zizo's ascension.
-		<br><br>
-		Their appearance is gaunt, patches of bare skin riddled with feathers and pox scars, Medicators are a horrifying fusion of bird and men- unlike their far more appealing adversaries, the harpies. With long, hanging beaks which clatter as they breathe, other species find them displeasing at best and repulsive at worst. Despite this, their eyes betray great intelligence behind otherwise monstrosity.
-		<br><br>
-		Born of carcinogens, pollution, mechanical and biological waste, these creatures were not always sapient. Through their appearance, accidental origin, and innate sicknesses, they have gained the fascination and uplifting of Pestra and inherited aspects of the serpentine goddess in turn. Medicators, as they called themselves, carry with them the bedside manners, or lack thereof, of the worst Pestrans. Their culture holds discovery and medicinal breakthroughs in the highest regard, be it through experimentation to shift their own ailments or others'. Medicators care little about the nickname granted to them by other species, 'feculents,' so long as their medical prowess is not subject to question.
-		<br><br>
-		Medicators and Harpies often find themselves in conflict, mirroring the quarrels of their patrons, whether of conscious faith or not.
+		Sharing the same ancestral story as Orcs, Goblins have been said Orc's best friends since their first inception. The truth of that statement is much more dubious. Their short stature compared to Orcs led them in the early days to effectively be the slaves of Orcs in some clans, while other clans treated them as equals. After Graggars ascension and the rise of the Ogri Union, Goblins found themselves truly an equal and friend to the Orcish people. Standing at barely four feet tall at the tallest, Goblins share the Orcs' green and brown skin tones while also sporting an impressive aray of hair colors. Purple, orange, and blue are not uncommon for Goblin peoples to have. Known to be quick witted, agile, and arguably a bit devious, Goblins exist much more numerously outside of the Ogri Union and are many peoples first introduction to the Union itself.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Harpies </strong></summary>
+		<summary><strong> Mountain Dwarves </strong></summary>
 		<br>
-		Harpies, or less ceremoniously known as 'magpies,' resemble the despised hollow-kin in appearance at first glance. One would rightfully assume they are similar in nature- with accuracy even, much to the harpies' chagrin. Harpies have been uplifted and reconnected to divinity by Eora, having developed culture of music and song which caught the attention of such a goddess. Their songs and voices may be their own, or proud mimicking other voices they've heard with unnatural accuracy.
-		<br><br>
-		Whilst harpies may fly, their freedom is weighed by corruption of fleshcrafting to this day. Complete open-air freedom is still foreign to them. Harpies tend to live and gather in colonies at the tops of great sequoia forests and in nearby cliffs. Due to their laden flight, they must employ use of updrafts and proximity to large objects or structures to bolster their limited range and air-dancing performances. Their serene songs and blissful music can be heard echoing far below, guiding travelers and thieves both to respite... or treasure. For as lifted into grace as they might be, these 'magpies' earn such a nickname from instinctual Matthiosan greed and love for anything that shines. Yet if one can work past that distrust and compensate them well, harpies make for unparalleled couriers.
-		<br><br>
-		Harpies and Feculents often find themselves in conflict, mirroring the quarrels of their patrons, whether of conscious faith or not.
-		<br><br>
+		Hailing from the mountain ranges in the eastern parts of Hearthshire, Mountain Dwarves, in their own words, were born from the energy which came from Malum falling from the sky and striking the earth. His energy uplifted the ground into the massive mountains, and from the stones were born the Mountain Dwarves. In spite of sharing a name, Mountain Dwarves share no similarity to Prairie Dwarves. Mountain Dwarves are always working, and always trying to get everything done as soon as possible. Idle hands are ill-advised within Mountain Dwarves' culture, as Malum does not look favorably upon those who would sit by while their brothers and sisters would toil away. Mountain Dwarves stand at four and half feet, and can usually be easily indentified by their sometimes blueish or greyish skin tones if not their stature alone. Some Mountain Dwarves do have more creamy skin tones to them, mostly if they find themselves living outside of the mountains for a long period of time.
+	</details>
+
+	<details>
+		<summary><strong> Medicators </strong></summary>
+		<br>
+		The history of Medicators goes back to the explorations into the Shattered Isles in the east of Alur, where some claim that an ancient Empire of Clockwork and Magic had ruled the known world. Very few people were ever capable of surviving such a place, and those who returned spoke of strange bird like people seemingly riddled with all manner of pox and disease yet fully sapient and immensely talented in medical arts. It was not until a Gnomish expedition was able to confirm that these Medicators were real that many started to understand their nature. Initially believed to be some sort of Soultouched, recent studies have confirmed that Medicators are born from the sludge and waste the fallen empire left behind, making them Terran in nature. They strike a gaunt appearance, with long corvid like beaks and darkened feathers along their pox ridden body. While generally considered unsightly by many who first come into contact with them, this has not stopped the Medicator peoples from striking out to explore a world they've known existed but never knew held anything but empty wildlands. With a strikingly cold demeanor, whether by choice or by nature, Medicators take little care to how those around them perceive them and simply explore the world at their own pace. Knowledge of their culture within the Shattered Lands is immensely sparse, as Medicators themselves aren't completely sure of their own origins. They've known only the sludge pollution of their homeland and not where it originated from.
 	</details>
 
 	<hr>
-	<strong><span style="font-size:115%"> DISCRIMINATED "INHUMEN" SPECIES </span></strong>
+	<strong><span style="font-size:115%"> SOULTOUCHED </span></strong>
+    <br>
+    <em> Soultouched are said to be peoples who were once either Sapien or Terran whose very being was changed by the natures of souls themselves. </em>
 	<br><br>
 
 	<details>
-		<summary><strong> Tieflings </strong></summary>
+		<summary><strong> Tritons </strong></summary>
 		<br>
-		Also known as Infernal-Spawn, Hell-Bloods, Surface-Devils, and perhaps in a more humorous manner, <em>thief</em>-lings. Their treatment ranges from shunning to distrust, depending on the region. Shopkeeps and merchants always keep a wary eye on any tiefling passersby. The resentment feed into itself, leading to higher rates of tiefling ire and thievery against other species. Many tieflings resign to seeking a solitary and nomadic life, huddled in groups outside the watchful eyes of others. They also tend to be extremely perceptive and paranoid, as luck is rarely on their side.
-		<br><br>
-		Tieflings began appearing all over Psydonia after Baotha's ascension within the 21st century, and were exiled in droves as the world adapted. They are often mistaken as being related to her.
-		<br><br>
-		Tieflings are incapable of reproducing with mortals, and thus are spawn of either devils, demons, or other tieflings. A tiefling may develop any number of hellish features, a wide range of horns, potential hooves, odd spines and spikes, or scales. Oddly positioned scales, hollow bones, and other varying oddities that appear consistently in tiefling biology make them considerably fragile. It is not uncommon for a tiefling to be generally unpleasant to look at in the eye of the commonfolk. As if to make matters worse, their hellish progenitors have left them a destiny of misfortune, though perhaps their immunity to fire opens new opportunities for them...
-		<br><br>
-	</details>
-
-	<details>
-		<summary><strong> Half dark-elves / "Half-drow" </strong></summary>
-		<br>
-		The child of a dark elf and humen. The distinction between half-elves and 'half-drow' has been a subject of debate for centuries. While similar in physicality and longevity to their non-drow cousins, their origins cause them to face discrimination akin to their elven side. Groups of half-elves and half-drow have been known to congregate together and consider themselves one species. According to some radical academic scholars, they might be one and the same species indeed- yet the people of Psydonia certainly do not believe the same at large.
-		<br><br>
-	</details>
-
-	<details>
-		<summary><strong> Dark-elves </strong></summary>
-		<br>
-		Zizo's conquered. These elves hail from an underground expanse of newly-reborn empires.  They lead harsh, matriarchal lives under the watchful gaze of Zizo, the vast majority hoping to one day achieve such power and domination for themselves.
-		<br><br>
-		Zizo's spawn, the last snow elves, integrated themselves- whether gleefully or resentfully- within the dark elf culture their grandmother had carved through conquest.
-		<br><br>
-		To most in Psydonia, a dark elf is nothing more than a servant of Zizo waiting to betray for power, leading most dark elves to remain within their safe underground strongholds. Those who breach the surface rarely receive fair treatment. Dark elves over 500 years old may remember their Ravoxian empire of old, yet few remain who were not killed or converted.
-		<br><br>
-	</details>
-
-	<details>
-		<summary><strong> Half-orcs </strong></summary>
-		<br>
-		The bastards of Graggar. Half-orcs are the offspring of orcs and another species, half-orcs, or another species who has consumed much kinsflesh on their way to orcishness.  An outsider cannot tell a half-orc product of heritage or cannibalism at a glance, leading to much social ostracization.
-		<br><br>
-		Due to their parent's refusal to nurture them, as well as their other parent often rejecting or attacking them, most half-orcs will grow as orphans. Their rejection by the rest of society causes their growth to stunt, often making them hostile and prone to violence. Because of this, most will assume the worst in them, believing that they are cursed to follow their orcish parent's footsteps in the gorging of kin-flesh.
-		<br><br>
-		A half-orc may display orcish features, sporting tusks and natural strength. Many are nigh-indistinguishable visually from full orcs, save for their remaining grasp on self-control.
-		<br><br>
+		The Children of the Sea, The Deep Folk, Ceti's Offspring, Fish-People. Tritons have many names that people have called them over the years. Broadly build fish-like peoples hailing from the Oceans far beyond the Straits of the Three Continents, Triton Tribes mainly avoid getting close to land if at all possible. Only two Tribes of Tritons reside within the Straits, names incomprehensible to normal tounge, and which scholars have taken to calling the Star-Bay Tribe and the Western Straits Tribe. What little is known of their culture comes only from the two tribes willing to live within the Straits, and even then it is known to be different from the Tritons which reside in the darkest depths of the oceans. Tritons are nominally tall individuals, with an extreme sexual dimorphism liking them to the Amazonian people. Women are notably bigger than their male counterparts, such that it affects their cultural identity. Tritons are well versed in seafaring; an obvious fact which has led them to become well sought after mercenaries and guides for traders and navies. Legends say that Triton come from sailors who tried to cross the sea but failed, forced to live off of the ocean until their offspring became better suited for water, a history which Tritons have come to neither confirm nor deny.
 	</details>
 
 	<details>
 		<summary><strong> Hollowkin </strong></summary>
 		<br>
-		Hollowkin are short lived, widely diverse, and have an insatiable hatred for dark elves. This hate stems from their long standing political neighbor and rival, the Zizonic dark-elven kingdoms of Subterra. Dendor and Xylix stand as the 'patron-deities' of this species despite having no hand in their creation. Hollowkin view freedom to be of the upmost importance due to their dark-elven neighbors' tendencies toward slavery and their own history of subjugation. They also, often mistakenly, worship Dendor for the boon of their animalistic nature, perceiving him as the source of their traits, talents, and instinct.
+		Hollowkin cover a broad range of tribal peoples and species which are said to all share the similar trait of having had their soul changed in some way thanks to the spirits of nature which reside within the world itself. Calling one a Hollowkin can do little to narrow down just what they may look like or who they may be. A Hollowkin could look almost entirely identical to some wildlife animal standing on two legs, or could simply have some manner of tail or ears. The history of each individual Hollowkin can vary greatly. Some tribal people communed with spirits so deeply that their children began to be born taking the traits of the spirits around them, whereas some others might claim they were experimented on by people seeking to better understand the nature of souls. Others simply do not know, or do not care. Hollowkin are not a unified people, and exist on all three continents in some way or another, leading them to easily intermix into whatever culture or peoples would take them. Hollowkin tribes also dot the lands south of Alur, especially near the southern edges of Wilusia's borders.
 		<br><br>
-		Their true origin is much darker. Hollowkin are the product of dark-elven ingenuity and fleshcrafting. Their creation is a simple story of malice and greed- of sapient animal hybrid slave homunculi, a person turned product which they could market and sell to other great houses of modern Zizonic Subterra. The true nature of their existence is largely lost to the hollowkin through centuries. The dark elves still recall, of course, viciously mocking their creations from deep within their caves, declaring them but nothing more than animals or pets. Hollowkin react violently to dark-elven attempts at oppression, this leads to conflicts across the world of Psydonia.
+	</details>
+
+	<details>
+		<summary><strong> Lizardfolk </strong></summary>
+		<br>
+		Lizardfolk are effectively a subsect of Hollowkin who have grown into being their own unique species who can breed and produce offspring without souls to alter their children into one. They are a hardy race of bipedal reptilian individuals who reside solely within the southeastern swamplands of Alur just before the Shattered Isles. Their discovery was an accident when an expedition into the Shattered Isles misread the map and went too far southwards. Lizardfolk have generally kept to themselves, yet the past twenty years has seen a large uptick in wandering Lizardfolk keen on exploring the world, which some may attribute to overpopulation within the swamplands. Lizardfolk in spite of their intimidating appearances have been known to be impressively amicable and sociable for complete strangers to the cultures outside of their own, and have rarely had problems integrating themselves with others. While some have speculated they may be related to Kobolds in some way, this theory has been proven false by Helmsmorian Scholars.
 		<br><br>
-		 To the unaligned observer, hollowkin are often seen amongst bandit bands, working openly with Agents of Matthios, conflating the idea of freedom between the two deities. There is, of course, the old wives' tales that circulate... how hollowkin lead to infestations of Werewolves. Whether this is true or not is unknown to the common person, but to those familiar with the horrendous magics used by the dark elves, they must only assume the worst.
+	</details>
+
+	<details>
+		<summary><strong> Drows </strong></summary>
+		<br>
+		The offspring of Zizo's ascension, Drows are a subspecies of Elves who resided within the Subterran for countless years. According to Elven history, they are the losers of a civil war which sought to ascend a god to power to conquer the world before the rise of other Kingdoms. In the end, these Elves fled to the Subterran, and would achive their goals in their own way. Yet an ascension does not come without significant cost. Their numbers dwindelled, and a goddess' ascension left those in the aftermatch changed to their very soul. With deep purple to almost blackish skin, immensely tall stature and intimidating gazes, Drows of the Subterran Kingdom are combine Elven grace and lethality with ruthlessness and ferocity that has made them the most feared race in the Three Continents. In spite of their souls having been altered by Zizo's ascension, it is known that Drow are not by their nature prone to such vile acts, given the few Drow who join with the peoples above are not the violent socipathic peoples that some claim they are. Yet still their kind is seen as untrustworthy by many, especially the Ogri Union, who have long had to deal with raids from Subterra stealing civilians to be used as slaves.
+		<br><br>
+	</details>
+
+	<hr>
+	<strong><span style="font-size:115%"> PEOPLES UNKNOWN </span></strong>
+    <br>
+    <em> Those whose history and ancestry are so unknown that scholars do not know what they actually are.</em>
+	<br><br>
+
+	<details>
+		<summary><strong> Teiflings </strong></summary>
+		<br>
+		Tieflings are an alltogether unusual, and seemingly otherworldly race of peoples with wide horns, blue or red skin, and a seeming connection to elemental magics. While they appear to share as much in common as that as your average Human with the other races of the world, their origin is a complete mystery. Such is the heatedness of scholarly debate around them that it has been known that scholars have had honorable duels on University grounds within the City States over just what to call Tieflings. No connection has been made to any animals they could have evolved from, there's no proof they were born from any natural entity such as trees or rocks, and souls couldnt possibly have changed them into what they are. Worst of all, even Tieflings themselves do not know, nor are interested in sharing. As far as many are concerned, they were here since anyone else was here. Irregardless of their unknown origins, Tieflings have become a staple within soceities across the Three Continents, namely in Wilusia where they make up a significant population within the capital. 
 		<br><br>
 	</details>
 
 	<details>
 		<summary><strong> Kobolds </strong></summary>
 		<br>
-		Speculated to have originated from the dank depths of Subterra, Kobolds are a species of stout sea-faring and mountain-dwelling lizardfolk infamous for their skills in trap-making, their habit of hoarding grandiose amounts of trinkets and artifacts, and their opportunism. They are often found in servitude to great beasts such as dragons and giants - trapping their lairs and utilizing pack tactics to dispose of ambitious adventurers and thieves alike. But in their lonesome, Kobolds are generally weak and quick to die, as they noticeably lack the meaningful amount of constitution, strength, and endurance that other species usually have.
+		Short statured lizard like beings, Kobolds have lived on the Three Continents for years and their existence still perplexes all manner of scholars. Their dimunative nature and lack of centralizing culture have left many of them in the services of Dragons and other creatures, and for all intents and purposes they have never had any manner of civilization or even gathering. The fact that they have existed for so long and have not either formed some sort of cultural entity or been wiped out is testament to either their sheer luck or sheer robustness. They have no recorded history and nobody know exactly where they even came from. Some believed they were related to Lizardfolk, but that was proven false, and their relations to Hollowkin are not such that scholars can agree that they are even a type of Hollowkin. In spite of all of this, Kobolds are a uniquely welcomed sight in civilized society due to their eagerly helpful nature, and seemingly endless willingness to learn. On the opposite hand, wild kobolds serving monsters are devious beings who will gladly do anything to garner an advantage in a fight, quick to flee when numbers are not on their size. They stand about as tall as a Gnome or Dwarf, albeit normally look shorter due to hunching slightly, and they are known to come in all different colors.
 		<br><br>
 	</details>
 
@@ -697,93 +688,78 @@ While it's not required reading, leadership roles may find this information usef
 </details>
 
 <details>
-	<summary><strong><span style="font-size:130%"> RECENT HISTORY: MAJOR EVENTS </span></strong></summary>
+	<summary><strong><span style="font-size:130%"> RECENT HISTORY: MAJOR EVENTS (UNDER CONSTRUCTION) </span></strong></summary>
 	<br>
 	While the recent history of the world is interesting and may shape many a character and setting, ask yourself this whilst you are reading: "Would my character realistically know this?"
-	Not every character is a history expert. Keep this in mind.
+	Not every character is a history expert. Keep this in mind. 
 	<br><br>
 	<details>
-		<summary><strong> Matthios' Final Heist - 2001 </strong></summary>
+		<summary><strong> The Solar Calendar's Founding - 0SC </strong></summary>
 		<br>
-		During an otherwise peaceful early morning, Heartfeltians awoke to alarms raised and economic panic. A grand heist had taken place the night before, countless priceless artifacts, gemstones, and even debt records missing from vaults across the city. The entire reserve was missing, leaving only the bloodied coins typical of Matthiosan calling card and no otherwise visible signs of entry. As most heists of this era, this was attributed to the unknown figurehead thief Matthios, despite growing rumours of his death. Economy worldwide suffered after the sudden downturn of this center of trade. Heartfelt recovered only five decades later.
+		Solaros' Grand Domain, then known as Sol's United Peoples, forms the Solar Calendar and unified timeframe of a year. Its wide adoption was thanks in no small part to the then growing City-States using it to aid in sea travels, and in spite of Solaros' Grand Domain constantly claiming otherwise, all other peoples simply refer to it as the 'Standard Calendar'.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> The Tomb's Unearthing - 2003 </strong></summary>
+		<summary><strong> - </strong></summary>
 		<br>
-		A Vanderlinian dwarf dug deeply below the growing settlement, striking solid bricks instead of stone or metal. He unearthed the tomb of the late Matthios, rumoured to have been buried for decades... yet no corpse was found inside. The tomb's contents shifted brimming with his power and riches, but of equal danger. Adventurers talent from across the lands further boost Vanderlin's influence and power. Soon, other entrances would open up across the continent nearby major settlements.
+		-
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Baotha's Fall - 2019 </strong></summary>
+		<summary><strong> - </strong></summary>
 		<br>
-		"The Demon Queen," "The Prince of Wine," "Consort of Misfortune." Regardless of the disparaging title of choice, Baotha's consortship and eventual regency was subject of disparagement and snide remarks across all of nobility. Her tastes and demands for increasingly exotic substances further doomed her kingdom day after day, until the once thriving azure coasts held nothing but memories of struggle and suffering.
-		<br><br>
-		Nobility and peasantry cheered alike when word spread of her death. Overdose of Lux, they said. A blight across the lands lifted... or so was thought. Her dark whispers reached more and more ears, of drunkards, the miserable, offering a false salvation of escape. To make matters worse, Her Grace, The First Tiefling's ascension marked the emergence of even more of her people across all of Psydonia.
+		-
+	</details>
+
+	<details>
+		<summary><strong> - </strong></summary>
+		<br>
+		-
+	</details>
+
+	<details>
+		<summary><strong> - </strong></summary>
+		<br>
+		-
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> The Hellspawn Scourge - 2020 </strong></summary>
+		<summary><strong> - </strong></summary>
 		<br>
-		What was first thought to be another invasion from the hells turned instead to be considered a plague, a nuisance- the emergence of a new species, tieflings. Parents across Psydonia birthed, hatched, or otherwise found unexpected surprises of hell-tainted children bearing half their features. Most hadn't the slightest explanation to this. Many blamed the influence of recently-ascended Baotha, yet the new goddess seemed insistent to deny that out of any aspect of her life.
-		<br><br>
-		After rejection and expulsion from nation after nation, tiefling culture developed around a nomadic lifestyle. As time passed, some were even allowed to integrate themselves within lower echelons of humen society. Yet all nobility agreed on one aspect; no tiefling would ever preside over a court again, much less allowed the grace of divine noble blood at all.
+		-
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Graggar, The First Greenskin - 2053 </strong></summary>
+		<summary><strong> - </strong></summary>
 		<br>
-		As knaves and brigands descended upon the ruins of Baotha's lands, one warlord gained quick notoriety and power above them all. Graggar, feared by follower and foe alike for his habit of consuming the flesh of his fallen opponents, tore his way through the steppes and forests North of Zaladin, pillaging, destroying, and consuming in endless destruction and gluttony. None were surprised when his exterior grew as monstrous as interior. With feast after feast, conquest after conquest, the first orc's battle cries were soon heard by the heavens themselves, marking him the third mortal to reach ascendance.
+		-
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Goblin War I - 2054 </strong></summary>
+		<summary><strong> - </strong></summary>
 		<br>
-		A direct product of Eora's naivety, so the stories say. Her offering to Graggar, a sliver of divinity in hopes of easing tensions between the pantheons of old and new, was graciously accepted and used to form barely-sapient monsters of hunger and rage across Psydonia. As with the spreading curse of orcishness, these greenskins under orders of their new god attacked almost every settlement capable of taking records. The attempt at world conquest was crushed after two years of humenity's efforts to resist the calamity proved fruitful.
+		-
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Ascension of Zizo - 2102 </strong></summary>
+		<summary><strong> - </strong></summary>
 		<br>
-		<em>"I will never forget the night of silver wires. I was sitting around the kampfire alongside the snow elven family who had taken me in. I had grown to konsider them friends, family even, as I studied their ways and kulture. Imagine my horror, as strands of silver light descended from the sky to their hearts, arcing from some unknown origin beyond the horizon. My brief fascination turned to panic as their Lux was violently ripped from each of their hearts, leaving only the gore, bones, and lifeless rred eyes of my former kompanions staining the snow. I kould not save them. No one kould save any of them. Kenturies later, the memories haunt me no less."</em>- Aspen Uki, wood-elven scholar.
-		<br><br>
-		The snow-elven lich Zizo, after having grown in power and isolation for centuries, finally made her move. She forcefully stole the souls of her entire people, sparing only her descendants. Using the sheer power of captured divinity, she took her position as the fourth ascended goddess. As she grew higher and tested the limits of her newfound power, the very rules of death twisted. Corpses everywhere would stand yet again, weighing hunger against the will of their new matriarch.
+		-
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Dark Elven Empire Conquered - 2104 </strong></summary>
+		<summary><strong> - </strong></summary>
 		<br>
-		Amidst the chaos of the deadite calamity, Zizo led an organized assault within the caverns of Subterra. The dark elven empire was subjugated in entirety, their Ravoxian ways violently crushed in favour of Zizo's matriarchy. Most elders and leaders were slaughtered, leaving the once respected and revered culture now a feared husk of what it once stood for.
+		-
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> Astrata's Comet - 2402 </strong></summary>
-		<br>
-		A strange comet struck the peak of Malum's Anvil. In its center, a rusted capsule remained, containing a divine, crystalline shard of Astrata's light. The first artificer to touch the shard could not handle the pure divinity, falling to ash. It was successfully contained within Vanderlin, now serving to light the way of travelers.
-		<br><br>
-	</details>
-
-	<details>
-		<summary><strong> Goblin War II - 2470 </strong></summary>
-		<br>
-		The most recent 'Goblin War' in the minds of the general populous. Graggar's armies struck with a greater ferocity than ever before, but centuries of preparation led to an overwhelming defeat after five years of viscious and taxing combat. The late 70's were defined by the joy of veterans returning home from the conflict, and the grief of families who'd lost during the carnage.
-		<br><br>
-	</details>
-
-	<details>
-		<summary><strong> Heartfelt's Hubris, The Brass Cataclysm- 2501 </strong></summary>
-		<br>
-		Automaton servants created by Heartfelt's artificers haywire, ravaging their home city and surrounding lands as they engage in endless conquest for biomass to fuel themselves. The already-polluted Enigma only further fell into disarray and destruction. Rockhill fortified and established itself instead as a bastion against automaton forces in the growing Machine War.
-		<br><br>
-	</details>
-
-</details>
-<hr>
+		<summary><strong> - </strong></summary>
