@@ -501,7 +501,7 @@
 /area/rogue/indoors)
 "ih" = (
 /obj/structure/fluff/signage{
-	name = "Vanderlin - South"
+	name = "New Palmos - South"
 	},
 /turf/open/floor/grass,
 /area/rogue/outdoors/woods)
@@ -1200,7 +1200,7 @@
 /area/rogue/indoors)
 "vV" = (
 /obj/structure/fluff/signage{
-	name = "Vanderlin - Southeast"
+	name = "New Palmos - Southeast"
 	},
 /turf/open/floor/grass,
 /area/rogue/outdoors/woods)
@@ -1332,7 +1332,7 @@
 /area/rogue/indoors)
 "zg" = (
 /obj/structure/fluff/signage{
-	name = "Vanderlin - East"
+	name = "New Palmos - East"
 	},
 /turf/open/floor/dirt,
 /area/rogue/outdoors/woods)
@@ -1428,7 +1428,7 @@
 /area/rogue/indoors)
 "CP" = (
 /obj/structure/fluff/signage{
-	name = "Vanderlin - East"
+	name = "New Palmos - East"
 	},
 /turf/open/floor/dirt/road,
 /area/rogue/outdoors/woods)
