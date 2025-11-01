@@ -42,10 +42,10 @@ GLOBAL_LIST_EMPTY(lord_titles)
 	addtimer(CALLBACK(H, TYPE_PROC_REF(/mob/living/carbon/human, lord_color_choice)), 7 SECONDS)
 	if(spawned.gender == MALE)
 		SSfamilytree.AddRoyal(H, FAMILY_FATHER)
-		ruler_title = "[SSmapping.config.doge_title]"
+		ruler_title = "[SSmapping.config.monarch_title]"
 	else
 		SSfamilytree.AddRoyal(H, FAMILY_MOTHER)
-		ruler_title = "[SSmapping.config.doge_title_f]"
+		ruler_title = "[SSmapping.config.monarch_title_f]"
 	to_chat(world, "<b>[span_notice(span_big("[H.real_name] is [ruler_title] of [SSmapping.config.map_name]."))]</b>")
 	to_chat(world, "<br>")
 	if(GLOB.keep_doors.len > 0)
@@ -116,7 +116,7 @@ GLOBAL_LIST_EMPTY(lord_titles)
 	ADD_TRAIT(H, TRAIT_MEDIUMARMOR, TRAIT_GENERIC)
 	ADD_TRAIT(H, TRAIT_KNOWKEEPPLANS, TRAIT_GENERIC)
 
-/datum/job/exdoge //just used to change the lords title
+/datum/job/exlord //just used to change the lords title
 	title = "Ex-Doge"
 	department_flag = NOBLEMEN
 	faction = FACTION_TOWN
