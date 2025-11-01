@@ -10,9 +10,6 @@ While it's not required reading, leadership roles may find this information usef
 
 <details>
 	<summary><strong><span style="font-size:130%"> AREAS OF THE THREE CONTINENTS </span></strong></summary>
-
-
-
 	<p><strong>  Siluchi Isles </strong><em> - "A group of islands of varying sizes, directly off of the coast of the Starlight Bay. The isles are home to a slew of multiple different city states, giving the entire area the nickname of the 'Free States Isles'"  </em>
 	<br></p>
 
@@ -30,7 +27,7 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><em> Points of Interest </em></summary>
 
-		<p><strong> - Seat of Radiance </strong><br> The capitol of Solaros' Grand Domain, and the origin of the Dual Pantheon. It rests upon the crest of Starlight Bay, which oversees the City States Isles.  </p>
+		<p><strong> - Seat of Radiance </strong><br> The capitol of Solaros' Grand Domain, and the origin of the Solar Pantheon. It rests upon the crest of Starlight Bay, which oversees the City States Isles.  </p>
 		<p><strong> - Taggarth Mountains </strong><br> A massive mountain range completely covering Hearthshires southeastern coast. The birthplace of Mountain Dwarves and Gnomes. </p>
 		<p><strong> - Mire of the Terrorbog </strong><br> A fertile and marshy strip of land seperating the lands of Solaros' Grand Domain and the Black Kingdom of Grenzelhoft. Its mere existence has prevented many a bloody battle.  </p>
 		<p><strong> - River Rhoul </strong><br> A massive river jutting from west to east, cutting into the heart of Hearthshire. Rhoul Valley centers around it, and is the most fertile land within the continent. </p>
@@ -512,11 +509,11 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		<i><span style="display:block; color:#791f3f; font-size:125%"> "I'LL TAKE SOL'S THRONE." </span></i>
 		<br>
-		Goddess of Forbidden Power and Magics, the Soul Leech herself is said to have been a Dark Elf who sacrificed her entire people to gain enough power to ascend. No stories can ever be confirmed of this however, as the Dark Elves are notoriously secretive of their Goddess.
+		Goddess of Forbidden Power and Magics, the Soul Leech herself is said to have been a Drow who sacrificed most of her people to gain enough power to ascend. The Drow now live with few numbers because of this.
 		<br><br>
 		Zizo is the most notorious of the World Eaters, as her influence can be seen on every continent and in every Kingdom, as anyone seeking forbidden power finds themselves drawn to the allure of the Leech of Souls and her promises.</em>
 		<br><br>
-		Zizo's influence twists the very fabric of life itself. Souls no longer leave their bodies, causing corpses to rise and feast on their former companions, and skeletons to walk the world seeking death and destruction. A perversion to Ilia's cycle of life, and the domains of both Aether and Necra. It is for this reason that Zizo worship is banned in almost every political state on the three continents.
+		Zizo's influence twists the very fabric of life itself. Souls no longer leave their bodies, causing corpses to rise and feast on their former companions, and skeletons to walk the world seeking death and destruction. A perversion to Ilia's cycle of life, and the domains of both Aether and Necra. It is for this reason that Zizo worship is banned in almost every political state on the three continents. The Elven Kingdoms in Alur are the most radical about hunting down any manner of Zizo worship.
 		<br><br>
 	</details>
 
@@ -535,7 +532,7 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><strong> Entros, The Rotting Star</strong></summary>
 		<br>
-		Also known as the Star of Entropy, Entros is believed to have the power to decay anything in which they see fit. Those under the Rotting Stars gaze may find themselves turning old in minutes, and objects and buildings become dust under the Rottings Stars shine. Entros has no business with mortals, but gives their power to any who worship him solely out of amusement.
+		Also known as the Star of Apathy, Entros is believed to bring about decay, rot, and apathy to those who desperately seek his gaze. He provides mortals with nothing, and has no business with Terra, and yet there are those who seek to try and garner his attention regardless. Mostly to horrible effects.
 		<br><br>
 	</details>
 
@@ -549,7 +546,7 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><strong> Leviathan, Void's Maw </strong></summary>
 		<br>
-		Leviathan is said to be a massive sea creature which swims among the sea of stars. When it wishes, it can choose to swim among the oceans of Terra and feast upon hapless sailors and sea dwellers. While worshiped by some, he gives few boons.
+		Leviathan is said to be a massive sea creature which swims among the sea of stars. When it wishes, it can choose to swim among the oceans of Terra and feast upon hapless sailors and sea dwellers. Tritons worship this beast most of all.
 		<br><br>
 	</details>
 	<hr>
@@ -760,6 +757,3 @@ While it's not required reading, leadership roles may find this information usef
 		-
 		<br><br>
 	</details>
-
-	<details>
-		<summary><strong> - </strong></summary>
