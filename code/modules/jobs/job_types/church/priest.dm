@@ -131,15 +131,15 @@
 			if(is_lord_job(HL.mind.assigned_role) || is_consort_job(HL.mind.assigned_role))
 				HL.mind.set_assigned_role(SSjob.GetJobType(/datum/job/villager))
 		//would be better to change their title directly, but that's not possible since the title comes from the job datum
-		if(HL.job == "Monarch")
-			HL.job = "Ex-Monarch"
+		if(HL.job == "Doge")
+			HL.job = "Ex-Doge"
 			lord_job?.remove_spells(HL)
 		if(HL.job == "Consort")
 			HL.job = "Ex-Consort"
 			consort_job?.remove_spells(HL)
 
 	coronated.mind.set_assigned_role(/datum/job/lord)
-	coronated.job = "Monarch" //Monarch is used when checking if the ruler is alive, not "King" or "Queen". Can also pass it on and have the title change properly later.
+	coronated.job = "Doge" //Doge is used when checking if the ruler is alive, not "King" or "Queen". Can also pass it on and have the title change properly later.
 	lord_job?.add_spells(coronated)
 	SSticker.rulermob = coronated
 	GLOB.badomens -= OMEN_NOLORD

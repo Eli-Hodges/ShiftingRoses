@@ -14592,7 +14592,7 @@
 "oRT" = (
 /mob/living/simple_animal/pet/cat/inn{
 	name = "His Majesty";
-	desc = "This old, wrinkled cat demands the utmost respect from his servants. Not even the king of Vanderlin is exempt from his worship."
+	desc = "This old, wrinkled cat demands the utmost respect from his servants. Not even the Grand Doge is exempt from his worship."
 	},
 /turf/open/floor/wood,
 /area/rogue/indoors/town/tavern)

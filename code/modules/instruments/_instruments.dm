@@ -357,7 +357,7 @@
 
 /obj/item/instrument/flute // small rats approach a little when begin playing
 	name = "flute"
-	desc = "A cacophonous wind-instrument, played primarily by humens all around Psydonia."
+	desc = "A cacophonous wind-instrument, played primarily by humens all around Terra."
 	icon_state = "flute"
 	icon_prefix = "flute" // used for inhands switch
 	dynamic_icon = TRUE // used for inhands switch

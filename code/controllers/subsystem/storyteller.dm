@@ -1464,7 +1464,7 @@ SUBSYSTEM_DEF(gamemode)
 		if(!roundstart)
 			if(living.patron)
 				GLOB.patron_follower_counts[living.patron.name]++
-				if(living.job == "Monarch")
+				if(living.job == "Doge")
 					force_set_round_statistic(STATS_MONARCH_PATRON, living.patron.name)
 		if(living.mind.has_antag_datum(/datum/antagonist/werewolf))
 			record_round_statistic(STATS_WEREVOLVES)

@@ -809,7 +809,7 @@
 
 /obj/structure/fluff/globe
 	name = "globe"
-	desc = "A model representing the known world of Psydonia."
+	desc = "A model representing the known world of Terra."
 	icon = 'icons/roguetown/misc/structure.dmi'
 	icon_state = "globe"
 	density = TRUE
@@ -832,7 +832,7 @@
 	"You land on Rosewood!",
 	"You land on Wintermare!",
 	"You land on Deshret!",
-	"You land on Kingsfield",
+	"You land on the Temporal Lands!",
 	"You land on Amber Hollow!",
 	"You land on the lands of Z!",
 	"You land on the Fog Islands!")

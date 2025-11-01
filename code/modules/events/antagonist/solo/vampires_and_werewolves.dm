@@ -20,7 +20,7 @@
 	typepath = /datum/round_event/antagonist/solo/vampires_and_werewolves
 
 	restricted_roles = list(
-		"Monarch",
+		"Doge",
 		"Consort",
 		"Hand",
 		"Captain",

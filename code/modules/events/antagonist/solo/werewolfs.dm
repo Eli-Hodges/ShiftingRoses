@@ -23,7 +23,7 @@
 	antag_datum = /datum/antagonist/werewolf
 
 	restricted_roles = list(
-		"Monarch",
+		"Doge",
 		"Consort",
 		"Hand",
 		"Captain",

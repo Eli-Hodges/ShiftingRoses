@@ -16748,7 +16748,7 @@
 /area/rogue/indoors/town/manor/library)
 "khR" = (
 /mob/living/simple_animal/pet/cat/inn{
-	desc = "This old, wrinkled cat demands the utmost respect from his servants. Not even the king of Vanderlin is exempt from his worship.";
+	desc = "This old, wrinkled cat demands the utmost respect from his servants. Not even the Grand Doge of Palmos is exempt from his worship.";
 	name = "His Majesty"
 	},
 /turf/open/floor/wood,

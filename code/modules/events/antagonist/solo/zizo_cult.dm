@@ -19,7 +19,7 @@
 	antag_datum = /datum/antagonist/zizocultist
 
 	restricted_roles = list(
-		"Monarch",
+		"Doge",
 		"Consort",
 		"Hand",
 		"Captain",

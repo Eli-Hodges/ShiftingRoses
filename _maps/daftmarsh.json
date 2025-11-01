@@ -2,9 +2,9 @@
     "map_name": "Daftmarsh",
     "map_path": "map_files/daftmarsh",
     "map_file": "daftmarsh.dmm",
-	"immigrant_origin": "Vanderlin",
-	"monarch_title": "Count",
-	"monarch_title_f": "Countess",
+	"immigrant_origin": "New Palmos",
+	"monarch_title": "Doge",
+	"monarch_title_f": "Doge",
 	"traits": [
 		{"Up": true, "Turf Weather Effects": true},
 		{"Up": true, "Down": true, "Turf Weather Effects": true},
