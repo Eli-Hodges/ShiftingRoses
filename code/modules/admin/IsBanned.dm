@@ -33,6 +33,18 @@ GLOBAL_VAR(last_connection)
 
 	var/client/C = GLOB.directory[ckey]
 
+	//Whitelist
+	if(!real_bans_only && !C && CONFIG_GET(flag/usewhitelist))
+		if(!check_whitelist(ckey))
+			if (admin)
+				log_admin("The admin [key] has been allowed to bypass the whitelist")
+				if (message)
+					message_admins("<span class='adminnotice'>The admin [key] has been allowed to bypass the whitelist</span>")
+					addclientmessage(ckey,"<span class='adminnotice'>I have been allowed to bypass the whitelist</span>")
+			else
+				log_access("Failed Login: [key] - Not on whitelist")
+				return list("reason"="whitelist", "desc" = "\nBecome whitelisted! discord.gg/3SuhafZZvf")
+
 	if(!real_bans_only && !C)
 		if (!admin)
 			if(get_playerquality(ckey) <= -100)
