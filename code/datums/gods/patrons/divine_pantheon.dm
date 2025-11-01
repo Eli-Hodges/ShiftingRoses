@@ -19,7 +19,7 @@
 /datum/patron/divine/astrata
 	name = ASTRATA
 	domain = "Goddess of Order, the Sun Queen"
-	desc = "Crafted from the head of Psydon, twin of Noc. She gifted mankind the Sun, protecting Psydonia from all forces which may seek it harm: from both outside and within."
+	desc = "Crafted from the head of Psydon, twin of Noc. She gifted mankind the Sun, protecting Terra from all forces which may seek it harm: from both outside and within."
 	flaws = "Tyrannical, Ill-Tempered, Uncompromising"
 	worshippers = "Nobles, Zealots, Commoners"
 	sins = "Betrayal, Sloth, Witchcraft"

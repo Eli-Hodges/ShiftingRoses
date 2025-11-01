@@ -132,7 +132,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		<em>Land of Riches, the Isle City States, the Pulse of the Continents</em>
 		<br><br>
-		The City States are not a single political entity, but rather a collection of independent republics which span the large islands broken off from the Bay of Stars, in what many believe to have been a star landing upon Terra some thousands of years ago. These republics, while nominally working together with one another, have had their fair share of spats, skirmishes, and otherwise blood disagreements in the many years of their existence. However no quarrel lasts long, and the City States are broadly considered to be a single entity within the political spectrum. Many isles with which the city states reside rest in the center of the straits which seperate the three continents. This has made the City States the global center for trade and commerce between all factions, while also making it a cultural, intellectual, and artistic powerhouse. 
+		The City States are not a single political entity, but rather a collection of independent republics which span the large islands broken off from the Bay of Stars, in what many believe to have been a star landing upon Terra some thousands of years ago. These republics, while nominally working together with one another, have had their fair share of spats, skirmishes, and otherwise blood disagreements in the many years of their existence. However no quarrel lasts long, and the City States are broadly considered to be a single entity within the political spectrum. Many isles with which the city states reside rest in the center of the straits which seperate the three continents. This has made the City States the global center for trade and commerce between all factions, while also making it a cultural, intellectual, and artistic powerhouse.
 		<br><br>
 		The City States have had the good fortune of being able to profit off of nearby wars without ever taking part of them due to their impressive array of Mercenaries. All City States field a number of Pavise Crossbowmen, which have long been a staple purchase for Domainer Armies seeking to augment their ranged capabilities. Espardo Duelists, Silucian Sergeants, and Veronian Montate are all hired individually as bodyguards or as small groups to augment armies. There is no singular god worshiped above any other within the City States. People from the City States are usually called City Staters, Statesmen, or Republicans. Some may also be called by their individual City State name, such as Esparian, Deonian, or Veronian.
 		<br><br>
@@ -169,7 +169,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		<em>Union of the Plains, Gendeni's Own, Those in Graggars Shadows</em>
 		<br><br>
-		The Ogri Union is a coalition consisting of tribes of Orcs, Goblins, and Plains Dwarves who formed together after the ascension of Graggar. The devastation left behind by the god deeply shook the faith of the once proudly worshiping Orcish peoples, and a massive civil war saw the destruction of almost half of the Orcish and Goblin tribes. In the ashes of what was the most violent war on the continent, a Warlord and the tribes under her sought to rebuild their lands from the ground up to ensure that an ascension in the likes of Graggar never happened again. Aided by the Plains Dwarves, and an Adventurer from the City States who would come to have a profound impact on the future government the new Union would become, the Orcs and Goblins salvaged their ravaged lands and turned it into a prosperous empire. 
+		The Ogri Union is a coalition consisting of tribes of Orcs, Goblins, and Plains Dwarves who formed together after the ascension of Graggar. The devastation left behind by the god deeply shook the faith of the once proudly worshiping Orcish peoples, and a massive civil war saw the destruction of almost half of the Orcish and Goblin tribes. In the ashes of what was the most violent war on the continent, a Warlord and the tribes under her sought to rebuild their lands from the ground up to ensure that an ascension in the likes of Graggar never happened again. Aided by the Plains Dwarves, and an Adventurer from the City States who would come to have a profound impact on the future government the new Union would become, the Orcs and Goblins salvaged their ravaged lands and turned it into a prosperous empire.
 		<br><br>
 		The Orgi Union is governed by a council of representatives voted upon by each town, village, and city among the plains, who all get one represenative to have a seat on the council. The council then votes upon a Chieftain who is broadly just a figurehead for the people of the Union. The Ogri Union is most notable for having no real commerce outside of interactions with other empires, as Food, Water, and Shelter are regarded as basic rights for all peoples. All transactions are either barters, favors, or simply good deeds done to assist in one another.
 		<br><br>
@@ -438,7 +438,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		God of Ceaseless Hunger and Endless Conflict. Known as the Orcish Ascendant to faithful and foes alike. He was an Orc Warlord who brutally conquered all of the tribes, and ascended at the peak of his power.
 		<br><br>
-		Graggars Ascension caused a conflict so brutal and bloody that Orc and Goblin culture completely shattered and rebuilt itself due to it. He is deeply spiteful towards the new Orgi Union which came in his wake, as he believed Orcs should conquer the world. 
+		Graggars Ascension caused a conflict so brutal and bloody that Orc and Goblin culture completely shattered and rebuilt itself due to it. He is deeply spiteful towards the new Orgi Union which came in his wake, as he believed Orcs should conquer the world.
 		<br><br>
 		Worshiped mostly by fringe Orcish tribes outcasted from the Orgi Union, Graggar believes that the truest way to show dominance over others is to simply kill them and eat their flesh. Feasting on anothers body is said to devour their very soul, and some believe this is how Graggar ascended. Graggar worship is of course banned in the Orgi Union, and Graggar Cults are hunted relentlessly.
 		<br><br>
@@ -494,7 +494,7 @@ While it's not required reading, leadership roles may find this information usef
 
 
 <details>
-	<summary><strong><span style="font-size:130%"> SPECIES OF PSYDONIA </span></strong></summary>
+	<summary><strong><span style="font-size:130%"> SPECIES OF Terra </span></strong></summary>
 	<hr>
 	<strong><span style="font-size:115%"> DIVINE BLESSED SPECIES </span></strong>
 	<br><br>
@@ -503,7 +503,7 @@ While it's not required reading, leadership roles may find this information usef
 		<summary><strong> Humens </strong></summary>
 		<br>
 		Humenity, created in Psydon's image.
-		Humens come from a vast swathe of cultures and ethnicities all around Psydonia, most of which have historically been at odds with both one another and other species. With their tenacity and overwhelming population, humens tend to outnumber the other species drastically. Their saturation leads to most world maps representing humen borders and states over other species'. Humens tend to find fortune easier than the other species, and are so diverse that no other trait is dominant...
+		Humens come from a vast swathe of cultures and ethnicities all around Terra, most of which have historically been at odds with both one another and other species. With their tenacity and overwhelming population, humens tend to outnumber the other species drastically. Their saturation leads to most world maps representing humen borders and states over other species'. Humens tend to find fortune easier than the other species, and are so diverse that no other trait is dominant...
 		<br><br>
 	</details>
 
@@ -531,7 +531,7 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><strong> Aasimar </strong></summary>
 		<br>
-		Immortal offspring sculpted by the gods for use in servitude. Aasimar roaming alone on Psydonia often are those abandoned after serving their purpose. This species is often revered due to their celestial origin, but face great solitude as not many of their kind exist. Many an aasimar will detest the reverence in which they are greeted with, for their greatest failure or unuse that lead to their discarding is not subject for celebration. An aasimar may be crafted with any number of materials. Many resemble sculptures of stone or are ceramic in skin, but their insides are just as mortal as any other. Most Aasimar were created to serve The Ten, and few if any Psydonic Aasimar remain to this day- decrepit husks of what were once great warriors.
+		Immortal offspring sculpted by the gods for use in servitude. Aasimar roaming alone on Terra often are those abandoned after serving their purpose. This species is often revered due to their celestial origin, but face great solitude as not many of their kind exist. Many an aasimar will detest the reverence in which they are greeted with, for their greatest failure or unuse that lead to their discarding is not subject for celebration. An aasimar may be crafted with any number of materials. Many resemble sculptures of stone or are ceramic in skin, but their insides are just as mortal as any other. Most Aasimar were created to serve The Ten, and few if any Psydonic Aasimar remain to this day- decrepit husks of what were once great warriors.
 		<br><br>
 	</details>
 
@@ -542,11 +542,11 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><strong> Tritons </strong></summary>
 		<br>
-		The Children of Abyssor, also known as Tritons or their colloquial name, "Deep Folk,"  are a strange species of people that live under the waves of Psydonia. Born from creatures of the deep with Abyssor's guidance, these aquatic wayfarers all share a few common traits.
+		The Children of Abyssor, also known as Tritons or their colloquial name, "Deep Folk,"  are a strange species of people that live under the waves of Terra. Born from creatures of the deep with Abyssor's guidance, these aquatic wayfarers all share a few common traits.
 		<br><br>
 		Similar to other creatures that dwell below the surface, their eyes are dull with disuse. Tritons feel pain when gazing upon that which direct light of Astrata herself illuminates.
 		<br><br>
-		 Unlike most of the people of Psydonia, their culture is often considered cold and dour; an apathetic attitude to most negative or positive news. For them, the depths of Psydonia's oceans are cold and unforgiving. Large beasts travel the waters that swallow their kin whole...  but the crushing depths have provided them a hearty disposition and resistance to most threats. Born of Abyssor, their normally placid emotions can swing into a wild rage when they view injustice done upon their kin at the hands of a sapient being.
+		 Unlike most of the people of Terra, their culture is often considered cold and dour; an apathetic attitude to most negative or positive news. For them, the depths of Terra's oceans are cold and unforgiving. Large beasts travel the waters that swallow their kin whole...  but the crushing depths have provided them a hearty disposition and resistance to most threats. Born of Abyssor, their normally placid emotions can swing into a wild rage when they view injustice done upon their kin at the hands of a sapient being.
 		 <br><br>
 		 Tritons seen on the surface are very important trade partners, mercenaries, and surprising academics.  Merchants often spend vast amounts of coin to have them aboard their trade vessels, fending off pirates or guiding their boats through turbulent weather. Be it on or within the sea, they excel- on land, however, they struggle. With their awkward and gangly fins, long, sharp talons, ghastly, lipless teeth, and milky, foreign eyes, they seem unfit to walk amongst the people. Humen children are often afraid of them due to such appearances.
 		 <br><br>
@@ -587,7 +587,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		Also known as Infernal-Spawn, Hell-Bloods, Surface-Devils, and perhaps in a more humorous manner, <em>thief</em>-lings. Their treatment ranges from shunning to distrust, depending on the region. Shopkeeps and merchants always keep a wary eye on any tiefling passersby. The resentment feed into itself, leading to higher rates of tiefling ire and thievery against other species. Many tieflings resign to seeking a solitary and nomadic life, huddled in groups outside the watchful eyes of others. They also tend to be extremely perceptive and paranoid, as luck is rarely on their side.
 		<br><br>
-		Tieflings began appearing all over Psydonia after Baotha's ascension within the 21st century, and were exiled in droves as the world adapted. They are often mistaken as being related to her.
+		Tieflings began appearing all over Terra after Baotha's ascension within the 21st century, and were exiled in droves as the world adapted. They are often mistaken as being related to her.
 		<br><br>
 		Tieflings are incapable of reproducing with mortals, and thus are spawn of either devils, demons, or other tieflings. A tiefling may develop any number of hellish features, a wide range of horns, potential hooves, odd spines and spikes, or scales. Oddly positioned scales, hollow bones, and other varying oddities that appear consistently in tiefling biology make them considerably fragile. It is not uncommon for a tiefling to be generally unpleasant to look at in the eye of the commonfolk. As if to make matters worse, their hellish progenitors have left them a destiny of misfortune, though perhaps their immunity to fire opens new opportunities for them...
 		<br><br>
@@ -596,7 +596,7 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><strong> Half dark-elves / "Half-drow" </strong></summary>
 		<br>
-		The child of a dark elf and humen. The distinction between half-elves and 'half-drow' has been a subject of debate for centuries. While similar in physicality and longevity to their non-drow cousins, their origins cause them to face discrimination akin to their elven side. Groups of half-elves and half-drow have been known to congregate together and consider themselves one species. According to some radical academic scholars, they might be one and the same species indeed- yet the people of Psydonia certainly do not believe the same at large.
+		The child of a dark elf and humen. The distinction between half-elves and 'half-drow' has been a subject of debate for centuries. While similar in physicality and longevity to their non-drow cousins, their origins cause them to face discrimination akin to their elven side. Groups of half-elves and half-drow have been known to congregate together and consider themselves one species. According to some radical academic scholars, they might be one and the same species indeed- yet the people of Terra certainly do not believe the same at large.
 		<br><br>
 	</details>
 
@@ -607,7 +607,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br><br>
 		Zizo's spawn, the last snow elves, integrated themselves- whether gleefully or resentfully- within the dark elf culture their grandmother had carved through conquest.
 		<br><br>
-		To most in Psydonia, a dark elf is nothing more than a servant of Zizo waiting to betray for power, leading most dark elves to remain within their safe underground strongholds. Those who breach the surface rarely receive fair treatment. Dark elves over 500 years old may remember their Ravoxian empire of old, yet few remain who were not killed or converted.
+		To most in Terra, a dark elf is nothing more than a servant of Zizo waiting to betray for power, leading most dark elves to remain within their safe underground strongholds. Those who breach the surface rarely receive fair treatment. Dark elves over 500 years old may remember their Ravoxian empire of old, yet few remain who were not killed or converted.
 		<br><br>
 	</details>
 
@@ -627,7 +627,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		Hollowkin are short lived, widely diverse, and have an insatiable hatred for dark elves. This hate stems from their long standing political neighbor and rival, the Zizonic dark-elven kingdoms of Subterra. Dendor and Xylix stand as the 'patron-deities' of this species despite having no hand in their creation. Hollowkin view freedom to be of the upmost importance due to their dark-elven neighbors' tendencies toward slavery and their own history of subjugation. They also, often mistakenly, worship Dendor for the boon of their animalistic nature, perceiving him as the source of their traits, talents, and instinct.
 		<br><br>
-		Their true origin is much darker. Hollowkin are the product of dark-elven ingenuity and fleshcrafting. Their creation is a simple story of malice and greed- of sapient animal hybrid slave homunculi, a person turned product which they could market and sell to other great houses of modern Zizonic Subterra. The true nature of their existence is largely lost to the hollowkin through centuries. The dark elves still recall, of course, viciously mocking their creations from deep within their caves, declaring them but nothing more than animals or pets. Hollowkin react violently to dark-elven attempts at oppression, this leads to conflicts across the world of Psydonia.
+		Their true origin is much darker. Hollowkin are the product of dark-elven ingenuity and fleshcrafting. Their creation is a simple story of malice and greed- of sapient animal hybrid slave homunculi, a person turned product which they could market and sell to other great houses of modern Zizonic Subterra. The true nature of their existence is largely lost to the hollowkin through centuries. The dark elves still recall, of course, viciously mocking their creations from deep within their caves, declaring them but nothing more than animals or pets. Hollowkin react violently to dark-elven attempts at oppression, this leads to conflicts across the world of Terra.
 		<br><br>
 		 To the unaligned observer, hollowkin are often seen amongst bandit bands, working openly with Agents of Matthios, conflating the idea of freedom between the two deities. There is, of course, the old wives' tales that circulate... how hollowkin lead to infestations of Werewolves. Whether this is true or not is unknown to the common person, but to those familiar with the horrendous magics used by the dark elves, they must only assume the worst.
 		<br><br>
@@ -668,14 +668,14 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		"The Demon Queen," "The Prince of Wine," "Consort of Misfortune." Regardless of the disparaging title of choice, Baotha's consortship and eventual regency was subject of disparagement and snide remarks across all of nobility. Her tastes and demands for increasingly exotic substances further doomed her kingdom day after day, until the once thriving azure coasts held nothing but memories of struggle and suffering.
 		<br><br>
-		Nobility and peasantry cheered alike when word spread of her death. Overdose of Lux, they said. A blight across the lands lifted... or so was thought. Her dark whispers reached more and more ears, of drunkards, the miserable, offering a false salvation of escape. To make matters worse, Her Grace, The First Tiefling's ascension marked the emergence of even more of her people across all of Psydonia.
+		Nobility and peasantry cheered alike when word spread of her death. Overdose of Lux, they said. A blight across the lands lifted... or so was thought. Her dark whispers reached more and more ears, of drunkards, the miserable, offering a false salvation of escape. To make matters worse, Her Grace, The First Tiefling's ascension marked the emergence of even more of her people across all of Terra.
 		<br><br>
 	</details>
 
 	<details>
 		<summary><strong> The Hellspawn Scourge - 2020 </strong></summary>
 		<br>
-		What was first thought to be another invasion from the hells turned instead to be considered a plague, a nuisance- the emergence of a new species, tieflings. Parents across Psydonia birthed, hatched, or otherwise found unexpected surprises of hell-tainted children bearing half their features. Most hadn't the slightest explanation to this. Many blamed the influence of recently-ascended Baotha, yet the new goddess seemed insistent to deny that out of any aspect of her life.
+		What was first thought to be another invasion from the hells turned instead to be considered a plague, a nuisance- the emergence of a new species, tieflings. Parents across Terra birthed, hatched, or otherwise found unexpected surprises of hell-tainted children bearing half their features. Most hadn't the slightest explanation to this. Many blamed the influence of recently-ascended Baotha, yet the new goddess seemed insistent to deny that out of any aspect of her life.
 		<br><br>
 		After rejection and expulsion from nation after nation, tiefling culture developed around a nomadic lifestyle. As time passed, some were even allowed to integrate themselves within lower echelons of humen society. Yet all nobility agreed on one aspect; no tiefling would ever preside over a court again, much less allowed the grace of divine noble blood at all.
 		<br><br>
@@ -691,7 +691,7 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><strong> Goblin War I - 2054 </strong></summary>
 		<br>
-		A direct product of Eora's naivety, so the stories say. Her offering to Graggar, a sliver of divinity in hopes of easing tensions between the pantheons of old and new, was graciously accepted and used to form barely-sapient monsters of hunger and rage across Psydonia. As with the spreading curse of orcishness, these greenskins under orders of their new god attacked almost every settlement capable of taking records. The attempt at world conquest was crushed after two years of humenity's efforts to resist the calamity proved fruitful.
+		A direct product of Eora's naivety, so the stories say. Her offering to Graggar, a sliver of divinity in hopes of easing tensions between the pantheons of old and new, was graciously accepted and used to form barely-sapient monsters of hunger and rage across Terra. As with the spreading curse of orcishness, these greenskins under orders of their new god attacked almost every settlement capable of taking records. The attempt at world conquest was crushed after two years of humenity's efforts to resist the calamity proved fruitful.
 		<br><br>
 	</details>
 

@@ -479,7 +479,7 @@
 
 	faction = faction_name
 	if(!faction)
-		faction = pick("Heartfelt", "Zalad", "Grenzelhoft", "Kingsfield")
+		faction = pick("Heartfelt", "Zalad", "Grenzelhoft", "Palmos")
 
 	sell_prices = prices
 	if(!length(sell_prices))

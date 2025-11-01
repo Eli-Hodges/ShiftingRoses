@@ -846,7 +846,7 @@
 
 /obj/item/reagent_containers/food/snacks/scone
 	name = "plain scone"
-	desc = "A delightfully fancy treat adored by the upper echelons of Kingsfield."
+	desc = "A delightfully fancy treat adored by the upper echelons of New Palmos."
 	icon_state = "cookedscone"
 	list_reagents = list(/datum/reagent/consumable/nutriment = SNACK_DECENT+SNACK_POOR)
 	tastes = list("crumbly butterdough" = 1, "sweet" = 1)
@@ -863,7 +863,7 @@
 
 /obj/item/reagent_containers/food/snacks/scone_tangerine
 	name = "tangerine scone"
-	desc = "A delightfully fancy treat adored by the upper echelons of Kingsfield, complete with tangerine frosting."
+	desc = "A delightfully fancy treat adored by the upper echelons of New Palmos, complete with tangerine frosting."
 	icon_state = "cookedtangerinescone"
 	list_reagents = list(/datum/reagent/consumable/nutriment = SNACK_DECENT+SNACK_POOR)
 	tastes = list("crumbly butterdough" = 1, "sweet" = 1, "tangerine" = 1)
@@ -880,7 +880,7 @@
 
 /obj/item/reagent_containers/food/snacks/scone_plum
 	name = "plum scone"
-	desc = "A delightfully fancy treat adored by the upper echelons of Kingsfield, complete with plum filling."
+	desc = "A delightfully fancy treat adored by the upper echelons of New Palmos, complete with plum filling."
 	icon_state = "cookedplumscone"
 	list_reagents = list(/datum/reagent/consumable/nutriment = SNACK_DECENT+SNACK_POOR)
 	tastes = list("crumbly butterdough" = 1, "sweet" = 1, "plum" = 1)
@@ -901,7 +901,7 @@
 
 /obj/item/reagent_containers/food/snacks/griddlecake
 	name = "griddlecake"
-	desc = "Enjoyed by mercenaries throughout Psydonia, though despite its prevelance no one quite knows its origin."
+	desc = "Enjoyed by mercenaries throughout Terra, though despite its prevelance no one quite knows its origin."
 	bitesize = 6
 	icon_state = "griddlecake"
 	list_reagents = list(/datum/reagent/consumable/nutriment = SNACK_DECENT+SNACK_POOR)
@@ -919,7 +919,7 @@
 
 /obj/item/reagent_containers/food/snacks/griddlecake/lemon
 	name = "lemon griddlecake"
-	desc = "Enjoyed by mercenaries throughout Psydonia, though despite its prevelance no one quite knows its origin."
+	desc = "Enjoyed by mercenaries throughout Terra, though despite its prevelance no one quite knows its origin."
 	bitesize = 6
 	icon_state = "griddlecakelemon"
 	list_reagents = list(/datum/reagent/consumable/nutriment = SNACK_DECENT+SNACK_POOR)
@@ -938,7 +938,7 @@
 
 /obj/item/reagent_containers/food/snacks/griddlecake/apple
 	name = "apple griddlecake"
-	desc = "Enjoyed by mercenaries throughout Psydonia, though despite its prevelance no one quite knows its origin."
+	desc = "Enjoyed by mercenaries throughout Terra, though despite its prevelance no one quite knows its origin."
 	bitesize = 6
 	icon_state = "griddlecakeapple"
 	list_reagents = list(/datum/reagent/consumable/nutriment = SNACK_DECENT+SNACK_POOR)
@@ -957,7 +957,7 @@
 
 /obj/item/reagent_containers/food/snacks/griddlecake/berry
 	name = "jacksberry griddlecake"
-	desc = "Enjoyed by mercenaries throughout Psydonia, though despite its prevelance no one quite knows its origin."
+	desc = "Enjoyed by mercenaries throughout Terra, though despite its prevelance no one quite knows its origin."
 	bitesize = 6
 	icon_state = "griddlecakeberry"
 	list_reagents = list(/datum/reagent/consumable/nutriment = SNACK_DECENT+SNACK_POOR)
@@ -974,7 +974,7 @@
 
 /obj/item/reagent_containers/food/snacks/griddlecake/berry_poison
 	name = "jacksberry griddlecake"
-	desc = "Enjoyed by mercenaries throughout Psydonia, though despite its prevelance no one quite knows its origin."
+	desc = "Enjoyed by mercenaries throughout Terra, though despite its prevelance no one quite knows its origin."
 	bitesize = 6
 	icon_state = "griddlecakeberry"
 	list_reagents = list(/datum/reagent/consumable/nutriment = SNACK_DECENT+SNACK_POOR, /datum/reagent/berrypoison = 12)

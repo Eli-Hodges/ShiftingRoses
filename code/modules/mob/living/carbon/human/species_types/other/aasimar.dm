@@ -16,7 +16,7 @@
 	native_language = "Celestial"
 	desc = "Immortal offspring sculpted by the gods for use in servitude. \
 	\n\n\
-	Aasimar roaming alone on Psydonia often are those abandoned after serving their purpose. \
+	Aasimar roaming alone on Terra often are those abandoned after serving their purpose. \
 	This species is often revered due to their celestial origin, \
 	but face great solitude as not many of their kind exist. \
 	Many an aasimar will detest the reverence in which they are greeted with, \

@@ -1,6 +1,6 @@
 /datum/migrant_role/grenzelhoft/count
 	name = "Grenzelhoft Count"
-	greet_text = "A Count hailing from the Grenzelhoft Imperiate, here on an official visit to the Peninsula of Vanderlin alongside his beloved convoy and spouse."
+	greet_text = "A Count hailing from the Grenzelhoft Imperiate, here on an official visit to the Peninsula of New Palmos alongside his beloved convoy and spouse."
 	allowed_sexes = list(MALE)
 	allowed_races = RACES_PLAYER_GRENZ
 	outfit = /datum/outfit/job/grenzelhoft_migration/count
@@ -57,7 +57,7 @@
 
 /datum/migrant_role/grenzelhoft/countess
 	name = "Grenzelhoft Countess"
-	greet_text = "A Countess hailing from the Grenzelhoft Imperiate, here on an official visit to Vanderlin alongside her beloved convoy and husband."
+	greet_text = "A Countess hailing from the Grenzelhoft Imperiate, here on an official visit to New Palmos alongside her beloved convoy and husband."
 	allowed_sexes = list(FEMALE)
 	allowed_races = RACES_PLAYER_GRENZ
 	outfit = /datum/outfit/job/grenzelhoft_migration/countess
@@ -100,7 +100,7 @@
 		H.name = "[honorary] [prev_name]"
 		if(!H.has_language(/datum/language/oldpsydonic))
 			H.grant_language(/datum/language/oldpsydonic)
-			to_chat(H, "<span class='info'>I can speak Old Psydonic with ,m before my speech.</span>")
+			to_chat(H, "<span class='info'>I can speak Old Terran with ,m before my speech.</span>")
 		H.change_stat(STATKEY_INT, 1)
 		H.change_stat(STATKEY_END, 2)
 		ADD_TRAIT(H, TRAIT_MEDIUMARMOR, TRAIT_GENERIC)
@@ -112,7 +112,7 @@
 
 /datum/migrant_role/grenzelhoft/grenzelhoft_knight
 	name = "Grenzelhoft Knight"
-	greet_text = "Your liege, the count and the countess have both took the duty given by the Kaiser himself to voyage to Vanderlin, ensure their survival and obey their orders."
+	greet_text = "Your liege, the count and the countess have both took the duty given by the Kaiser himself to voyage to New Palmos, ensure their survival and obey their orders."
 	allowed_sexes = list(MALE)
 	allowed_races = RACES_PLAYER_GRENZ
 	outfit = /datum/outfit/job/grenzelhoft_migration/grenzelhoft_knight

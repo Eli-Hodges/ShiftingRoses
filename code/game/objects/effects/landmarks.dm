@@ -116,7 +116,7 @@ INITIALIZE_IMMEDIATE(/obj/effect/landmark)
 	delete_after_roundstart = FALSE
 
 /obj/effect/landmark/start/lord
-	name = "Monarch"
+	name = "Doge"
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/captain

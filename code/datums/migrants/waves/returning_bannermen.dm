@@ -1,6 +1,6 @@
 /datum/migrant_role/sergeant_at_arms
 	name = "Serjeant-At-Arms"
-	greet_text = "You were apart of an expedition sent by the King of Vanderlin to Kingsfield, you and the mens under your command have returned upon fullfiling your task."
+	greet_text = "You were apart of an expedition sent by the Grand Doge of Palmos to the Temporal Lands, you and the mens under your command have returned upon fullfiling your task."
 	allowed_races = RACES_PLAYER_NONDISCRIMINATED
 	grant_lit_torch = TRUE
 	is_foreigner = FALSE
@@ -54,7 +54,7 @@
 
 /datum/migrant_role/archer_bannerman
 	name = "Bannermen Archer"
-	greet_text = "You were apart of an expedition sent by the King of Vanderlin to Kingsfield, you and your serjeant-at-arms have returned upon fullfiling your task."
+	greet_text = "You were apart of an expedition sent by the Grand Doge of New Palmos to the Temporal Lands, you and your serjeant-at-arms have returned upon fullfiling your task."
 	outfit = /datum/outfit/job/archer_bannerman
 	allowed_races = RACES_PLAYER_NONDISCRIMINATED
 	grant_lit_torch = TRUE
@@ -101,7 +101,7 @@
 
 /datum/migrant_role/crossbow_bannerman
 	name = "Bannermen Crossbowman"
-	greet_text = "You were apart of an expedition sent by the King of Vanderlin to Kingsfield, you and your serjeant-at-arms have returned upon fullfiling your task."
+	greet_text = "You were apart of an expedition sent by the Grand Doge of New Palmos to the Temporal Lands, you and your serjeant-at-arms have returned upon fullfiling your task."
 	outfit = /datum/outfit/job/crossbow_bannerman
 	allowed_races = RACES_PLAYER_NONDISCRIMINATED
 	grant_lit_torch = TRUE
@@ -150,7 +150,7 @@
 
 /datum/migrant_role/footman_bannerman
 	name = "Bannermen Footman"
-	greet_text = "You were apart of an expedition sent by the King of Vanderlin to Kingsfield, you and your serjeant-at-arms have returned upon fullfiling your task."
+	greet_text = "You were apart of an expedition sent by the Grand Doge of New Palmos to the Temporal Lands, you and your serjeant-at-arms have returned upon fullfiling your task."
 	outfit = /datum/outfit/job/footman_bannerman
 	allowed_races = RACES_PLAYER_NONDISCRIMINATED
 	grant_lit_torch = TRUE
@@ -190,7 +190,7 @@
 
 /datum/migrant_role/pikeman_bannerman
 	name = "Bannermen Pikeman"
-	greet_text = "You were apart of an expedition sent by the King of Vanderlin to Kingsfield, you and your serjeant-at-arms have returned upon fullfiling your task."
+	greet_text = "You were apart of an expedition sent by the Grand Doge of New Palmos to the Temporal Lands, you and your serjeant-at-arms have returned upon fullfiling your task."
 	outfit = /datum/outfit/job/pikeman_bannerman
 	allowed_races = RACES_PLAYER_NONDISCRIMINATED
 	grant_lit_torch = TRUE
@@ -246,7 +246,7 @@
 		/datum/migrant_role/archer_bannerman = 1,
 		/datum/migrant_role/crossbow_bannerman = 1
 	)
-	greet_text = "You were apart of an expedition sent by the King of Vanderlin to Kingsfield, as it is done, you now return."
+	greet_text = "You were apart of an expedition sent by the Grand Doge of New Palmos to the Temporal Lands, as it is done, you now return."
 
 /datum/migrant_wave/returning_bannermen_down
 	name = "The Bannermen's Return"
@@ -260,7 +260,7 @@
 		/datum/migrant_role/archer_bannerman = 1,
 		/datum/migrant_role/crossbow_bannerman = 1
 	)
-	greet_text = "You were apart of an expedition sent by the King of Vanderlin to Kingsfield, as it is done, you now return."
+	greet_text = "You were apart of an expedition sent by the Grand Doge of New Palmos to the Temporal Lands, as it is done, you now return."
 
 /datum/migrant_wave/returning_bannermen_down_one
 	name = "The Bannermen's Return"
@@ -273,7 +273,7 @@
 		/datum/migrant_role/pikeman_bannerman = 1,
 		/datum/migrant_role/archer_bannerman = 1,
 	)
-	greet_text = "You were apart of an expedition sent by the King of Vanderlin to Kingsfield, as it is done, you now return."
+	greet_text = "You were apart of an expedition sent by the Grand Doge of New Palmos to the Temporal Lands, as it is done, you now return."
 
 /datum/migrant_wave/returning_bannermen_down_two
 	name = "The Bannermen's Return"
@@ -285,7 +285,7 @@
 		/datum/migrant_role/footman_bannerman = 1,
 		/datum/migrant_role/pikeman_bannerman = 1,
 	)
-	greet_text = "You were apart of an expedition sent by the King of Vanderlin to Kingsfield, as it is done, you now return."
+	greet_text = "You were apart of an expedition sent by the Grand Doge of New Palmos to the Temporal Lands, as it is done, you now return."
 
 /datum/migrant_wave/returning_bannermen_down_three
 	name = "The Bannermen's Return"
@@ -296,7 +296,7 @@
 		/datum/migrant_role/sergeant_at_arms = 1,
 		/datum/migrant_role/footman_bannerman = 1,
 	)
-	greet_text = "You were apart of an expedition sent by the King of Vanderlin to Kingsfield, as it is done, you now return."
+	greet_text = "You were apart of an expedition sent by the Grand Doge of New Palmos to the Temporal Lands, as it is done, you now return."
 
 /datum/migrant_wave/returning_bannermen_down_four
 	name = "The Bannermen's Return"
@@ -305,5 +305,5 @@
 	roles = list(
 		/datum/migrant_role/sergeant_at_arms = 1,
 	)
-	greet_text = "You were apart of an expedition sent by the King of Vanderlin to Kingsfield, as it is done, you now return."
+	greet_text = "You were apart of an expedition sent by the Grand Doge of New Palmos to the Temporal Lands, as it is done, you now return."
 

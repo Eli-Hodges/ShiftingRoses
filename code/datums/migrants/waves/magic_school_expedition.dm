@@ -1,6 +1,6 @@
 /datum/migrant_role/magic_teacher
 	name = "Magic School Teacher"
-	greet_text = "Among the lofty spires of Kingsfield’s arcane academies, one school conceived a daring idea: a grand overland expedition, on foot, through untamed lands. \
+	greet_text = "Among the lofty spires of  arcane academies not found on the Island, one school conceived a daring idea: a grand overland expedition, on foot, through untamed lands. \
 	As fortune (or folly) would have it, you have been chosen as the guiding hand and watchful protector of your eager pupils. \
 	Your task is to lead them safely across the wilds, through hardship and wonder alike, until at last the halls of learning they seek rise before you."
 	grant_lit_torch = TRUE
@@ -50,7 +50,7 @@
 
 /datum/migrant_role/magic_student
 	name = "Magic School Student"
-	greet_text = "When the call went out for daring pupils to join a great overland trek from Kingsfield, you eagerly volunteered, visions of adventure, discovery, and excitement dancing in your mind. \
+	greet_text = "When the call went out for daring pupils to join a great overland trek from the Temporal Lands, you eagerly volunteered, visions of adventure, discovery, and excitement dancing in your mind. \
 	Of course, the creatures that lurk along the road seem just as eager... though perhaps for very different reasons."
 	allowed_ages = list(AGE_CHILD)
 	allowed_races = RACES_PLAYER_NONEXOTIC

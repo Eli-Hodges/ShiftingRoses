@@ -17,9 +17,9 @@
 	var/map_name = "Vanderlin"
 	var/map_path = "map_files/vanderlin"
 	var/map_file = "vanderlin.dmm"
-	var/immigrant_origin = "Kingsfield"
-	var/monarch_title = "King"
-	var/monarch_title_f = "Queen"
+	var/immigrant_origin = "Temporal Lands"
+	var/monarch_title = "Grand Doge"
+	var/monarch_title_f = "Grand Doge"
 
 	var/traits = null
 	var/space_ruin_levels = 7

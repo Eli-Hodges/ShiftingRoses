@@ -160,7 +160,7 @@
 
 /obj/item/weapon/mace/courtphysician
 	name = "physician's cane"
-	desc = "A prized cane. Embellished with a golden serpent, representing the Kingsfield university. The pointy end is quite sharp."
+	desc = "A prized cane. Embellished with a golden serpent, representing the Palmos university. The pointy end is quite sharp."
 	icon_state = "fancy_cane"
 	possible_item_intents = list(/datum/intent/mace/strike, /datum/intent/mace/thrust)
 	gripped_intents = list(/datum/intent/mace/strike, /datum/intent/mace/smash)
