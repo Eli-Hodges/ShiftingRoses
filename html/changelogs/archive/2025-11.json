@@ -1,0 +1,23 @@
+{
+    "2025-11-02": {
+        "1HoneyDragon": [
+            {
+                "rscdel": "The Consort Role. Roleplay. Find Your Wife/Husband without a role, nerds."
+            },
+            {
+                "rscadd": "Added Placeholder Tiefling Lore"
+            },
+            {
+                "rscadd": "Added Demi-human/Hollow-Kin Tail Options to Tieflings"
+            },
+            {
+                "rscdel": "Removed Old Tiefling Racism"
+            }
+        ],
+        "Hemshire": [
+            {
+                "rscadd": "LORE"
+            }
+        ]
+    }
+}
