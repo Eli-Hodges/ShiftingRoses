@@ -61,3 +61,13 @@
 	name = "Talkstone"
 	cost = 300
 	contains = /obj/item/clothing/neck/talkstone
+
+/datum/supply_pack/luxury/sigs
+	name = "Pipe Weed Zig"
+	cost = 10
+	contains = /obj/item/clothing/face/cigarette/rollie/nicotine
+
+/datum/supply_pack/luxury/zigbox
+	name = "Zigbox"
+	cost = 60
+	contains = /obj/item/storage/fancy/cigarettes/zig
