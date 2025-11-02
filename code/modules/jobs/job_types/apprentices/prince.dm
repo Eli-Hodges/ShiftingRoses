@@ -16,7 +16,7 @@
 		/datum/action/cooldown/spell/undirected/list_target/grant_title,
 	)
 
-	allowed_ages = list(AGE_ADULT, AGE_CHILD)
+	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
 	cmode_music = 'sound/music/cmode/nobility/combat_noble.ogg'
 	advclass_cat_rolls = list(CTAG_HEIR = 20)
 

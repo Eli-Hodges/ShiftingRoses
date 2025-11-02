@@ -16,7 +16,7 @@
 	/*
 	allowed_ages = list(AGE_CHILD)
 	*/
-	allowed_ages = list(AGE_ADULT)
+	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
 	/* Noctra edit END */
 
 	outfit = /datum/outfit/job/squire

@@ -11,7 +11,7 @@
 	spawn_positions = 1
 
 	allowed_races = RACES_PLAYER_ALL
-	allowed_ages = list(AGE_CHILD, AGE_ADULT)
+	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
 
 	outfit = /datum/outfit/job/shophand
 	display_order = JDO_SHOPHAND
