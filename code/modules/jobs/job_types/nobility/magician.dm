@@ -45,7 +45,7 @@
 	head = /obj/item/clothing/head/wizhat
 	backr = /obj/item/storage/backpack/satchel
 	armor = /obj/item/clothing/shirt/robe/colored/black
-	shirt = /obj/item/clothing/shirt/tunic/colored/ucolored
+	shirt = /obj/item/clothing/shirt/tunic/colored/purple
 	cloak = /obj/item/clothing/cloak/black_cloak
 	ring = /obj/item/clothing/ring/gold
 	belt = /obj/item/storage/belt/leather/plaquesilver
