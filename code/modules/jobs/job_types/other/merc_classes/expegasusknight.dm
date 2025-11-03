@@ -1,7 +1,7 @@
 /datum/advclass/mercenary/expegasusknight
 	name = "Ex-Pegasus Knight"
 	tutorial = "A former pegasus knight hailing from the southern Elven nation of Lakkari. Once a graceful warrior that ruled the skies, now a traveling sellsword that rules the streets, doing Faience's dirtiest work."
-	allowed_races = RACES_PLAYER_ALL
+	allowed_races = RACES_PLAYER_ELF
 	outfit = /datum/outfit/job/mercenary/expegasusknight
 	category_tags = list(CTAG_MERCENARY)
 	maximum_possible_slots = 5
