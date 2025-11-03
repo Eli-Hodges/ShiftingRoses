@@ -85,3 +85,68 @@
 	name = "Valmora Blue Wine"
 	cost = 305
 	contains = /obj/item/reagent_containers/glass/bottle/elfblue
+
+/datum/supply_pack/food/drinks/tiefling_wine
+	name = "Tiefling wine"
+	cost = 80
+	contains = /obj/item/reagent_containers/glass/bottle/tiefling_wine
+
+/datum/supply_pack/food/drinks/jagdtrunk
+	name = "Zaladin Wine"
+	cost = 35
+	contains = /obj/item/reagent_containers/glass/bottle/jagdtrunk
+
+/datum/supply_pack/food/drinks/apfelweinheim
+	name = "Apfelweinheim Cider"
+	cost = 30
+	contains = /obj/item/reagent_containers/glass/bottle/apfelweinheim
+
+/datum/supply_pack/food/drinks/rtoper
+	name = "Lirvas Cider"
+	cost = 20
+	contains = /obj/item/reagent_containers/glass/bottle/rtoper
+
+/datum/supply_pack/food/drinks/nred
+	name = "Norwandine Ale"
+	cost = 25
+	contains = /obj/item/reagent_containers/glass/bottle/nred
+
+/datum/supply_pack/food/drinks/gronnmead
+	name = "Gronn Mead"
+	cost = 25
+	contains = /obj/item/reagent_containers/glass/bottle/gronnmead
+
+/datum/supply_pack/food/drinks/avarmead
+	name = "Avar Mead"
+	cost = 30
+	contains = /obj/item/reagent_containers/glass/bottle/avarmead
+
+/datum/supply_pack/food/drinks/avarrice
+	name = "Avar Rice Wine"
+	cost = 30
+	contains = /obj/item/reagent_containers/glass/bottle/avarrice
+
+/datum/supply_pack/food/drinks/saigamilk
+	name = "Saiga Wine"
+	cost = 25
+	contains = /obj/item/reagent_containers/glass/bottle/saigamilk
+
+/datum/supply_pack/food/drinks/kgunlager
+	name = "Yamaguchi Pale"
+	cost = 60
+	contains = /obj/item/reagent_containers/glass/bottle/kgunlager
+
+/datum/supply_pack/food/drinks/kgunsake
+	name = "Yamaguchi Sake"
+	cost = 80
+	contains = /obj/item/reagent_containers/glass/bottle/kgunsake
+
+/datum/supply_pack/food/drinks/kgunplum
+	name = "Kazengun Plum Wine"
+	cost = 30
+	contains = /obj/item/reagent_containers/glass/bottle/kgunplum
+
+/datum/supply_pack/food/drinks/kgunshochu
+	name = "Kazengun Shochu"
+	cost = 50
+	contains = /obj/item/reagent_containers/glass/bottle/kgunshochu
