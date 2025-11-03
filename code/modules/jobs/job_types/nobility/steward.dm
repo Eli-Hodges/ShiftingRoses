@@ -28,6 +28,7 @@
 	H.virginity = TRUE
 	if(H.gender == FEMALE)
 		shirt = /obj/item/clothing/shirt/dress/stewarddress
+		pants = /obj/item/clothing/pants/trou/leathertights
 	else
 		shirt = /obj/item/clothing/shirt/undershirt/fancy
 		pants = /obj/item/clothing/pants/trou/leathertights
