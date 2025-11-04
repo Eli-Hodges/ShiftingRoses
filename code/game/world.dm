@@ -401,7 +401,7 @@ GLOBAL_PROTECT(tracy_init_reason)
 	var/s = ""
 	s += "<center><a href=\"https://discord.gg/3SuhafZZvf\">"
 	s += "<big><b>Shifting Roses - Hosted by the Shifting Roses Team</b></big></a><br>"
-	s += "<b>14th Century Steampunk Renaissance Roleplay! Apply at https://discord.gg/3SuhafZZvf <b><br>"
+	s += "<b>18+ | Renaissance Era Steampunk Roleplay! Apply at https://discord.gg/3SuhafZZvf <b><br>"
 	s += "\["
 	if(SSticker.current_state <= GAME_STATE_PREGAME)
 		s += "<b>GAME STATUS:</b> IN LOBBY"
