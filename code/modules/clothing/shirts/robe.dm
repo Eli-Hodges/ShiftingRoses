@@ -177,7 +177,6 @@
 	r_sleeve_status = SLEEVE_NORMAL
 	l_sleeve_status = SLEEVE_NORMAL
 	allowed_sex = list(MALE, FEMALE)
-	allowed_race = SPECIES_BASE_BODY
 	color = null
 	sellprice = 100
 

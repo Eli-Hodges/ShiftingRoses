@@ -29,15 +29,16 @@
 	..()
 	H.mana_pool?.set_intrinsic_recharge(MANA_ALL_LEYLINES)
 	if(H.dna.species.id == SPEC_ID_DWARF)
-		shirt = /obj/item/clothing/shirt/undershirt/puritan
-		armor = /obj/item/clothing/armor/leather/jacket/apothecary
+		shirt = /obj/item/clothing/shirt/tunic/colored/blue
+		armor = armor = /obj/item/clothing/shirt/robe/archivist
 		pants = /obj/item/clothing/pants/tights/colored/black
 	else
 		if(H.gender == FEMALE)
 			armor = /obj/item/clothing/shirt/robe/archivist
-			pants = /obj/item/clothing/pants/tights/colored/black
+			shirt = /obj/item/clothing/shirt/tunic/colored/blue
+			pants = /obj/item/clothing/pants/skirt/colored/red
 		else
-			shirt = /obj/item/clothing/shirt/undershirt/puritan
+			shirt = /obj/item/clothing/shirt/tunic/colored/blue
 			armor = /obj/item/clothing/shirt/robe/archivist
 			pants = /obj/item/clothing/pants/tights/colored/black
 	H.virginity = TRUE

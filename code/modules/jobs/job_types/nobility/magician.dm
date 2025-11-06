@@ -45,11 +45,13 @@
 	head = /obj/item/clothing/head/wizhat
 	backr = /obj/item/storage/backpack/satchel
 	armor = /obj/item/clothing/shirt/robe/colored/black
+	shirt = /obj/item/clothing/shirt/tunic/colored/purple
 	cloak = /obj/item/clothing/cloak/black_cloak
 	ring = /obj/item/clothing/ring/gold
 	belt = /obj/item/storage/belt/leather/plaquesilver
 	beltr = /obj/item/storage/magebag/apprentice
 	backl = /obj/item/weapon/polearm/woodstaff
+	pants = /obj/item/clothing/pants/tights/colored/black
 	shoes = /obj/item/clothing/shoes/shortboots
 	neck = /obj/item/clothing/neck/mana_star
 	belt = /obj/item/storage/belt/leather/plaquegold
