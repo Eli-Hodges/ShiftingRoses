@@ -17,7 +17,7 @@ While it's not required reading, leadership roles may find this information usef
 		<summary><em> Points of Interest </em></summary>
 
 		<p><strong> - Pulse of the Sea </strong><br> The center point of the straits which seperate the Three Continents, trade and movement between it is almost entirely controlled by the City States.</p>
-		<p><strong> - Library of Ilonzo </strong><br>  Located within the City State of Merona, it is the largest known gathering of knowledge within the City States. </p>
+		<p><strong> - Library of Ilonzo </strong><br>  Located within the City State of Merola, it is the largest known gathering of knowledge within the City States. </p>
 	</details>
 	<br>
 
@@ -100,10 +100,13 @@ While it's not required reading, leadership roles may find this information usef
 		<p><strong> - Torki River </strong><br> The massive river flowing through the continent, creating the largest single stretch of farmland in the known continents. The Empire of Wulisia relies heavily upon its exports of food from these farms. </p>
 		<p><strong> - Forests of Beyond </strong><br> A vast expanse of forests located throughout the eastern lands. Notable for the 'Fingers of Terra', massive redwood trees spanning hundreds of feet high. </p>
 		</details>
+        <p><strong> - Zalad Desert </strong><br> A massive desert which takes up the entire continent west of the Torki river. Mostly uninhabited besides coastal towns and cities reisidng within oasis', it is the birthplace of the Rakshari people. </p>
+		</details>
 	<br>
 
 
 </details>
+
 
 
 <details>
@@ -151,7 +154,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		<em>The Breadbasket of Alur, Empire of the Rivers, Merchants of the Pasha</em>
 		<br><br>
-		A grand-spanning, mercantilist empire which found prosperity and riches from both spice and food. Wilusia resides almost entirely within the confines of the Torki River's wide reach, yet there could be no more suitable a place to live than the most fertile lands in the known world. Within their land lies great feats of engineering, and grand artistic displays prominently shown within any of its myriad of villages and towns along the river. Their capital is the centerpiece of Wilusian worship of what is known as the Wilusian Pantheon, worshiping the stars in the skies as dieties which watch over the Wilusian peoples.
+		A grand-spanning, mercantilist empire which found prosperity and riches from both spice and food, Wilusia is effectively the homeplace of Humans as the world knows it. Residing almost entirely within the confines of the Torki River's wide reach there could be no more suitable a place to live than the most fertile lands in the known world. Wilusia was founded by a coalition of Humans, Rakshari, and Tieflings after a two hundred year war saw the greatest exile of peoples the world had ever seen, well before the Solar Calendar was even made. Within their land lies great feats of engineering, and grand artistic displays prominently shown within any of its myriad of villages and towns along the river. Their capital is the centerpiece of Wilusian worship of what is known as the Wilusian Pantheon, worshiping the stars in the skies as dieties which watch over the Wilusian peoples.
 		<br><br>
 		Wilusia has suffered repeated attempts by others, namely Grenzelhoft and the Grand Domain, to conquer its lands and aquire its many riches and materials, yet no exterior force has ever been able to defeat its capital, Fenkhu. In one particular instance, Grenzelhoft put Fenkhu to siege for seven years before they were routed at sea. In spite of City State mercenaries having been a part of many of these wars, Wilusia maintains good relations with the City States, whom are their main middle man to the wider Hearthshire kingdoms.
 		<br><br>
@@ -200,7 +203,7 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><strong> Stonekeep </strong></summary>
 		<br>
-		<em> Hammer of the Gods, Terra's Own Peoples </em>
+		<em> Hammer of Malum, Terra's Own Peoples </em>
 		<br><br>
 		Located underneath Taggarth Mountains, Stonekeep is the capital and throng of the Mountain Dwarves and Gnomes. Their technological advancements have paved the way for many new inventions, and their close friendship with Solaros' Grand Domain has brought them into conflict with other Empires at multiple points. They've constructed most of the underground railways connecting most of Subterra, albeit their attempts to build them connecting to other continents have been thwarted by the Dark Elves, their greatest rivals. Their largest railway spans from Stonekeep in Southern Hearthshire, to Rosewood in Northern Heartshire. Malum is their god of worship.
 		<br><br>
@@ -211,7 +214,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		<em> Keepers of Terra, Retreats of the Ancient Age, Forgotten Guides of Terra </em>
 		<br><br>
-		While a majority of Elves live alongside Humans and Dwarves in Hearthshire, some Elven Kingdoms reside within the forests on Alur. Living side by side with the Tribal People of the forests, the Elven Kingdoms are mostly self-sufficent and reclusive, preferring to live in peace rather than deal with the exterior issues which plague other lands. Some of these minor kingdoms are inherently mistrusting of outsiders, while others are much more receptive. Traditional Terra Worship is the primary worship of these Elves.
+		While a majority of Elves live alongside Humans and Dwarves in Hearthshire, some Elven Kingdoms reside within the forests on Alur. Living side by side with the Tribal People of the forests, the Elven Kingdoms are mostly self-sufficent and reclusive, preferring to live in peace rather than deal with the exterior issues which plague other lands. Some of these minor kingdoms are inherently mistrusting of outsiders, while others are much more receptive. Traditional Terra Worship is the primary worship of these Elves, and they violently reject any ascendant god.
 		<br><br>
 	</details>
 
@@ -222,15 +225,16 @@ While it's not required reading, leadership roles may find this information usef
 		<br><br>
 		Not all land is claimed by a kingdom, empire, or otherwise. Mostly on Gorogomn and Alur there are wide swathes of unclaimed territories where tribal peoples reside, untouched by the conflicts of other nations and happy to live their lives as they see fit.
 		<br><br>
-		These peoples are made up of almost every race and faith imaginable, albeit Terra Worship is the most common among them due to many not even knowing about the Triumvirate Pantheon.
+		These peoples are made up of almost every race and faith imaginable, albeit Terra Worship is the most common among them due to many not even knowing about any other gods.
 		<br><br>
 	</details>
 	<br><br>
 </details>
 
 
+
 <details>
-	<summary><strong><span style="font-size:130%"> MYTHOS OF THE THREE CONTINENTS</span></strong></summary>
+	<summary><strong><span style="font-size:130%"> MYTHOS OF THE THREE CONTINENTS </span></strong></summary>
 	<br>
 	<strong><span style="font-size:115%"> Terra Worship </span></strong>
 	<br>
@@ -267,11 +271,11 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		<b><span style="display:block; color:#e5d569; font-size:130%"> "THE WORLD RISES AND RESTS ON MY WORD." </span></b>
 		<br>
-		<em>Also known as Solaros, Helios, Ra, and Astrata.</em>
+		<em>Known as Solaros to the Peoples of Solaros' Grand Domain.</em>
 		<br><br>
-		God of the Sun, a staple of almost every religious belief since time uncountable. They have gone by many names in many different cultures, and is generally considered to be the most important god on the pantheon, albeit many debate that.
+		God of the Sun, a staple of almost every religious belief since time uncountable. They have gone by many names in many different cultures, and worship, or revilement of the sun has been one of the first religious undertaking of many pre-civilized peoples.
 		<br><br>
-		The largest worshipers of Sol are unquestionably Solaros' Grand Domain who see them as their ruler. All Emperors of the Grand Domain must profess their faith and submission to the God of the Sun to be crowned. Sol is widely worshiped everyone else on the Three Continents as well.
+		The largest worshipers of Sol are unquestionably Solaros' Grand Domain who see them as their ruler. All Emperors of the Grand Domain must profess their faith and submission to the God of the Sun to be crowned.
 		<br><br>
 	</details>
 
@@ -553,8 +557,9 @@ While it's not required reading, leadership roles may find this information usef
 </details>
 
 
+
 <details>
-	<summary><strong><span style="font-size:130%"> SPECIES OF TERRA </span></strong></summary>
+	<summary><strong><span style="font-size:130%"> SPECIES OF THE THREE CONTINENTS </span></strong></summary>
 	<hr>
 	<strong><span style="font-size:115%"> SAPIENS </span></strong>
 	<br>
@@ -586,6 +591,13 @@ While it's not required reading, leadership roles may find this information usef
 		<summary><strong> Prairie Dwarves </strong></summary>
 		<br>
 		Prairie Dwarves are short, stocky, and fairly hairy human like individuals who come from the Prairie Lands of Gorogomn. While they are called Dwarves, they have no actual relation to Mountain Dwarves and cannot even interbreed with them, as Sapiens cannot interbreed with Terrans. Prairie Dwarves are immensely hardy, capable of eating any manner of plant or mushroom without any negative effect and seemingly shrugging off painful blows with ease, but are not known to be quick. They are culturally inclined to take their time and never find themselves rushing anything, and while others might consider them lazy because of that it beguiles the truth of an immensely hard working people who have been the cornerstone of Ogri Union workforces since its inception. They stand on average just about four and a half feet, with sun-baked skin tones and either brown or amber hair colors, which are their main differentiating factors between them and Mountain Dwarves.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Rakshari </strong></summary>
+		<br>
+		A bipedal cat like people born in the sands of the Zalad desert, their keen senses and usually creamy fur make them deadly hunters along the sandy dunes of their homeland. Rakshari share many similarities to Soultouched Hollowkin, yet their origins are known to have evolved directly from apex predator felines within the deserts. Lean builds and swift reflexes are what many know the Rakshari people for, yet many are unaware of the surprising strength that they are capable of mustering. Rakshari people were one of the founding cultures of Wilusia, alongside the Uthician Humans and a large gathering of Tieflings. Direct, to the point, and not people who enjoy mincing words, a staple of Wilusian Rakshari is their intense eye contact with anyone with whom they make dealings with, a fact which many a Merchant Prince of the City States has come to practice for before making deals with Rakshari. The Rakshari people stand on average just above five feet, yet many are just as tall if not taller than Humans and even Elves. A race of almost no sexual dimorphism, voice is the main way one tends to learn about a Rakshari's gender.
 		<br><br>
 	</details>
 
@@ -660,6 +672,13 @@ While it's not required reading, leadership roles may find this information usef
 		The offspring of Zizo's ascension, Drows are a subspecies of Elves who resided within the Subterran for countless years. According to Elven history, they are the losers of a civil war which sought to ascend a god to power to conquer the world before the rise of other Kingdoms. In the end, these Elves fled to the Subterran, and would achive their goals in their own way. Yet an ascension does not come without significant cost. Their numbers dwindelled, and a goddess' ascension left those in the aftermatch changed to their very soul. With deep purple to almost blackish skin, immensely tall stature and intimidating gazes, Drows of the Subterran Kingdom are combine Elven grace and lethality with ruthlessness and ferocity that has made them the most feared race in the Three Continents. In spite of their souls having been altered by Zizo's ascension, it is known that Drow are not by their nature prone to such vile acts, given the few Drow who join with the peoples above are not the violent socipathic peoples that some claim they are. Yet still their kind is seen as untrustworthy by many, especially the Ogri Union, who have long had to deal with raids from Subterra stealing civilians to be used as slaves.
 		<br><br>
 	</details>
+	
+	<details>
+		<summary><strong> Aasimar</strong></summary>
+		<br>
+		The prime example of Soultouched peoples, and whom the name is based off of, Aasimar are individuals who are quite literally touched by gods at birth. The nature of this gift is different depending on the deities whom bless them. Most Wilusian deities may shine brightly upon their chosen from the night sky, giving Wilusian Aasimar the appearance of a starry and almost otherworldly being, albeit not all Wilusian Aasimar share this appearance. Sol meanwhile, gives their champions peircing gazes and blazing orange hair that seems always alight with flames. Hearthshire's deities vary greatly between gods, and come down simply to what domain the god themselves rules over. Whatever the case is, Aasimar are people looked upon with wonder and amazement by many, and were the original beings who were believed to be capable of ascension before the Elven Theory of Ascension spread throughout the world. Aasimar are usually well tended to from birth, rarely ever being shunned. All Aasimar born in Solaros' Grand Domain are immediately given the most wealthy upbringing possible to appease Sol.
+		<br><br>
+	</details>
 
 	<hr>
 	<strong><span style="font-size:115%"> PEOPLES UNKNOWN </span></strong>
@@ -684,12 +703,49 @@ While it's not required reading, leadership roles may find this information usef
 	<hr>
 </details>
 
+
 <details>
-	<summary><strong><span style="font-size:130%"> RECENT HISTORY: MAJOR EVENTS (UNDER CONSTRUCTION) </span></strong></summary>
+	<summary><strong><span style="font-size:130%"> HISTORICAL EVENTS</span></strong></summary>
 	<br>
 	While the recent history of the world is interesting and may shape many a character and setting, ask yourself this whilst you are reading: "Would my character realistically know this?"
 	Not every character is a history expert. Keep this in mind. 
 	<br><br>
+
+	<details>
+		<summary><strong> Elven Kingdoms Rise - ~1000BSC </strong></summary>
+		<br>
+		The Peak of Elven Civilization, when they ruled over most of Alur, supposedly having won a war against another ancient civilization who resided in the west of Alur. Scholars is uncertain of the exact timeframe of Elven history, as Elves at this point in time did not have a Calendar, and went only by seasons.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Great Alurian War - 298BSC to 71BSC </strong></summary>
+		<br>
+		Nearly three hundred years before the founding of the Standard Calendar, the cultures around the Torki River in western Alur begin a massive years long war. The war would end with the land splitting into multiple warring petty kings and self-declared emperors. After almost two hundred years, the varying cultures and races of the Torki River would unite together under the Wilusian Dynasty.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Sol's People's Unite - 129BSC </strong></summary>
+		<br>
+		The first major political entity on Hearthshire forms from those who fled the Great Wilusian War. This initial government would be led be a group of wisemen and women who were deemed the most intellectually savvy.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> First City-State is Founded - 111BSC </strong></summary>
+		<br>
+		Led by an adventurer from Sol's People, Verona Palmereti, a group of settlers return to the islands they hopped between to get to Hearthshire and found a settlement. The first Republic, Verona, is founded, named after the fabled adventurer herself. 
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Grenzelhoft is Founded - 41BSC </strong></summary>
+		<br>
+		A far reaching Sol's People's settlement declares themselves independent and forms a Kingdom under a man named Arnluf dey Grenzel, grandson of the original founder of the settlement.
+		<br><br>
+	</details>
+
 	<details>
 		<summary><strong> The Solar Calendar's Founding - 0SC </strong></summary>
 		<br>
@@ -698,62 +754,295 @@ While it's not required reading, leadership roles may find this information usef
 	</details>
 
 	<details>
-		<summary><strong> - </strong></summary>
+		<summary><strong> Theory of Ascension is put forth - 2SC </strong></summary>
 		<br>
-		-
+		The Theory of Ascension is put forward by an Elven scholar detailing how the effects of souls can be used to grand one powers beyond mere magic. The scholar is put to death by fearful Elven fanatics who believe such a power is beyond even them.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> - </strong></summary>
+		<summary><strong> Elven Civil War - 39SC to 40SC </strong></summary>
 		<br>
-		-
-	</details>
-
-	<details>
-		<summary><strong> - </strong></summary>
-		<br>
-		-
-	</details>
-
-	<details>
-		<summary><strong> - </strong></summary>
-		<br>
-		-
+		The Elven Kingdoms, having long been deteriorating at this point, descend into civil war to attempt to stop a Radical coalition of nobles from ascending one of their own to power. The desctruction of over half of the Elven land leads the remaining Kingdoms to become reclusive and interwoven.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> - </strong></summary>
+		<summary><strong> Zizo's Ascension - 41SC </strong></summary>
 		<br>
-		-
+		The Elven exiles, having travelled through the Subterra for months, complete the ascension of their leader by sacrificing a majority of their kind and an entire developing Northmen Kingdom. The Kingdoms history, even its name, is lost. Zizo takes her place as the first of the so called World Eaters to ascend.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> - </strong></summary>
+		<summary><strong> Drow Kingdom is founded - 41SC </strong></summary>
 		<br>
-		-
+		The Drow people found a Kingdom underneath Gorogomn. Raids to the surface are common, and they become mortal enemies of the only other Kingdom within Subterra; Stonekeep.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> - </strong></summary>
+		<summary><strong> Orcish Tribes Unite - 45SC </strong></summary>
 		<br>
-		-
+		With newfound threats from Subterra, the Orcish/Goblin hunter-gatherers begin to form loose coalitions to attempt to preserve their home and fight back against Drow raids.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> - </strong></summary>
+		<summary><strong> Dukes of Camrey Unite - 49SC </strong></summary>
 		<br>
-		-
+		The Camrey Dukes, believed to be the only surviving ancestors of the ruined Northmen Kingdom, agree to a councilship to protect themselves from hostile outsider influence.
 		<br><br>
 	</details>
 
 	<details>
-		<summary><strong> - </strong></summary>
+		<summary><strong> Wilusian Dynasty rapidly expands - 51SC to 78SC </strong></summary>
 		<br>
-		-
+		The Wilusian Dynasty, having mostly been settled into the north of Alur within Uthica's bay. Expand down the river rapidly and colonized formerly abandoned Elven settlements ruined by the civil war.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Medicators form a Civilization - ~100SC </strong></summary>
+		<br>
+		The Medicator people first rise from the ruins of the ancient ruined kingdom and begin forming a civilization around the pollution and sludge.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Grenzelhoft's Rise, First Solaros/Grenzelhoft War - 147SC to 149SC </strong></summary>
+		<br>
+		Grenzelhoft rises to prominence and delcares war on Sol's United Peoples. The war lasts two years before the capital, The Seat of Radiance, is sacked, and Sol's United Peoples formally surrenders.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Grand Domain's Founding, Second Solaros/Grenzelhoft War - 154SC to 156SC </strong></summary>
+		<br>
+		Years after their defeat, Sol's United Peoples adopt a more rigidly religious and militaristic stance, led by the first Grand Emperor, Baldimor the Bear, who claimed to be tasked by Sol themselves to free his people from vassalage under Grenzelhoftian rule. The war lasts for two years just as the prior one did, with Grenzelhoft retreating from southern Hearthshire past the Terrorbog. This territorial line would remain steady for five hundred years.
+	</details>
+
+	<details>
+		<summary><strong> Lord Helmsmore delcares Independance - 155SC </strong></summary>
+		<br>
+		Lord Edward Helmsmore, a Grenzelhoftian General, seceedes from Grenzelhoft and takes a fair portion of its northern territories with him. His independence is a leading cause of Grenzelhoft eventually suing for peace. The Kingdom of Helmsmore is founded.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> First Grenzelhoft/Helmsmorian War - 156SC to 164SC </strong></summary>
+		<br>
+		Grenzelhoft attempts to retake their lost territories. The war ends in a minor Grenzelhoft victory, with Helmsmore eventually agreeing to become an independant vassal state rather than be reabsorbed into Grenzelhoft.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Grenzelhoft/Camreian War - 200SC to 204SC </strong></summary>
+		<br>
+		Grenzelhoft declares war on the Dukedom and begins to blaze a trail of destruction throughout the north western territories of Camrey. Many Dukes surrender to Grenzelhoft rule before their advance is finally checked, and a stalemate would last for three years until both sides sued for peace. Camrey would never get back their lost territories, and many consider Grenzelhoft to have effectively won.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Hundred Years Peace - 205SC to 318 </strong></summary>
+		<br>
+		Known as the Hundred Years peace, Hearthshire sees no direct warfare for over one hundred years, allowing population and culture to florish.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Solaros/Stonekeep Alliance is formed - 320SC </strong></summary>
+		<br>
+		Solaros' Grand Domain formally agrees to a military alliance after having been good friends for over fifty years. Solaros' Grand Domain become the first Humans to gain the boons that would follow in the coming years.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> First Grenzelhoft Invasion of Wilusia - 333SC to 334SC </strong></summary>
+		<br>
+		Grenzelhoft attempts to invade the Wilusian Dynasty. Multiple naval engagements go favoribly for Wilusia, and the only landing successful is defeated in battle. Grenzelhoft ceases the invasion after a single year.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Stonekeep Invents Trains - 345SC </strong></summary>
+		<br>
+		Gnomish Artificers invent the first coal powered locomotive. A massive infastructure rush follows in the coming years.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Matthios' Ascension - ~350SC </strong></summary>
+		<br>
+		Never formally confirmed, but some believe that Matthios ascends during this time. No confirmation is ever given to this, and many Scholars believe that his ascension is more probable around times of strife.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Stonekeep/Drow War - 379SC to 395SC </strong></summary>
+		<br>
+		While not ever considered to have been a formally declared war, Stonekeeps massive underground railway project puts them at ends with the Drow, who battle and skirmish with Dwarven and Solarian workers and soldiers for almost twenty years.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Rosewood University is Founded - 391SC </strong></summary>
+		<br>
+		Rosewood University in Helmsmore is founded by a joined coalition of Helmsmorian and Stonekeep scholars. It would quickly rise to prominence as the forefront of Artificer research.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Great Elmswood Revolt - 408SC </strong></summary>
+		<br>
+		Grenzelhoft soldiers crush a revolt within the town of Elmswood, within Helmsmorian territory. The Monarch of Helmsmore declares this a breach of the treaty of 164SC. He would formally renounce vassalsage to Grenzelhoft two years later.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Second Grenzelhoft/Helmsmorian War - 410SC to 414SC </strong></summary>
+		<br>
+		Grenzelhoft attempts to bring Helmsmore back into the fold. Technological aid from Stonekeep, believed to be subtly aided by Solaros' Grand Domain, give rise to Helmsmore's now infamous Battle Artificers. After four years, the two sides formally sign a peace treaty granting Helmsmore its independence.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Third Solaros/Grenzelhoft War - 420SC to 460SC </strong></summary>
+		<br>
+		The third Solaros/Grenzelhoft war is delcared. It would be the longest formal war ever seen in the history of the Three Continents, lasting over fourty years. It would be the first war to see Solaros' Grand Domain utilize both Stonekeep soldiers, and Siluchian City-State Mercenaries. The war would formally end with no border movements, but Grenzelhoft would be given access to railway technology which was insofar denied to them from both Stonekeep and Helmsmore.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Graggar Rises to prominence - 499SC </strong></summary>
+		<br>
+		Graggar the Cannibal, Orcish Warlord, rises to the throne of his tribe after slaying his former chieftain in single combat. His show of devouring his opponents innards and organs would become the fear inducing display which would define his rule.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Graggar's Ascension and Orcish Turmoil- 504SC to 510SC </strong></summary>
+		<br>
+		Having brought all of the Orcish tribes to heel within five years, Graggar sacrifices the weakest of them to ascend. His ascension, while having no detailed records, was said to have been so brutal and vile that the remaining Orcish and Goblin tribes rejected him.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Second Grenzelhoft Invasion of Wilusia - 508SC to 515SC </strong></summary>
+		<br>
+		Grenzelhoft invades Wilusia a second time, aided much more prominently by City-State naval mercenaries. The capital is put to siege for seven years before finally being repulsed. General Lambert Brakenwald, father of the future Ascendant Kerack, is slain after agreeing to give honorable battle rather than flee.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Ogri Union's First Days- 510SC to 525SC </strong></summary>
+		<br>
+		An Orcish Warlord named Hauzini defeats all opponents and becomes the new ruler of the Orcish people. She attempts to steer her people into a different direction, and with the aid of the Harpies, Prarire Dwarves, and a City-State explorer by the name of Vittorio, she would become the founder of the first democratic institution known to the Three Continents.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Lizardfolk Soceity is Discovered - 533SC </strong></summary>
+		<br>
+		Explorers into the Shattered Isles of Eastern Alur discover the Lizardfolk in the southern swamps after misreading a map. Lizardfolk are introduced to the broader world, and a small wave of migration begins from their overpopulated tribes.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Medicators are Discovered - 538SC </strong></summary>
+		<br>
+		A Gnomish Expedition into the Shattered Isles survives long enough to come across the Medicator people. This forms a second wave of migration out from the western lands of Alur.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Kerack's Rise - 539SC </strong></summary>
+		<br>
+		General Kerack Brakenwald begins to rally people around him in what many see as an attempt to claim the throne of Grenzelhoft. Some scholars believe that Kerack, having heard stories of Graggars ascension, attempted to replicate what he did by garnering as much of a following as possible.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Grenzelhoft Civil War and Battle of Shame - 543SC </strong></summary>
+		<br>
+		General Kerack Brakenwald declares himself the king of Grenzelhoft against Grand General Elric Ludenhoft's rightful rule. A five month civil war breaks out, culminating in the violent battle in the fields outside of the village of Grunswick. The immense fighting lasted from before the sun rose into sunset, eventually causing enough death to allow Kerack to half-ascend to godhood before his heart is struck by a massive arrow from the sky. His ascension only half-complete, his soul would escape his body and come to haunt Grenzelhoft for years as the God of Wrath. This event is the only time in history a god has ever directly interfered with a mortal war as Ilia herself struck Kerack down before his Ascension could take more lives.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Field of Shame is Memoralized - 543SC </strong></summary>
+		<br>
+		Grenzelhoft declares the fields of Grunswick to be hallowed ground unworthy to be touched by man, and vacate the village. The rotting armor and corpse of Kerack still remain there to present day, and even Solaros' Armies would avoid the field in future wars.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Kerack's Completed Ascension - 544SC </strong></summary>
+		<br>
+		Aided by Zizo, Kerack ascends as the fourth of the so called Worldeaters, sacrificing a majority of the slaves held at Zizo's Claw to do so. Kerack, Zizo, and Graggar form a triumvirate of godhood and begin to terrorize the known world.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Domainer Invasion of Wilusia - 563SC to 566SC </strong></summary>
+		<br>
+		Solaros' Grand Domain attempts an invasion of Wilusia, aided by the City-States. Bypassing the capital, they pillaged the Torki River over a three year period before being routed in an ambush which saw the entire baggage train lost. Prisoners of war were forced into slavery to rebuild destroyed villages and farmland, and some were never returned home.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> The Fifth World Eater - 570SC </strong></summary>
+		<br>
+		An immense magical outburst is felt coming from somewhere beyond the continents, which Scholars recognize as massive burst of soul magic that spreads across Terra itself. The outburst is stronger than any prior ascension, and fears of a Fifth World Eater begin to wash over Scholarly circles. The ascension is such that magic becomes immensely more prominent in the world, and magical capabilities of all peoples grows exponentially in the coming year. Within the next year, inventions with souls magics would produce something never seen before. To the current day, no evidence of the Fifth World Eater has ever arrived, yet rumors persist it involves the Temporal Lands.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Helmsmore Invents Blastpowder - 571SC </strong></summary>
+		<br>
+		An Artificer whose name was never shared with the world completes an experiment widely thought to be impossible, forcing a soul into an intert entity. The immensely unstable experiment caused the flakes of iron which were used to explode upon even the slightest spark. Future experiments would use this explosion initial as a base, but eventually find its way into being used to launch objects rapidly across distances. The cannon would be invented a year later. These enchanted powedery substances would be named Blastpowder. No further experiments have ever been able to replicate this with anything other than immensely fine powder.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Age of Exploration - 573SC to Present Day </strong></summary>
+		<br>
+		A wave of exploratory spirit rises over the peoples of the Three Continents, mainly within the City States, 
+		<br><br>
+	</details>
+
+    <details>
+		<summary><strong> Ogri Union forms Diplomatic ties - 583SC </strong></summary>
+		<br>
+		The Ogri Union forms its first diplomatic ties with the City State of Espariala, the birthplace of the Adventurer Vittorio who helped found the Union over one hundred and fifty years ago. Many other City-States would garner diplomatic relations as well in the coming years.
+		<br><br>
+	</details>
+
+
+	<details>
+		<summary><strong> Fourth Solaros/Grenzelhoft War - 586SC to 593SC </strong></summary>
+		<br>
+		The Fourth Solaros/Grenzelhofian War breaks out. Years of unrelenting raids and battles on the borderlands of the Terrorbog take drastic tolls on both sides. Grenzelhoft during the laters years was particularly unable to afford the expense of battle in the same way the Domain was. During the final year, the Grand General Levon Ulwickson leads his most senior of army through what was believed to be untenible land of the Terrorbog to form a surprise attack on Domainer lands leaving their armies reeling.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Battle of White Plains Valley - 593SC </strong></summary>
+		<br>
+		The final battle in the Solaros/Grenzelhoft war, fought just one hundred kilometers from the Captail of the Domain, Grand General Ulwickson of Grenzelhoft smashes into the Domainer Line led by Emperor Albrecht, in an attempt to kill the Emperor and end the war with a decisive victory. Having been told that Domainer mercenary Crossbowmen got lost trying to regroup with Emperor Albrecht, Ulwickson pushed into the valley in what was seen as an unassailable position, and nearly defeated the Emperor. However, a travelling Merchant Prince supposedly aided the Mercenary General Lorenzo Vespuchili in pathfinding to the battle before the Domainer line broke. The Crossbowmen lined up on top of the valley and rained death upon the Grenzelhoft lines, turning a near victory into a horrendous rout. Ulwickson and most of his generals are slain, and Grenzelhoft suffers its bloodiest loss since the first invasion of Wilusia.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> New Palmos is Founded - 595SC </strong></summary>
+		<br>
+		The city of New Palmos is founded within the Temporal Lands. Named after the fishing village of Palmos within the domain of Verona, where the Doge of New Palmos is said to have been raised as a child. It is the only settlement in the Temporal Lands to survive for longer than a year.
+		<br><br>
+	</details>
+
+	<details>
+		<summary><strong> Current Day - 600SC </strong></summary>
+		<br>
+		The turn of the Seventh Century brings uncertainty to the world stage. Grenzelhoft mercenaries have brought back much coin to rebuild the war efforts in Grenzelhoft, and the Domain still reels from the loss of life in the Fourth War. Wilusia seeks to further its own agenda, and the Ogri Union continues to strike out into the world stage as a major player. In this time of unknowns, many people turn their gaze to New Palmos, wondering just what future it might bring to the world.
 		<br><br>
 	</details>
