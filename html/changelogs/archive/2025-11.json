@@ -19,5 +19,17 @@
                 "rscadd": "LORE"
             }
         ]
+    },
+    "2025-11-07": {
+        "Hemshire": [
+            {
+                "rscadd": "MORE LORE"
+            }
+        ],
+        "1HoneyDragon": [
+            {
+                "bugfix": "fixed some classes not getting their pants/shirts/proper clothing"
+            }
+        ]
     }
 }
