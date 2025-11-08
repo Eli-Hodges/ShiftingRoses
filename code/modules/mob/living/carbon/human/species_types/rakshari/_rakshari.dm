@@ -157,7 +157,7 @@
 	C.grant_language(/datum/language/common)
 	C.grant_language(/datum/language/zalad)
 
-/datum/species/rakshari/spec_life(mob/living/carbon/human/H)
+/* /datum/species/rakshari/spec_life(mob/living/carbon/human/H)
 	. = ..()
 	if(prob(1))
 		if(!COOLDOWN_FINISHED(src, cat_meow_cooldown))
@@ -167,7 +167,7 @@
 			emote = "purr"
 		H.emote(emote, forced = TRUE)
 
-		COOLDOWN_START(src, cat_meow_cooldown, 5 MINUTES)
+		COOLDOWN_START(src, cat_meow_cooldown, 5 MINUTES) */
 
 /datum/species/rakshari/on_species_loss(mob/living/carbon/C)
 	. = ..()
