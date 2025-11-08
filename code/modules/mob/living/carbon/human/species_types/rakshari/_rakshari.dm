@@ -88,16 +88,57 @@
 		ORGAN_SLOT_APPENDIX = /obj/item/organ/appendix,
 		ORGAN_SLOT_GUTS = /obj/item/organ/guts,
 	)
+	bodypart_features = list(
+		/datum/bodypart_feature/hair/head,
+		/datum/bodypart_feature/hair/facial,
+	)
+	body_marking_sets = list(
+		/datum/body_marking_set/none,
+		/datum/body_marking_set/belly,
+		/datum/body_marking_set/socks,
+		/datum/body_marking_set/tiger,
+		/datum/body_marking_set/tiger_dark,
+	)
+	body_markings = list(
+		/datum/body_marking/flushed_cheeks,
+		/datum/body_marking/eyeliner,
+		/datum/body_marking/tonage,
+		/datum/body_marking/socklonger,
+		/datum/body_marking/tips,
+		/datum/body_marking/nose,
+		/datum/body_marking/bangs,
+		/datum/body_marking/bun,
+	)
 	customizers = list(
 		/datum/customizer/organ/eyes/humanoid,
+		/datum/customizer/bodypart_feature/hair/head/humanoid,
+		/datum/customizer/bodypart_feature/hair/facial/humanoid,
 		/datum/customizer/bodypart_feature/accessory,
 		/datum/customizer/bodypart_feature/face_detail,
+		/datum/customizer/organ/ears/demihuman,
+		/datum/customizer/organ/horns/demihuman,
+		/datum/customizer/organ/tail/demihuman,
+		/datum/customizer/organ/snout/anthro,
 		/datum/customizer/organ/genitals/penis/human,
 		/datum/customizer/organ/genitals/vagina/human,
 		/datum/customizer/organ/genitals/breasts/human,
 		/datum/customizer/organ/genitals/testicles/human,
 	)
-	COOLDOWN_DECLARE(cat_meow_cooldown)
+
+	descriptor_choices = list(
+		/datum/descriptor_choice/height,
+		/datum/descriptor_choice/body,
+		/datum/descriptor_choice/stature,
+		/datum/descriptor_choice/face,
+		/datum/descriptor_choice/face_exp,
+		/datum/descriptor_choice/skin,
+		/datum/descriptor_choice/voice,
+		/datum/descriptor_choice/prominent_one_wild,
+		/datum/descriptor_choice/prominent_two_wild,
+		/datum/descriptor_choice/prominent_three_wild,
+		/datum/descriptor_choice/prominent_four_wild,
+	)
+	// COOLDOWN_DECLARE(cat_meow_cooldown) why was this a thing
 
 /datum/species/rakshari/on_species_gain(mob/living/carbon/C, datum/species/old_species)
 	..()
@@ -116,7 +157,7 @@
 	C.grant_language(/datum/language/common)
 	C.grant_language(/datum/language/zalad)
 
-/datum/species/rakshari/spec_life(mob/living/carbon/human/H)
+/* /datum/species/rakshari/spec_life(mob/living/carbon/human/H)
 	. = ..()
 	if(prob(1))
 		if(!COOLDOWN_FINISHED(src, cat_meow_cooldown))
@@ -126,7 +167,7 @@
 			emote = "purr"
 		H.emote(emote, forced = TRUE)
 
-		COOLDOWN_START(src, cat_meow_cooldown, 5 MINUTES)
+		COOLDOWN_START(src, cat_meow_cooldown, 5 MINUTES) */
 
 /datum/species/rakshari/on_species_loss(mob/living/carbon/C)
 	. = ..()
