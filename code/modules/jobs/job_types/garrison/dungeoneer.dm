@@ -1,11 +1,12 @@
 /datum/job/dungeoneer
-	title = "Dungeoneer"
-	tutorial = "Be you an instrument of sadism for the King or the guarantor of his merciful hospitality, \
-	your duties are a service paid for most handsomely. \
-	Perhaps you were promoted from the garrison down to these cells \
-	to get your brutality off the town streets where cracked skulls caused outcries, \
-	or maybe your soft-hearted lord wanted to be sure his justice was done without malice. \
-	In either case, your little world is the lowest office in the Realm; from it your guests see only hell."
+	title = "Nightlord"
+	tutorial = "A shadow in the dark, and a ghost which stalks the streets well after dusk. \
+	Yet you are no haunting figure meant to scare the populace. \
+	You are a watchful guardian ensuring that even in the darkest hours the City can sleep soundly. \
+	You are a Lord of the Night, known as a Nightlord by many. \
+	Tasked by the Palace in guarding the streets at night and seeking out criminal activity, \
+	the darkness is your friend and you revel in it. \
+	Show those who would bring harm to New Palmos that the shadows are not their friends."
 	department_flag = GARRISON
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
 	display_order = JDO_DUNGEONEER
@@ -14,7 +15,7 @@
 	spawn_positions = 1
 	min_pq = 0
 
-	allowed_races = RACES_PLAYER_NONEXOTIC
+	allowed_races = RACES_PLAYER_ALL
 
 	outfit = /datum/outfit/job/dungeoneer
 	give_bank_account = 50

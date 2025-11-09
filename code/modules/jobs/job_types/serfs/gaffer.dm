@@ -1,5 +1,5 @@
 /datum/job/gaffer
-	title = "Gaffer"
+	title = "Free Company Seargent"
 	department_flag = SERFS
 	faction = "Station"
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE )
@@ -8,11 +8,11 @@
 
 	allowed_races = RACES_PLAYER_ALL
 	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL) //AGE_OLD with the ring on? I say unlikely - clown
-	tutorial = "Forced out of your old adventure party, you applied to the Mercenary guild. Eventually becoming\
-	the next Guild Master. Gone are the excitements of your past, today your life is engrossed with two \
-	things: administrative work, and feeding the monstrous Head Eater. Act as the\
-	Mercenary Guild's master in town, and make sure your members bring back the heads of any slain monsters\
-	or bandits. For the Head Eater hungers..."
+	tutorial = "In the lands of Grenzelhoft, all citizens are required to learn the art of war in one way or another. \
+	To facilitate this, Free Companies are widely adopted as semi-independent mercenary companies run generally by high ranking military members. \
+	You are one such individual, head of a Free Company who has travelled out from Grenzelhoft after \
+	their loss in the Fourth Domainer/Grenzelhoftian war. Earn your company coin, recruit people to your cause, \
+	and hone everyones skills. One day, Grenzelhoft will call you back, for a fifth war seems ever closer by the day."
 
 	display_order = JDO_GAFFER
 	cmode_music = 'sound/music/cmode/towner/CombatGaffer.ogg'

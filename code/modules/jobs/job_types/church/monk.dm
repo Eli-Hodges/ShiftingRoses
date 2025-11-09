@@ -1,7 +1,7 @@
 /datum/job/monk
-	title = "Acolyte"
+	title = "Auger"
 	tutorial = "Chores, exercise, prayer... and more chores. \
-	You are a humble acolyte at the temple in The Island, \
+	You are a humble acolyte at the temple in New Palmos, \
 	not yet a trained guardian or an ordained priest. \
 	But who else would keep the fires lit and the floors clean?"
 	department_flag = CHURCHMEN
@@ -13,7 +13,7 @@
 	min_pq = 0
 	bypass_lastclass = TRUE
 
-	allowed_races = RACES_PLAYER_NONHERETICAL
+	allowed_races = RACES_PLAYER_ALL
 	allowed_patrons = ALL_TEMPLE_PATRONS
 
 	outfit = /datum/outfit/job/monk

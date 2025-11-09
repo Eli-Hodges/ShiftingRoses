@@ -1,9 +1,11 @@
 /datum/job/magician
-	title = "Court Magician"
-	tutorial = "A seer of dreams, a reader of stars, and a master of the arcyne. Along a band of unlikely heroes, you shaped the fate of these lands.\
-	Now the days of adventure are gone, replaced by dusty tomes and whispered prophecies. The ruler's coin funds your studies,\
-	but debts both magical and mortal are never so easily repaid. With age comes wisdom, but also the creeping dread that your greatest spell work\
-	may already be behind you."
+	title = "Palace Magician"
+	tutorial = "A master of arcane arts and seeker of knowledge both esoteric and unknown, \
+	the last thirty years has seen magic grow exponentially more available to the broader peoples. \
+	Whether you were once an adventurer throwing fireballs, or a mystic reading the future for those interested\
+	in knowing what lies in store for them, now you are on hire for the Palace of New Palmos. \
+	The Temporal Lands has many new discoveries to interest you, but your primary goal is to ensure \
+	that the City isn't destroyed trying to figure it all out."
 	department_flag = NOBLEMEN
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
 	display_order = JDO_MAGICIAN
@@ -13,7 +15,7 @@
 	min_pq = 0
 	bypass_lastclass = TRUE
 
-	allowed_races = RACES_PLAYER_NONDISCRIMINATED
+	allowed_races = RACES_PLAYER_ALL
 	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
 	allowed_sexes = list(MALE, FEMALE)
 

@@ -1,9 +1,9 @@
 /datum/job/steward
-	title = "Steward"
-	tutorial = "Coin, Coin, Coin! Oh beautiful coin: \
-	You're addicted to it, and you hold the position as the King's personal treasurer of both coin and information. \
-	You know the power silver and gold has on a man's mortal soul, \
-	and you know just what lengths they'll go to in order to get even more. Keep your festering economy and your rats alive, theyre the only two things you can weigh any trust into anymore."
+	title = "Paymaster"
+	tutorial = "Coin is what makes the world turn; not the gods, magic, or technology. \
+	You know this better than anyone else, and you know that money is the lifeblood which keeps New Palmos alive and kicking. \
+	As the Paymaster you preside over the treasury of the city and ensure that all of the Signoria and Guards are being paid their piece. \
+	Work with the Dockmaster to ensure that goods and coins are flowing, and protect the treasury with the lives of all of the guards in the Palace."
 	department_flag = NOBLEMEN
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
 	display_order = JDO_STEWARD
@@ -13,7 +13,7 @@
 	min_pq = 0
 	bypass_lastclass = TRUE
 
-	allowed_races = RACES_PLAYER_NONDISCRIMINATED
+	allowed_races = RACES_PLAYER_ALL
 
 	outfit = /datum/outfit/job/steward
 	give_bank_account = 100

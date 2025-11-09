@@ -2,7 +2,7 @@
 	name = "Bloodsucker"
 	tutorial = "You have recently been embraced as a vampire. You do not know whom your sire is, strange urges, unnatural strength, a thirst you can barely control. You were outed as a monster and are now on the run"
 	allowed_sexes = list(MALE, FEMALE)
-	allowed_races = RACES_PLAYER_NONDISCRIMINATED //noble options, I don't know if its even possible to implement a race lock on class choices.
+	allowed_races = RACES_PLAYER_ALL //noble options, I don't know if its even possible to implement a race lock on class choices.
 	category_tags = list(CTAG_WRETCH) // Due to vampire status: skilled weapon skill, no armor besides a gorget.
 	outfit = /datum/outfit/job/wretch/bloodsucker
 	maximum_possible_slots = 1

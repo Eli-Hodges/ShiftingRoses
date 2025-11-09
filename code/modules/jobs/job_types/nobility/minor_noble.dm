@@ -1,8 +1,10 @@
 /datum/job/minor_noble
-	title = "Noble"
-	tutorial = "The blood of a noble family runs through your veins. You are the living proof that the minor houses \
-	still exist in spite of the Monarch. You have many mammons to your name, but with wealth comes \
-	danger, so keep your wits and tread lightly..."
+	title = "Noble Guest"
+	tutorial = "You are an important figure within a political entity outside of New Palmos. \
+	Perhaps you are one of many Grenzelhoftian Noble Houses, or one of the Domains many wealthy Nobleman. \
+	Maybe you're a representative from the Ogri Union, or an ancient family from the Wilusian Dynasty. \
+	Whatever your history, you've come to New Palmos on a whim of exploration and perhaps genuine curiosity to explore what the Temporal Lands \
+	have to offer. Remember that you are not home, and that many dangers lurk within the foreign streets of the city."
 	display_order = JDO_MINOR_NOBLE
 	department_flag = NOBLEMEN
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
@@ -11,7 +13,7 @@
 	spawn_positions = 2
 	min_pq = 0
 
-	allowed_races = RACES_PLAYER_NONDISCRIMINATED
+	allowed_races = RACES_PLAYER_ALL
 
 	outfit = /datum/outfit/job/noble
 	apprentice_name = "Servant"
@@ -25,9 +27,9 @@
 	..()
 	var/prev_real_name = H.real_name
 	var/prev_name = H.name
-	var/honorary = "Lord"
+	var/honorary = "Sir"
 	if(H.gender == FEMALE)
-		honorary = "Lady"
+		honorary = "Madame"
 	H.real_name = "[honorary] [prev_real_name]"
 	H.name = "[honorary] [prev_name]"
 

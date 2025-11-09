@@ -1,8 +1,8 @@
 /datum/job/courtphys
 	title = "Court Physician"
-	tutorial = "One fateful evening at a royal banquet, your steady hand and sharp eye saved the royal bloodline. \
-	Now, you serve as the trusted healer of the crown, a living symbol of Pestra's favor. \
-	Your duty is clear: keep the monarch alive, no matter the cost."
+	tutorial = "Skilled in the arts of barber surgery, \
+	you are a hired hand to ensure that the Palace and its peoples are kept alive and well in case anything dire happens. \
+	It's through your hands that the Maggiore could be spared a terrible fate, or be cast off into whatever afterlife they believe in."
 	department_flag = NOBLEMEN
 	display_order = JDO_PHYSICIAN
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
@@ -11,7 +11,7 @@
 	spawn_positions = 1
 	min_pq = 0
 
-	allowed_races = RACES_PLAYER_COURT_PHYSICIAN
+	allowed_races = RACES_PLAYER_ALL
 
 	outfit = /datum/outfit/job/courtphys
 	give_bank_account = 100
