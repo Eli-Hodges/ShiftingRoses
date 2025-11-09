@@ -69,12 +69,12 @@
 		/datum/sprite_accessory/tail/tamamo_kitsune,
 		/datum/sprite_accessory/tail/tiger,
 		/datum/sprite_accessory/tail/wolf,
-//		/datum/sprite_accessory/tail/guilmon,		Clipping
+		/datum/sprite_accessory/tail/guilmon,
 		/datum/sprite_accessory/tail/sharknofin,
 		/datum/sprite_accessory/tail/raptor,
-//		/datum/sprite_accessory/tail/spade,			Clipping also should be tief exclusive.
-//		/datum/sprite_accessory/tail/leopard,		Clipping
-//		/datum/sprite_accessory/tail/deer,			Clipping
+		/datum/sprite_accessory/tail/spade,
+		/datum/sprite_accessory/tail/leopard,
+		/datum/sprite_accessory/tail/deer,
 		/datum/sprite_accessory/tail/raccoon,
 		/datum/sprite_accessory/tail/sabresune,
 		/datum/sprite_accessory/tail/lizard/smooth,
