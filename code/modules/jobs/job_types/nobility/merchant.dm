@@ -40,6 +40,7 @@
 	else
 		shirt = /obj/item/clothing/shirt/tunic/colored/blue
 		shoes = /obj/item/clothing/shoes/gladiator
+		pants = /obj/item/clothing/pants/skirt/colored/black
 
 	ADD_TRAIT(H, TRAIT_SEEPRICES, type)
 
