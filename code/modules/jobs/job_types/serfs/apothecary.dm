@@ -13,7 +13,7 @@
 	min_pq = 0
 	bypass_lastclass = TRUE
 
-	allowed_races = RACES_PLAYER_NONEXOTIC
+	allowed_races = RACES_PLAYER_ALL
 	outfit = /datum/outfit/job/apothecary
 	give_bank_account = 100
 	cmode_music = 'sound/music/cmode/nobility/combat_physician.ogg'

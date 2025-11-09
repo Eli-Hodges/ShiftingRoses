@@ -14,7 +14,7 @@
 	min_pq = -10
 	bypass_lastclass = TRUE
 
-	allowed_races = RACES_PLAYER_NONHERETICAL
+	allowed_races = RACES_PLAYER_ALL
 
 	outfit = /datum/outfit/job/undertaker
 	give_bank_account = TRUE

@@ -1,10 +1,10 @@
 /datum/job/adventurer/courtagent
-	title = "Court Agent"
-	tutorial = "Whether acquired by merit, shrewd negotiation or fulfilled bounties, \
-	you have found yourself under the underhanded employ of the Hand. \
-	Fulfill desires and whims of the court that they would rather not be publicly known. \
-	Your position is anything but secure, and any mistake can leave you disowned and charged like the petty criminal you are. \
-	Garrison and Court members know who you are."
+	title = "Nightlord Agent"
+	tutorial = "A secret codeword. A quick handshake. A flash of a subtle gaze. \
+	All of these are your keys to letting the Nightlord know you are one of theirs. \
+	An agent hired by the Palace to watch over the citizens as one of their own, \
+	you are there to blend into the crowd and report back any wrongdoings that might be transpiring. \
+	You are in invaluable to the protection of New Palmos, but be careful, as rats are considered disposable pests by many."
 	job_flags = (JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
 	total_positions = 0
 	spawn_positions = 2

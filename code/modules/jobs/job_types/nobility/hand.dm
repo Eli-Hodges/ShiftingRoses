@@ -1,11 +1,10 @@
 /datum/job/hand
 	title = "Hand"
-	tutorial = "You owe everything to your liege. \
-	You are the most trusted of the ruler- their ommer, in fact. \
-	You have played spymaster and confidant to the Noble-Family for so long that you are a vault of intrigue, \
-	something you exploit with potent conviction. Let no man ever forget whose ear you whisper into. \
-	You have killed more men with those lips than any blademaster could ever claim to.\
-	You can add and remove agents with your Frumentarii scroll"
+	tutorial = "A member of the Council of New Palmos, \
+	you are not the elected Maggiore this week. Whether asked, or by your own violation, \
+	you are here as the right hand man of the current elected Maggiore to ensure that New Palmos is running smoothly. \
+	As the Hand, you aid the Maggiore in whatever they require and in the most dire case scenario, take up their role if worst comes to worst. \
+	Whether you earned your place through skill or bribery, it's up to you now to help ensure the City survives another week."
 	department_flag = NOBLEMEN
 	display_order = JDO_HAND
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
@@ -18,7 +17,7 @@
 	min_pq = 0
 	bypass_lastclass = TRUE
 
-	allowed_races = RACES_PLAYER_ROYALTY
+	allowed_races = RACES_PLAYER_ALL
 
 	outfit = /datum/outfit/job/hand
 	advclass_cat_rolls = list(CTAG_HAND = 20)

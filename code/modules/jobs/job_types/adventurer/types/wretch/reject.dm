@@ -3,7 +3,7 @@
 	tutorial = "You were once a member of the royal family, but due to your actions, you have been cast out to roam the wilds. \
 	Now, you return, seeking redemption or perhaps... revenge."
 	allowed_sexes = list(MALE, FEMALE)
-	allowed_races = RACES_PLAYER_ROYALTY
+	allowed_races = RACES_PLAYER_ALL
 	maximum_possible_slots = 1
 	allowed_ages = list(AGE_ADULT, AGE_CHILD)
 	cmode_music = 'sound/music/cmode/nobility/combat_noble.ogg'

@@ -1,6 +1,6 @@
 /datum/advclass/pilgrim/woodcutter
 	name = "Woodcutter"
-	allowed_races = RACES_PLAYER_NONEXOTIC
+	allowed_races = RACES_PLAYER_ALL
 
 	outfit = /datum/outfit/job/adventurer/woodcutter
 	category_tags = list(CTAG_DISABLED)
