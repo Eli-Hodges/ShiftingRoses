@@ -1,5 +1,5 @@
 /datum/job/courtphys
-	title = "Court Physician"
+	title = "Palace Physician"
 	tutorial = "Skilled in the arts of barber surgery, \
 	you are a hired hand to ensure that the Palace and its peoples are kept alive and well in case anything dire happens. \
 	It's through your hands that the Maggiore could be spared a terrible fate, or be cast off into whatever afterlife they believe in."

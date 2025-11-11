@@ -116,23 +116,23 @@ INITIALIZE_IMMEDIATE(/obj/effect/landmark)
 	delete_after_roundstart = FALSE
 
 /obj/effect/landmark/start/lord
-	name = "Doge"
+	name = "Maggiore"
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/captain
-	name = "Captain"
+	name = "Master-At-Arms"
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/steward
-	name = "Steward"
+	name = "Paymaster"
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/magician
-	name = "Court Magician"
+	name = "Palace Magician"
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/courtphys
-	name = "Court Physician"
+	name = "Palace Physician"
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/guardsman
@@ -140,11 +140,11 @@ INITIALIZE_IMMEDIATE(/obj/effect/landmark)
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/manorguardsman
-	name = "Royal Knight"
+	name = "Signore"
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/veteran
-	name = "Veteran"
+	name = "Strongarm"
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/jailor
@@ -152,7 +152,7 @@ INITIALIZE_IMMEDIATE(/obj/effect/landmark)
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/dungeoneer
-	name = "Dungeoneer"
+	name = "Nightlord"
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/watchman
@@ -174,7 +174,7 @@ INITIALIZE_IMMEDIATE(/obj/effect/landmark)
 /obj/effect/landmark/start/villager
 	name = "Towner"
 	icon_state = "arrow"
-	jobspawn_override = list("Fisher","Noble","Hunter","Lumberjack","Miner","Bard","Carpenter","Cheesemaker")
+	jobspawn_override = list("Fisher","Hunter","Lumberjack","Miner","Bard","Carpenter","Cheesemaker")
 
 /obj/effect/landmark/start/cheesemaker
 	name = "Cheesemaker"
@@ -185,12 +185,12 @@ INITIALIZE_IMMEDIATE(/obj/effect/landmark)
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/priest
-	name = "Priest"
+	name = "Pontifex"
 	icon_state = "arrow"
 
 
 /obj/effect/landmark/start/monk
-	name = "Acolyte"
+	name = "Auger"
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/puritan
@@ -282,7 +282,7 @@ INITIALIZE_IMMEDIATE(/obj/effect/landmark)
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/minor_noble
-	name = "Noble"
+	name = "Noble Guest"
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/miner
@@ -314,7 +314,7 @@ INITIALIZE_IMMEDIATE(/obj/effect/landmark)
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/jester
-	name = "Jester"
+	name = "Giullare"
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/hand
@@ -322,7 +322,7 @@ INITIALIZE_IMMEDIATE(/obj/effect/landmark)
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/courtagent
-	name = "Court Agent"
+	name = "Nightlord Agent"
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/hunter
@@ -350,7 +350,7 @@ INITIALIZE_IMMEDIATE(/obj/effect/landmark)
 	icon_state = "arrow"
 
 /obj/effect/landmark/start/gaffer
-	name = "Gaffer"
+	name = "Free Company Sergeant"
 	icon_state = "arrow"
 //yrf
 
