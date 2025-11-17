@@ -31,5 +31,12 @@
                 "bugfix": "fixed some classes not getting their pants/shirts/proper clothing"
             }
         ]
+    },
+    "2025-11-17": {
+        "AllCorruptingWyrm": [
+            {
+                "rscadd": "Enables Patreon for everyone."
+            }
+        ]
     }
 }
