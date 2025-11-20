@@ -11,5 +11,4 @@
 /icons/ @AllCorruptingWyrm
 
 # hermaplusplus
-/config/* @hermaplusplus
-/config/roguetown/ @hermaplusplus
+/config/ @hermaplusplus
