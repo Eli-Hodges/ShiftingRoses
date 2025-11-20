@@ -2258,7 +2258,7 @@
 /obj/structure/stairs/stone{
 	dir = 8
 	},
-/turf/open/transparent/openspace,
+/turf/open/floor/churchbrick,
 /area/rogue/indoors/town/bath)
 "bnX" = (
 /obj/structure/fluff/walldeco/feldshersign,
