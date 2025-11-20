@@ -1,6 +1,6 @@
 /datum/job/priest
-	title = "Priest"
-	f_title = "Priestess"
+	title = "Pontifex"
+	f_title = "Pontifex"
 	tutorial = "You are a devoted follower of Astrata. \
 	The divine is all that matters in an immoral world. \
 	The Sun Queen and her pantheon rule over all, and you will preach their wisdom to the Island. \
@@ -16,7 +16,7 @@
 	selection_color = "#c2a45d"
 	cmode_music = 'sound/music/cmode/church/CombatAstrata.ogg'
 
-	allowed_races = RACES_PLAYER_NONDISCRIMINATED
+	allowed_races = RACES_PLAYER_ALL
 
 	outfit = /datum/outfit/job/priest
 	spells = list(

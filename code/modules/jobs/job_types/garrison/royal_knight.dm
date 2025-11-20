@@ -1,9 +1,12 @@
 /datum/job/royalknight
-	title = "Royal Knight"
-	tutorial = "You are a knight of the royal garrison, elevated by your skill and steadfast devotion. \
-	Sworn to protect the royal family, you stand as their shield, upholding their rule with steel and sacrifice. \
-	Yet service is not without its trials, and your loyalty will be tested in ways both seen and unseen. \
-	In the end, duty is a path you must walk carefully."
+	title = "Cavaliere"
+	tutorial = "You are a Cavaliere, the City-State term for a Royal Knight. \
+	In spite of the City States being primarily republics, \
+	loyal soldiers and family members to high ranking officials were awarded with titles akin to nobility, \
+	and you are no exception. Whether you come from the City States, \
+	or were a Knight from some other land who was honored in New Palmos, \
+	you are the single most loyal individuals to the Palace besides the Master-At-Arms himself. \
+	Protect the City and its peoples from whatever might bring them harm."
 	department_flag = GARRISON
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
 	display_order = JDO_ROYALKNIGHT
@@ -14,8 +17,8 @@
 	bypass_lastclass = TRUE
 	selection_color = "#920909"
 
-	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_IMMORTAL)
-	allowed_races = RACES_PLAYER_NONDISCRIMINATED
+	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
+	allowed_races = RACES_PLAYER_ALL
 
 	advclass_cat_rolls = list(CTAG_ROYALKNIGHT = 20)
 	give_bank_account = 60

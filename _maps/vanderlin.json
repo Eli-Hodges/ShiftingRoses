@@ -3,8 +3,8 @@
 	"map_path": "map_files/vanderlin",
 	"map_file": "vanderlin.dmm",
 	"immigrant_origin": "Temporal Lands",
-	"monarch_title": "Grant Doge",
-	"monarch_title_f": "Grand Doge",
+	"monarch_title": "Maggiore",
+	"monarch_title_f": "Maggiore",
 	"traits": [
 		{"Up": true, "Turf Weather Effects": true, "Cellar": true},
 		{"Up": true, "Down": true, "Turf Weather Effects": true, "Leylines": true},

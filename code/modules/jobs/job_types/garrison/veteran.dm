@@ -1,10 +1,11 @@
 /datum/job/veteran
-	title = "Veteran"
-	tutorial = "There isn't a way to kill a man you havent practiced in the tapestries of war itself. \
-	You wouldn't call yourself a hero-- \
-	those belong to the men left rotting in the fields where you honed your ancient trade. \
-	Tired of senseless killing for men with crowns, you traded stability for a life of adventure. You returned a hero and savior of the lands, but those glory days with your old adventurer party are long gone. \
-	The honor has faded, your weary body aches, and your weapons gather dust. Sometimes you wonder how your old friends are doing."
+	title = "Strongarm"
+	tutorial = "You know every which way to swing a blade, all manners of how to gut someone with a spear, \
+	and exactly how to cleave something in twain with an axe. \
+	The tapestry of your bloody rise to prominence is painted on the notches of your weapons. \
+	However you rose to be as skilled as you are, your veterancy is combat has earned you into the employ of the Maggiore as a Strongarm; \
+	a proverbial and literal title meant to ensure both the safety of the City and also that the Maggiore gets what they want. \
+	Ensure that the City, and the Palace, are defended by threats both interior and exterior."
 	department_flag = GARRISON
 	display_order = JDO_VET
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
@@ -17,7 +18,7 @@
 	spells = list(/datum/action/cooldown/spell/undirected/list_target/convert_role/militia)
 	allowed_sexes = list(MALE, FEMALE) //same as town guard
 	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED, AGE_OLD, AGE_IMMORTAL)
-	allowed_races = RACES_PLAYER_NONDISCRIMINATED
+	allowed_races = RACES_PLAYER_ALL
 
 	advclass_cat_rolls = list(CTAG_VETERAN = 20)
 	give_bank_account = 35

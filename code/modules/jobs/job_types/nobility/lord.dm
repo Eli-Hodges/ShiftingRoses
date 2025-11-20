@@ -2,13 +2,13 @@ GLOBAL_VAR(lordsurname)
 GLOBAL_LIST_EMPTY(lord_titles)
 
 /datum/job/lord
-	title = "Doge"
-	var/ruler_title = "Doge"
-	tutorial = "Elevated to your throne through a web of intrigue, political maneuvering, and divine sanction, you are the \
-	unquestioned authority of these lands. The Church has bestowed upon you the legitimacy of the gods themselves, and now \
-	you sit at the center of every plot, and every whisper of ambition. Every man, woman, and child may envy your power and \
-	would replace you in the blink of an eye. But remember, its not envy that keeps you in place, it is your will. Show them \
-	the error of their ways."
+	title = "Maggiore"
+	var/ruler_title = "Maggiore"
+	tutorial = "A member of the Council of New Palmos elected to take overall lead on the daily governance of the City for this week, \
+	you have the thankless role of being the figurehead to which everyone looks to whenever something goes right- or wrong. Your place on the council was earned, \
+	whether by strength of character, sharpness of wits, or weight of coin, and it is also through any of these were you voted to your place. The dangers of the Temporal Lands are endless, \
+	whether exterior threats or interior plots, your position will always be eyed by those seeking to either advance their own goals, or tear the City down. \
+	Show them why the Council trusted you to lead."
 	department_flag = NOBLEMEN
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
 	display_order = JDO_LORD
@@ -22,7 +22,7 @@ GLOBAL_LIST_EMPTY(lord_titles)
 		/datum/action/cooldown/spell/undirected/list_target/grant_nobility,
 	)
 
-	allowed_races = RACES_PLAYER_ROYALTY
+	allowed_races = RACES_PLAYER_ALL
 	outfit = /datum/outfit/job/lord
 	bypass_lastclass = TRUE
 	give_bank_account = 500
@@ -117,7 +117,7 @@ GLOBAL_LIST_EMPTY(lord_titles)
 	ADD_TRAIT(H, TRAIT_KNOWKEEPPLANS, TRAIT_GENERIC)
 
 /datum/job/exlord //just used to change the lords title
-	title = "Ex-Doge"
+	title = "Ex-Maggiore"
 	department_flag = NOBLEMEN
 	faction = FACTION_TOWN
 	total_positions = 0

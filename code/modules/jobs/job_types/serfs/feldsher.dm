@@ -12,7 +12,7 @@
 	spawn_positions = 2
 	min_pq = 0
 
-	allowed_races = RACES_PLAYER_NONEXOTIC
+	allowed_races = RACES_PLAYER_ALL
 
 	outfit = /datum/outfit/job/feldsher
 	give_bank_account = 100

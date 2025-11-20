@@ -1,8 +1,8 @@
 /datum/job/captain
-	title = "Captain"
-	tutorial = "Law and Order, your divine reason for existence. \
-	You have been given command over the garrison to help keep order and peace within the city, \
-	and defend it against the many dangers of the peninsula."
+	title = "Master-At-Arms"
+	tutorial = "Skilled in all manner of weaponry and knowledgeable on justice and laws, you earned your title through grit and determination.\
+	 Now it has gotten you a spot as arguably the first line of defense against any that would threaten the Palace and New Palmos. \
+	 Yet you are all prepared for what will come, and you will persevere as you always have."
 	department_flag = NOBLEMEN
 	display_order = JDO_CAPTAIN
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
@@ -12,7 +12,7 @@
 	min_pq = 0
 	bypass_lastclass = TRUE
 
-	allowed_races = RACES_PLAYER_NONDISCRIMINATED
+	allowed_races = RACES_PLAYER_ALL
 
 	outfit = /datum/outfit/job/captain
 	spells = list(/datum/action/cooldown/spell/undirected/list_target/convert_role/guard)
