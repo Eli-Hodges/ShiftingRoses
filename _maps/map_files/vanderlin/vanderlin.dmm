@@ -5446,12 +5446,6 @@
 	},
 /turf/open/transparent/openspace,
 /area/rogue/outdoors/town/roofs)
-"dqe" = (
-/obj/structure/stairs/stone{
-	dir = 1
-	},
-/turf/open/transparent/openspace,
-/area/rogue/indoors/town/bath)
 "dqq" = (
 /obj/structure/fluff/railing/border,
 /turf/open/floor/cobble,
@@ -165398,7 +165392,7 @@ vgJ
 bqO
 erA
 oWt
-dqe
+kCH
 kCH
 kCH
 suw
@@ -165600,7 +165594,7 @@ vgJ
 erA
 erA
 oWt
-dqe
+kCH
 kCH
 kCH
 suw
@@ -165802,7 +165796,7 @@ vgJ
 erA
 erA
 oWt
-dqe
+kCH
 kCH
 kCH
 suw
