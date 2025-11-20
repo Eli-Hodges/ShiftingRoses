@@ -82,12 +82,45 @@
 	importexport_amt = 20
 	stockpile_id = STOCK_FOOD
 
+/datum/stock/stockpile/egg
+	name = "Eggs"
+	desc = "Also known as cackleberries amongst the peasants."
+	item_type = /obj/item/reagent_containers/food/snacks/egg
+	held_items = 5
+	payout_price = 4
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/butter
+	name = "Butter"
+	desc = "Just a stick of butter."
+	item_type = /obj/item/reagent_containers/food/snacks/butter
+	held_items = 5
+	payout_price = 4
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/freshcheese
+	name = "Cheese"
+	desc = "A ball of soft, fresh cheese."
+	item_type = /obj/item/reagent_containers/food/snacks/cheese
+	held_items = 5
+	payout_price = 4
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
 /datum/stock/stockpile/grain
 	name = "Grain"
 	desc = "Wheat grains primed for milling."
 	item_type = /obj/item/reagent_containers/food/snacks/produce/grain/wheat
 	held_items = 5
-	payout_price = 2
+	payout_price = 3
 	withdraw_price = 6
 	export_price = 5
 	importexport_amt = 20
@@ -98,7 +131,7 @@
 	desc = "Oat grains primed for milling."
 	item_type = /obj/item/reagent_containers/food/snacks/produce/grain/oat
 	held_items = 5
-	payout_price = 2
+	payout_price = 3
 	withdraw_price = 6
 	export_price = 5
 	importexport_amt = 20
@@ -108,10 +141,10 @@
 	name = "Turnips"
 	desc = "A hearty root vegetable fit for soup."
 	item_type = /obj/item/reagent_containers/food/snacks/produce/vegetable/turnip
-	held_items = 2
-	payout_price = 2
-	withdraw_price = 5
-	export_price = 4
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
 	importexport_amt = 20
 	stockpile_id = STOCK_FOOD
 
@@ -119,12 +152,190 @@
 	name = "Potatoes"
 	desc = "A reliable if tough vegetable of Dwarven popularity."
 	item_type = /obj/item/reagent_containers/food/snacks/produce/vegetable/potato
-	held_items = 2
-	payout_price = 2
+	held_items = 5
+	payout_price = 3
 	withdraw_price = 6
 	export_price = 5
 	importexport_amt = 20
 	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/onion
+	name = "Onions"
+	desc = "A wonderful vegetable with many layers and a broad flavor profile."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/vegetable/onion
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+
+/datum/stock/stockpile/coffee
+	name = "Coffee"
+	desc = "A staple of New Palmos, not yet roasted."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/coffeebeans
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/tea
+	name = "Dried Tea Leaves"
+	desc = "Dried, edible tea leaves that still need to be ground before use."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/tealeaves_dry
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/apple
+	name = "Apples"
+	desc = "A shiny red apple, for cooking, brewing, and consumption."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/fruit/apple
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/strawberry
+	name = "Strawberries"
+	desc = "The shiny, sweet fruit of the summer."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/fruit/strawberry
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/raspberry
+	name = "Raspberries"
+	desc = "Sweet red fruit, fresh from the vine."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/fruit/raspberry
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/blackberry
+	name = "Blackberries"
+	desc = "Delectable black fruits."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/fruit/blackberry
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/jackberry
+	name = "Jackberries"
+	desc = "The most common berry across the world."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/fruit/jacksberry
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/pear
+	name = "Pears"
+	desc = "Too sweet for many, a favored treat for little ones. Dwarves do love them."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/fruit/pear
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/lemon
+	name = "Lemons"
+	desc = "A sleep alternative for those determined enough."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/fruit/lemon
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/lime
+	name = "Limes"
+	desc = "Along with its other citrus cousins, limes are well loved by sailors and seafolk for their ability to keep and stave off scurvy."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/fruit/lime
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/tangerine
+	name = "Tangerines"
+	desc = "A citrus fruit loved by kids for its peelablity and more mild sweetness compared to limes and lemons."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/fruit/tangerine
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/plum
+	name = "Plums"
+	desc = "A fruit with a large seed in the middle. Its blossoms are enjoyed in the spring, and its fruits in the summer."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/fruit/plum
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/sugarcane
+	name = "Sugarcane"
+	desc = "A crop best suited for a warmer climate, raw sugar cane is considered a sweet snack by some sea elves."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/sugarcane
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/poppy
+	name = "Poppies"
+	desc = "For their crimson beauty and the sedating effect of their crushed seeds, these flowers are considered a symbol of Eora."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/poppy
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
+/datum/stock/stockpile/sunflower
+	name = "Sunflowers"
+	desc = "A bright flow, face turned always towards the sun."
+	item_type = /obj/item/reagent_containers/food/snacks/produce/sunflower
+	held_items = 5
+	payout_price = 3
+	withdraw_price = 6
+	export_price = 5
+	importexport_amt = 20
+	stockpile_id = STOCK_FOOD
+
 
 /datum/stock/stockpile/coal
 	name = "Coal"
@@ -191,3 +402,4 @@
 	export_price = 30
 	importexport_amt = 5
 	stockpile_id = STOCK_METAL
+
