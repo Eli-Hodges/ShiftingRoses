@@ -2458,6 +2458,10 @@
 	dir = 8
 	},
 /area/rogue/outdoors/town/roofs)
+"bvz" = (
+/obj/effect/landmark/start/adventurerlate,
+/turf/open/floor/dirt/road,
+/area/rogue/outdoors/rtfield/safe)
 "bvE" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/dirt/dust,
@@ -23685,8 +23689,8 @@
 /area/rogue/outdoors/river)
 "ozs" = (
 /obj/effect/landmark/latejoin,
-/turf/open/floor/ruinedwood/spiral,
-/area/rogue/outdoors/river)
+/turf/open/floor/herringbone,
+/area/rogue/under/town/caverogue)
 "ozt" = (
 /obj/structure/fluff/walldeco/church/line{
 	dir = 8
@@ -25689,7 +25693,7 @@
 /turf/open/floor/blocks,
 /area/rogue/under/dungeon)
 "pQx" = (
-/obj/structure/gate/bars{
+/obj/structure/gate/bars/preopen{
 	gid = "keepgatenorth";
 	redstone_id = "keepgatenorth"
 	},
@@ -82106,8 +82110,8 @@ xYa
 xYa
 xYa
 jhz
-ozs
-ozs
+kRP
+kRP
 kRP
 cjt
 ksw
@@ -93692,7 +93696,7 @@ khJ
 jFg
 owH
 owH
-owH
+ozs
 owH
 aej
 qMe
@@ -93894,7 +93898,7 @@ khJ
 qMA
 lFb
 owH
-owH
+ozs
 owH
 qRt
 qMe
@@ -101013,8 +101017,8 @@ eNj
 nlp
 nlp
 nlp
-fYR
-fYR
+bvz
+bvz
 fYR
 fYR
 fYR
