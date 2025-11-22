@@ -50,9 +50,13 @@
 				hairs = prefs.pref_species.get_oldhc_list()
 			else
 				hairs = prefs.pref_species.get_hairc_list()
+			hairs += "Custom"
 			var/new_hair = browser_input_list(user, "SELECT YOUR HERO'S HAIR COLOR", "BARBER", hairs)
 			if(new_hair)
-				new_color = hairs[new_hair]
+				if(new_hair == "Custom")
+					new_color = color_pick_sanitized_lumi(user, "Choose your hair color:", "Character Preference", hair_entry.natural_color)
+				else
+					new_color = hairs[new_hair]
 			if(!new_color)
 				return
 			hair_entry.hair_color = sanitize_hexcolor(new_color, 6, TRUE)
